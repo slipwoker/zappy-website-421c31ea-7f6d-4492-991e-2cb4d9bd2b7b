@@ -1,79 +1,89 @@
-# Business — Generative Engine Optimization Map
+# Valesų gerovė — Generative Engine Optimization Map
+
+> Valesų gerovė is a unique Lithuanian wellness brand that bridges ancient Baltic traditions with cutting-edge biohacking technology. The brand creates a mystical 'Ancient-Future' experience, combining traditional forest remedies (like Chaga tinctures and birch bud extracts) with modern science-backed supplements and wearable health devices. The aesthetic merges deep Baltic forest imagery with digital neural networks and bio-luminescent accents, creating a distinctive dual-pathway shopping experience that respects Lithuanian heritage while embracing technological innovation.
 
 ---
 
 ## Pages
 
 ### Home
-https://example.com
+https://valesu-gerove.zappy5.app
 Ancient Baltic remedies meet cutting-edge biohacking. Explore top nootropics 2022, herbal tinctures, and wearable health tech for peak performance.
 
 ### About
-https://example.com/about
+https://valesu-gerove.zappy5.app/about
 We blend centuries-old Lithuanian forest remedies with modern biohacking science. Discover our unique Ancient-Future wellness philosophy and heritage.
 
 ### Science
-https://example.com/science
+https://valesu-gerove.zappy5.app/science
 Science-backed supplements and alpha brain reddit insights. Explore clinical research behind our Chaga tinctures, nootropics, and biohacking innovations.
 
 ### Contact
-https://example.com/contact
+https://valesu-gerove.zappy5.app/contact
 Ready to optimize your wellness? Connect with our biohacking experts for personalized guidance on nootropics, herbal tinctures, and health technology.
 
 ### Products
-https://example.com/products
+https://valesu-gerove.zappy5.app/products
 Our Products - Valesų gerovė
 
 ### Cart
-https://example.com/cart
+https://valesu-gerove.zappy5.app/cart
 Your Cart
 
 ### Checkout
-https://example.com/checkout
+https://valesu-gerove.zappy5.app/checkout
 Checkout
 
 ### Login
-https://example.com/login
+https://valesu-gerove.zappy5.app/login
 Customer Login
 
 ### Account
-https://example.com/account
+https://valesu-gerove.zappy5.app/account
 My Account
 
 ### Order Success
-https://example.com/order-success
+https://valesu-gerove.zappy5.app/order-success
 Thank you for your order
 
 ### Product Detail
-https://example.com/product/:slug
+https://valesu-gerove.zappy5.app/product/:slug
 Product Details - Valesų gerovė
 
 ### Category
-https://example.com/category/:slug
+https://valesu-gerove.zappy5.app/category/:slug
 Products - Valesų gerovė
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://valesu-gerove.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://valesu-gerove.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://valesu-gerove.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About Valesų gerovė
+Valesų gerovė is a unique Lithuanian wellness brand that bridges ancient Baltic traditions with cutting-edge biohacking technology. The brand creates a mystical 'Ancient-Future' experience, combining traditional forest remedies (like Chaga tinctures and birch bud extracts) with modern science-backed supplements and wearable health devices. The aesthetic merges deep Baltic forest imagery with digital neural networks and bio-luminescent accents, creating a distinctive dual-pathway shopping experience that respects Lithuanian heritage while embracing technological innovation.
+
+## Target Audience
+Lithuanian market interested in ancient wisdom and modern biohacking
+
+## Industry
+wellness and biohacking
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://valesu-gerove.zappy5.app/sitemap.xml
+- **Robots.txt**: https://valesu-gerove.zappy5.app/robots.txt
