@@ -1,99 +1,292 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://valesugerove.lt</loc>
     <lastmod>2026-03-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valesugerove.lt" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://valesugerove.lt/de" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://valesugerove.lt" />
+  </url>
+  <url>
+    <loc>https://valesugerove.lt/de</loc>
+    <lastmod>2026-03-14</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valesugerove.lt" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://valesugerove.lt/de" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://valesugerove.lt" />
   </url>
   <url>
     <loc>https://valesugerove.lt/about</loc>
     <lastmod>2026-03-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valesugerove.lt/about" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://valesugerove.lt/de/about" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://valesugerove.lt/about" />
+  </url>
+  <url>
+    <loc>https://valesugerove.lt/de/about</loc>
+    <lastmod>2026-03-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valesugerove.lt/about" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://valesugerove.lt/de/about" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://valesugerove.lt/about" />
   </url>
   <url>
     <loc>https://valesugerove.lt/science</loc>
     <lastmod>2026-03-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valesugerove.lt/science" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://valesugerove.lt/de/science" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://valesugerove.lt/science" />
+  </url>
+  <url>
+    <loc>https://valesugerove.lt/de/science</loc>
+    <lastmod>2026-03-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valesugerove.lt/science" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://valesugerove.lt/de/science" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://valesugerove.lt/science" />
   </url>
   <url>
     <loc>https://valesugerove.lt/contact</loc>
     <lastmod>2026-03-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valesugerove.lt/contact" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://valesugerove.lt/de/contact" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://valesugerove.lt/contact" />
+  </url>
+  <url>
+    <loc>https://valesugerove.lt/de/contact</loc>
+    <lastmod>2026-03-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valesugerove.lt/contact" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://valesugerove.lt/de/contact" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://valesugerove.lt/contact" />
   </url>
   <url>
     <loc>https://valesugerove.lt/products</loc>
     <lastmod>2026-03-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valesugerove.lt/products" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://valesugerove.lt/de/products" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://valesugerove.lt/products" />
+  </url>
+  <url>
+    <loc>https://valesugerove.lt/de/products</loc>
+    <lastmod>2026-03-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valesugerove.lt/products" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://valesugerove.lt/de/products" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://valesugerove.lt/products" />
   </url>
   <url>
     <loc>https://valesugerove.lt/cart</loc>
     <lastmod>2026-03-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valesugerove.lt/cart" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://valesugerove.lt/de/cart" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://valesugerove.lt/cart" />
+  </url>
+  <url>
+    <loc>https://valesugerove.lt/de/cart</loc>
+    <lastmod>2026-03-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valesugerove.lt/cart" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://valesugerove.lt/de/cart" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://valesugerove.lt/cart" />
   </url>
   <url>
     <loc>https://valesugerove.lt/checkout</loc>
     <lastmod>2026-03-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valesugerove.lt/checkout" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://valesugerove.lt/de/checkout" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://valesugerove.lt/checkout" />
+  </url>
+  <url>
+    <loc>https://valesugerove.lt/de/checkout</loc>
+    <lastmod>2026-03-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valesugerove.lt/checkout" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://valesugerove.lt/de/checkout" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://valesugerove.lt/checkout" />
   </url>
   <url>
     <loc>https://valesugerove.lt/login</loc>
     <lastmod>2026-03-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valesugerove.lt/login" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://valesugerove.lt/de/login" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://valesugerove.lt/login" />
+  </url>
+  <url>
+    <loc>https://valesugerove.lt/de/login</loc>
+    <lastmod>2026-03-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valesugerove.lt/login" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://valesugerove.lt/de/login" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://valesugerove.lt/login" />
   </url>
   <url>
     <loc>https://valesugerove.lt/account</loc>
     <lastmod>2026-03-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valesugerove.lt/account" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://valesugerove.lt/de/account" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://valesugerove.lt/account" />
+  </url>
+  <url>
+    <loc>https://valesugerove.lt/de/account</loc>
+    <lastmod>2026-03-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valesugerove.lt/account" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://valesugerove.lt/de/account" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://valesugerove.lt/account" />
   </url>
   <url>
     <loc>https://valesugerove.lt/order-success</loc>
     <lastmod>2026-03-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valesugerove.lt/order-success" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://valesugerove.lt/de/order-success" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://valesugerove.lt/order-success" />
+  </url>
+  <url>
+    <loc>https://valesugerove.lt/de/order-success</loc>
+    <lastmod>2026-03-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valesugerove.lt/order-success" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://valesugerove.lt/de/order-success" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://valesugerove.lt/order-success" />
   </url>
   <url>
     <loc>https://valesugerove.lt/product/:slug</loc>
     <lastmod>2026-03-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valesugerove.lt/product/:slug" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://valesugerove.lt/de/product/:slug" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://valesugerove.lt/product/:slug" />
+  </url>
+  <url>
+    <loc>https://valesugerove.lt/de/product/:slug</loc>
+    <lastmod>2026-03-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valesugerove.lt/product/:slug" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://valesugerove.lt/de/product/:slug" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://valesugerove.lt/product/:slug" />
   </url>
   <url>
     <loc>https://valesugerove.lt/category/:slug</loc>
     <lastmod>2026-03-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valesugerove.lt/category/:slug" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://valesugerove.lt/de/category/:slug" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://valesugerove.lt/category/:slug" />
+  </url>
+  <url>
+    <loc>https://valesugerove.lt/de/category/:slug</loc>
+    <lastmod>2026-03-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valesugerove.lt/category/:slug" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://valesugerove.lt/de/category/:slug" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://valesugerove.lt/category/:slug" />
   </url>
   <url>
     <loc>https://valesugerove.lt/thank-you</loc>
     <lastmod>2026-03-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valesugerove.lt/thank-you" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://valesugerove.lt/de/thank-you" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://valesugerove.lt/thank-you" />
+  </url>
+  <url>
+    <loc>https://valesugerove.lt/de/thank-you</loc>
+    <lastmod>2026-03-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valesugerove.lt/thank-you" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://valesugerove.lt/de/thank-you" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://valesugerove.lt/thank-you" />
   </url>
   <url>
     <loc>https://valesugerove.lt/privacy</loc>
     <lastmod>2026-03-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valesugerove.lt/privacy" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://valesugerove.lt/de/privacy" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://valesugerove.lt/privacy" />
+  </url>
+  <url>
+    <loc>https://valesugerove.lt/de/privacy</loc>
+    <lastmod>2026-03-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valesugerove.lt/privacy" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://valesugerove.lt/de/privacy" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://valesugerove.lt/privacy" />
   </url>
   <url>
     <loc>https://valesugerove.lt/terms</loc>
     <lastmod>2026-03-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valesugerove.lt/terms" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://valesugerove.lt/de/terms" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://valesugerove.lt/terms" />
+  </url>
+  <url>
+    <loc>https://valesugerove.lt/de/terms</loc>
+    <lastmod>2026-03-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valesugerove.lt/terms" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://valesugerove.lt/de/terms" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://valesugerove.lt/terms" />
   </url>
   <url>
     <loc>https://valesugerove.lt/accessibility</loc>
     <lastmod>2026-03-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valesugerove.lt/accessibility" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://valesugerove.lt/de/accessibility" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://valesugerove.lt/accessibility" />
+  </url>
+  <url>
+    <loc>https://valesugerove.lt/de/accessibility</loc>
+    <lastmod>2026-03-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valesugerove.lt/accessibility" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://valesugerove.lt/de/accessibility" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://valesugerove.lt/accessibility" />
   </url>
 </urlset>
