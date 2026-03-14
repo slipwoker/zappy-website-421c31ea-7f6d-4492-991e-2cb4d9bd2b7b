@@ -5,65 +5,65 @@
 ## Pages
 
 ### Home
-https://valesu-gerove.zappy5.app
+https://valesugerove.lt
 Ancient Baltic remedies meet cutting-edge biohacking. Explore top nootropics 2022, herbal tinctures, and wearable health tech for peak performance.
 
 ### About
-https://valesu-gerove.zappy5.app/about
+https://valesugerove.lt/about
 We blend centuries-old Lithuanian forest remedies with modern biohacking science. Discover our unique Ancient-Future wellness philosophy and heritage.
 
 ### Science
-https://valesu-gerove.zappy5.app/science
+https://valesugerove.lt/science
 Science-backed supplements and alpha brain reddit insights. Explore clinical research behind our Chaga tinctures, nootropics, and biohacking innovations.
 
 ### Contact
-https://valesu-gerove.zappy5.app/contact
+https://valesugerove.lt/contact
 Ready to optimize your wellness? Connect with our biohacking experts for personalized guidance on nootropics, herbal tinctures, and health technology.
 
 ### Products
-https://valesu-gerove.zappy5.app/products
+https://valesugerove.lt/products
 Our Products - Valesų gerovė
 
 ### Cart
-https://valesu-gerove.zappy5.app/cart
+https://valesugerove.lt/cart
 Your Cart
 
 ### Checkout
-https://valesu-gerove.zappy5.app/checkout
+https://valesugerove.lt/checkout
 Checkout
 
 ### Login
-https://valesu-gerove.zappy5.app/login
+https://valesugerove.lt/login
 Customer Login
 
 ### Account
-https://valesu-gerove.zappy5.app/account
+https://valesugerove.lt/account
 My Account
 
 ### Order Success
-https://valesu-gerove.zappy5.app/order-success
+https://valesugerove.lt/order-success
 Thank you for your order
 
 ### Product Detail
-https://valesu-gerove.zappy5.app/product/:slug
+https://valesugerove.lt/product/:slug
 Product Details - Valesų gerovė
 
 ### Category
-https://valesu-gerove.zappy5.app/category/:slug
+https://valesugerove.lt/category/:slug
 Products - Valesų gerovė
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://valesu-gerove.zappy5.app/privacy
+https://valesugerove.lt/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://valesu-gerove.zappy5.app/terms
+https://valesugerove.lt/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://valesu-gerove.zappy5.app/accessibility
+https://valesugerove.lt/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -75,5 +75,5 @@ Information about WCAG compliance and accessibility features.
 
 # Additional Resources
 
-- **Sitemap**: https://valesu-gerove.zappy5.app/sitemap.xml
-- **Robots.txt**: https://valesu-gerove.zappy5.app/robots.txt
+- **Sitemap**: https://valesugerove.lt/sitemap.xml
+- **Robots.txt**: https://valesugerove.lt/robots.txt
