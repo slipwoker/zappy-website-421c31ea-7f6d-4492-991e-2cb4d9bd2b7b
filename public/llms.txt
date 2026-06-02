@@ -1,4 +1,6 @@
-# Business — Generative Engine Optimization Map
+# Valesų gerovė — Generative Engine Optimization Map
+
+> Valesų gerovė is a unique Lithuanian wellness brand that bridges ancient Baltic traditions with cutting-edge biohacking technology. The brand creates a mystical 'Ancient-Future' experience, combining traditional forest remedies (like Chaga tinctures and birch bud extracts) with modern science-backed supplements and wearable health devices. The aesthetic merges deep Baltic forest imagery with digital neural networks and bio-luminescent accents, creating a distinctive dual-pathway shopping experience that respects Lithuanian heritage while embracing technological innovation.
 
 ---
 
@@ -72,12 +74,29 @@ Information about WCAG compliance and accessibility features.
 
 ---
 
-# Business Context (for LLM understanding)
+## Products
 
-## About Business
+_No products are currently configured._
+
 ---
 
-# Additional Resources
+# Business Context (for LLM understanding)
 
-- **Sitemap**: https://valesugerove.lt/sitemap.xml
-- **Robots.txt**: https://valesugerove.lt/robots.txt
+## About Valesų gerovė
+Valesų gerovė is a unique Lithuanian wellness brand that bridges ancient Baltic traditions with cutting-edge biohacking technology. The brand creates a mystical 'Ancient-Future' experience, combining traditional forest remedies (like Chaga tinctures and birch bud extracts) with modern science-backed supplements and wearable health devices. The aesthetic merges deep Baltic forest imagery with digital neural networks and bio-luminescent accents, creating a distinctive dual-pathway shopping experience that respects Lithuanian heritage while embracing technological innovation.
+
+## Target Audience
+Lithuanian market interested in ancient wisdom and modern biohacking
+
+## Industry
+wellness and biohacking
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://valesugerove.lt/sitemap.xml
+- Robots: https://valesugerove.lt/robots.txt
+- Flattened page text (for LLMs): https://valesugerove.lt/llms-full.txt
+- Products (JSON): https://valesugerove.lt/products.json
+- Products (Google Merchant RSS): https://valesugerove.lt/product-feed.xml
