@@ -4547,40 +4547,46 @@ We collect the following categories of personal data:
 We do not ask for health or special-category data. Please do not include health information or any other sensitive personal data in contact forms or order notes.
 
 
-## 3. Information Sharing
+## 3. Purposes and Legal Bases (GDPR Art. 6)
 
 
-We do not sell, rent or share your personal information with third parties, except in the following cases:
+We process your personal data only where we have a lawful basis to do so:
 
 
-- With your explicit consent
+- Processing and fulfilling your order — legal basis: performance of a contract with you (Art. 6(1)(b) GDPR).
 
-- When required by law
+- Accounting and tax records — legal basis: compliance with a legal obligation (Art. 6(1)(c) GDPR), in particular Lithuanian accounting and tax legislation.
 
-- To protect our rights or user safety
+- Answering your enquiries — legal basis: our legitimate interest in responding to customers and potential customers (Art. 6(1)(f) GDPR), or pre-contractual steps at your request (Art. 6(1)(b) GDPR). See Section 7 for your right to object.
 
-- With service providers who assist in operating the service (under confidentiality agreements)
+- Newsletter and marketing emails — legal basis: your consent (Art. 6(1)(a) GDPR). You may withdraw your consent at any time by clicking the unsubscribe link in any email or by writing to us. Withdrawal of consent does not affect the lawfulness of any processing carried out before the withdrawal.
 
+- Analytics and non-essential cookies — legal basis: your consent (Art. 6(1)(a) GDPR), given through our cookie banner. See Section 8 for details.
 
-
-
-## 4. User Rights
-
-
-In accordance with Israeli Privacy Protection Law 1981, you have the following rights:
+- Fraud prevention and security — legal basis: our legitimate interest in protecting our business and customers (Art. 6(1)(f) GDPR). See Section 7 for your right to object.
 
 
-- Right to access personal information stored about you
-
-- Right to correct inaccurate or incomplete information
-
-- Right to delete personal information in certain circumstances
-
-- Right to object to information processing for marketing purposes
-
-- Right to file a complaint with the Data Protection Authority
 
 
+## 4. Recipients of Your Data
+
+
+We share your personal data only where necessary, with the following categories of recipients:
+
+
+- Website platform and hosting provider — for operating and maintaining the website.
+
+- Payment providers: Mollie and PayPal — to process your payment securely. These providers have their own privacy policies.
+
+- Carriers and logistics providers — to deliver your order to the address you specify.
+
+- Our accountant — to fulfil our accounting and tax obligations.
+
+- Our business email provider — for sending transactional and marketing emails.
+
+
+
+We do not sell, rent or otherwise trade your personal data to third parties.
 
 
 ## 5. Cookies
