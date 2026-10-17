@@ -46,6 +46,7 @@
       "new_p_139": "We do not have a formally designated Data Protection Officer. All data protection queries should be directed to us directly:",
       "new_p_141": "<strong>We do not ask for health or special-category data.</strong> Please do not include health information or any other sensitive personal data in contact forms or order notes.",
       "new_p_144": "<strong>We do not sell, rent or otherwise trade your personal data to third parties.</strong>",
+      "new_p_156": "You also have the right to lodge a complaint with the Lithuanian supervisory authority: Valstybinė duomenų apsaugos inspekcija (VDAI), L. Sapiegos g. 17, 10312 Vilnius, email ada@ada.lt, website vdai.lrv.lt.",
       "about_h1_1": "A Lithuanian apothecary mindset, built for the future.",
       "about_h2_2": "Where folklore meets measurement.",
       "about_h2_3": "Principles that guide every recommendation.",
@@ -1383,9 +1384,7 @@
       "new_text_137_1": " and all associated ordering, account and contact services operated by us.",
       "privacy_text_18_0": "Some of our service providers (for example, PayPal) may transfer personal data to countries outside the European Economic Area (EEA). Where such transfers occur, we ensure they are protected by an adequacy decision of the European Commission or by Standard Contractual Clauses (SCCs) approved by the European Commission. Mollie is headquartered within the EEA and processes data in the EEA. If you would like a copy of the applicable SCCs or further information about a specific transfer, please contact us at ",
       "new_text_155_0": "To exercise any of these rights, please write to us at ",
-      "new_text_155_1": ". We will respond within one month of receiving your request. For complex or numerous requests, we may extend this period by up to a further two months; if so, we will notify you within the first month and explain the reason for the delay.",
-      "new_text_156_0": "You also have the right to lodge a complaint with the Lithuanian supervisory authority: <strong>Valstybinė duomenų apsaugos inspekcija (VDAI)</strong>, L. Sapiegos g. 17, 10312 Vilnius. Email: <a href=\"mailto:",
-      "new_text_156_1": "\">ada@ada.lt</a>. Website: <a href=\""
+      "new_text_155_1": ". We will respond within one month of receiving your request. For complex or numerous requests, we may extend this period by up to a further two months; if so, we will notify you within the first month and explain the reason for the delay."
     }
   },
   "lt": {
@@ -1435,6 +1434,7 @@
       "new_p_139": "Mes neturime oficialiai paskirto Duomenų apsaugos pareigūno. Visus su duomenų apsauga susijusius klausimus prašome siųsti tiesiogiai mums:",
       "new_p_141": "<strong>Mes neprašome sveikatos ar ypatingų kategorijų duomenų.</strong> Prašome neteikti sveikatos informacijos ar kitų jautrių asmens duomenų kontaktų formose ar užsakymų pastabose.",
       "new_p_144": "<strong>Mes neparduodame, nenuomojame ir kitaip neperleidžiame jūsų asmens duomenų trečiosioms šalims.</strong>",
+      "new_p_156": "Taip pat turite teisę pateikti skundą Lietuvos priežiūros institucijai: Valstybinė duomenų apsaugos inspekcija (VDAI), L. Sapiegos g. 17, 10312 Vilnius, el. paštas ada@ada.lt, svetainė vdai.lrv.lt.",
       "about_h1_1": "Lietuviško vaistininko mąstysena, sukurta ateičiai.",
       "about_h2_2": "Ten, kur folkloras susitinka su matavimu.",
       "about_h2_3": "Principai, kuriais vadovaujamės kiekviename pasiūlyme.",
@@ -2772,9 +2772,7 @@
       "new_text_137_1": " ir visoms susijusioms užsakymų, paskyros ir kontaktų paslaugoms, kurias mes valdome.",
       "privacy_text_18_0": "Some of our service providers (for example, PayPal) may transfer personal data to countries outside the European Economic Area (EEA). Where such transfers occur, we ensure they are protected by an adequacy decision of the European Commission or by Standard Contractual Clauses (SCCs) approved by the European Commission. Mollie is headquartered within the EEA and processes data in the EEA. If you would like a copy of the applicable SCCs or further information about a specific transfer, please contact us at",
       "new_text_155_0": "Norėdami pasinaudoti bet kuria iš šių teisių, rašykite mums adresu ",
-      "new_text_155_1": ". Atsakysime per vieną mėnesį nuo jūsų prašymo gavimo. Sudėtingų ar gausių prašymų atveju šį terminą galime pratęsti dar iki dviejų mėnesių; jei taip nutiktų, informuosime jus per pirmąjį mėnesį ir paaiškinsime vėlavimo priežastį.",
-      "new_text_156_0": "Taip pat turite teisę pateikti skundą Lietuvos priežiūros institucijai: <strong>Valstybinė duomenų apsaugos inspekcija (VDAI)</strong>, L. Sapiegos g. 17, 10312 Vilnius. El. paštas: <a href=\"mailto:",
-      "new_text_156_1": "\">ada@ada.lt</a>. Svetainė: <a href=\""
+      "new_text_155_1": ". Atsakysime per vieną mėnesį nuo jūsų prašymo gavimo. Sudėtingų ar gausių prašymų atveju šį terminą galime pratęsti dar iki dviejų mėnesių; jei taip nutiktų, informuosime jus per pirmąjį mėnesį ir paaiškinsime vėlavimo priežastį."
     }
   }
 }
