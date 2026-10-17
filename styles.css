@@ -12795,6 +12795,45 @@ h1, h2, h3, h4, h5, h6 { font-family: 'Lora', sans-serif; font-weight: 700; }
 .vh-heritage .vh-heritage__card--image {
   background: var(--surface-color, var(--surface, #F5F5DC));
 }
+
+:root {
+  --bg-light: #F4EFE7;
+  --background-color: #F4EFE7;
+  --surface-color: #FFFFFF;
+  --surface: #FFFFFF;
+  --gradient-light-section: linear-gradient(180deg, #F4EFE7 0%, #F4EFE7 100%);
+}
+
+body {
+  background-color: #F4EFE7 !important;
+}
+
+.vh-heritage {
+  background-color: #F4EFE7 !important;
+}
+
+.vh-heritage .vh-heritage__card, .vh-heritage .vh-heritage__card--image, .vh-heritage .vh-heritage__card--content {
+  background-color: #FFFFFF !important;
+}
+
+.home-process-section {
+  background-color: #F4EFE7 !important;
+}
+
+.featured-products-section,
+.featured-categories-section {
+  background-color: #F4EFE7 !important;
+}
+
+.vy-books-section {
+  background-color: #F4EFE7 !important;
+}
+
+#zappy-section-5 .vy-book-card {
+  background-color: #FFFFFF !important;
+}
+/* Batch: Unify light background to warm cream #F4EFE7 and cards to white site-wide */
+body { background-color: #F4EFE7 !important; } .vh-heritage { background-color: #F4EFE7 !important; } .vh-heritage__card, .vh-heritage__card--image, .vh-heritage__card--content { background-color: #FFFFFF !important; } .home-process-section { background-color: #F4EFE7 !important; } .featured-products-section, .featured-categories-section { background-color: #F4EFE7 !important; } .vy-books-section { background-color: #F4EFE7 !important; } .vy-book-card { background-color: #FFFFFF !important; }
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
