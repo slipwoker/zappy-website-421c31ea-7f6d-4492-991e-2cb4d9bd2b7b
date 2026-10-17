@@ -2116,8 +2116,6 @@ Filters
 
 
 
-Loading products...
-
 
 
 
@@ -3913,11 +3911,13 @@ Used to deliver relevant ads and measure campaigns.          Privacy Policy    S
 
 Last Updated: 10/17/2026
 
-Seller: Valesų Gerovė, MB, company code 307168555 Žirmūnų g. 57-50, LT-09110 Vilnius, Lithuania
+Seller: Valesų Gerovė, MB, company code 307168555, Žirmūnų g. 57-50, LT-09110 Vilnius, Lithuania
 
-Return & contact address: Žalgirio g. 90, 6th floor, LT-09303 Vilnius, Lithuania
+Return and contact address: Žalgirio g. 90, 6th floor, LT-09303 Vilnius, Lithuania
 
-mail: info@valesugerove.lt Phone: +370 4543 5643Email: info@valesugerove.lt " style="color:#e0a030;text-decoration:underline;">info@valesugerove.lt Phone: +370 4543 5643 +370 4543 5643
+Email: info@valesugerove.lt
+
+Phone: +370 4543 5643
 
 ## 1. Two Ways to Return
 
@@ -3927,9 +3927,9 @@ We offer two return routes:
 
 ## 2. Statutory Right of Withdrawal
 
-You have the right to withdraw from this contract within 14 calendar days without giving any reason. The withdrawal period expires 14 calendar days from the day on which you, or a third party other than the carrier and indicated by you, acquires physical possession of the goods — or, if the order covers several goods delivered separately, the day on which you or that third party acquires physical possession of the last good.
+You have the right to withdraw from this contract within 14 calendar days without giving any reason. The withdrawal period expires 14 calendar days from the day on which you, or a person you name, receives the goods — or, if the order covers several goods delivered separately, the day on which you or that person receives the last good.
 
-To exercise the right of withdrawal, you must inform us of your decision by an unequivocal statement (e.g. a letter sent by post or an email) to <a href="mailto: info@valesugerove.lt" style="color:#e0a030;text-decoration:underline;">info@valesugerove.lt. You must dispatch the goods back to our return address without undue delay and in any event no later than 14 days from the day on which you communicate your withdrawal to us. " style="color:#e0a030;text-decoration:underline;">info@valesugerove.lt. You must dispatch the goods back to our return address without undue delay and in any event no later than 14 days from the day on which you communicate your withdrawal to us. " style="color:#e0a030;text-decoration:underline;">info@valesugerove.lt. You must dispatch the goods back to our return address without undue delay and in any event no later than 14 days from the day on which you communicate your withdrawal to us.
+To exercise the right of withdrawal, you must inform us of your decision by an unequivocal statement (for example, a letter sent by post or an email to info@valesugerove.lt). You must dispatch the goods back to our return address without undue delay and in any event no later than 14 days after telling us of your withdrawal.
 
 Return costs: You bear the direct cost of returning the goods (except where the goods are faulty — see Section 5).
 
@@ -3961,7 +3961,8 @@ Your legal guarantee rights under Lithuanian consumer law remain fully intact. W
 
 Refunds are processed as described in Section 2 — within 14 calendar days of us receiving your withdrawal notice (subject to receipt of the goods or proof of dispatch). Please note that your bank or payment provider may require a few additional business days to credit the amount to your account.
 
-## 7. Complaints & Dispute Resolution
+## 7. Complaints
+
 
 If you have a complaint, please contact us first at info@valesugerove.lt — we aim to resolve all issues promptly.
 
@@ -4436,8 +4437,6 @@ Filters
 
 
 
-
-Loading products...
 
 
 
