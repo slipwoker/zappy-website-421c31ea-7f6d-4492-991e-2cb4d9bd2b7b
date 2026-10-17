@@ -1006,71 +1006,41 @@ At Valesu Gerove we describe our products honestly: what they are, where they co
 
 
 
-## What we document and why it matters.
+## What we share about each product.
 
 
-Every product in our catalog undergoes rigorous verification. We record supplier origins, test for contaminants, and document the scientific rationale behind each formulation. This transparency ensures you receive safe, effective supplements backed by evidence and ethical sourcing.
-
-
-
-
-
-
-
-### Identity confirmation
-
-
-We verify botanical species through DNA barcoding and chemical fingerprinting, ensuring each herb matches its label claim. Certificates of analysis are stored for every batch.
+We aim to give you clear, honest product information.
 
 
 
 
 
 
-### Contaminant awareness
+
+### Origin
 
 
-Third-party labs test for heavy metals, pesticides, and microbial contamination. We publish limits of detection and actual measured values for transparency.
-
-
-
-
-
-
-### Batch notes
-
-
-Each production run receives a unique identifier linking to harvest date, extraction method, and storage conditions. You can trace your supplement from field to bottle.
+We state where a product comes from, as far as our supplier can tell us.
 
 
 
 
 
 
-### Supplier traceability
+### Ingredients
 
 
-We maintain direct relationships with foragers and farms, documenting geographic origin and harvesting practices. Ethical wildcrafting and sustainable cultivation are non-negotiable.
-
-
-
-
-
-
-### Protocol rationale
-
-
-Every formulation is backed by peer-reviewed research. We cite studies, explain dosage selection, and outline the biological mechanisms behind each ingredient's effects.
+We list what is in each product and how it is traditionally prepared or used.
 
 
 
 
 
 
-### Interaction caution
+### Use with care
 
 
-We document known contraindications, drug interactions, and potential side effects. Our database cross-references medications and health conditions to flag safety concerns proactively.
+Herbs and supplements can interact with medication. Ask your doctor or pharmacist before use.
 
 
 
