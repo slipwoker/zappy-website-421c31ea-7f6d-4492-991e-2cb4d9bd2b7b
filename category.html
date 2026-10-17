@@ -2341,21 +2341,21 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
 
 <div id="zappy-cookie-consent" style="position:fixed;left:0;right:0;bottom:0;z-index:999999;background:#1a1a1a;color:#f5f5f5;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;">
 <div class="cc-banner" id="cc-banner" role="dialog" aria-label="Cookie consent" style="padding:16px 18px;display:flex;flex-direction:column;gap:14px;box-shadow:0 -4px 24px rgba(0,0,0,0.35);border-top:1px solid rgba(200,134,13,0.35);max-width:760px;margin:0 auto;">
-<p class="cc-text" style="margin:0;font-size:13.5px;line-height:1.5;color:#f5f5f5;">We use strictly necessary cookies to run this shop. With your consent we would also use analytics and marketing cookies. You can change your choice at any time. <a class="cc-privacy" href="/privacy" style="color:#c8860d;text-decoration:underline;">Privacy Policy</a></p>
+<p class="cc-text" style="margin:0;font-size:13.5px;line-height:1.5;color:#f5f5f5;"><span data-i18n="new_text_577_0">We use strictly necessary cookies to run this shop. With your consent we would also use analytics and marketing cookies. You can change your choice at any time.</span> <a class="cc-privacy" href="/privacy" style="color:#c8860d;text-decoration:underline;" data-i18n="new_a_578">Privacy Policy</a></p>
 <div class="cc-actions" style="display:flex;flex-direction:column;gap:10px;">
-<button type="button" class="cc-btn cc-accept" id="cc-accept" style="min-height:44px;padding:10px 14px;font-size:14px;font-weight:600;border-radius:8px;border:1px solid #c8860d;cursor:pointer;background:#c8860d;color:#1a1a1a;">Accept all</button>
-<button type="button" class="cc-btn cc-reject" id="cc-reject" style="min-height:44px;padding:10px 14px;font-size:14px;font-weight:600;border-radius:8px;border:1px solid #c8860d;cursor:pointer;background:transparent;color:#f5f5f5;">Reject non-essential</button>
-<button type="button" class="cc-btn cc-settings" id="cc-settings-btn" style="min-height:44px;padding:10px 14px;font-size:14px;font-weight:600;border-radius:8px;border:1px solid #c8860d;cursor:pointer;background:transparent;color:#f5f5f5;">Settings</button>
+<button type="button" class="cc-btn cc-accept" id="cc-accept" style="min-height:44px;padding:10px 14px;font-size:14px;font-weight:600;border-radius:8px;border:1px solid #c8860d;cursor:pointer;background:#c8860d;color:#1a1a1a;" data-i18n="new_button_579">Accept all</button>
+<button type="button" class="cc-btn cc-reject" id="cc-reject" style="min-height:44px;padding:10px 14px;font-size:14px;font-weight:600;border-radius:8px;border:1px solid #c8860d;cursor:pointer;background:transparent;color:#f5f5f5;" data-i18n="new_button_580">Reject non-essential</button>
+<button type="button" class="cc-btn cc-settings" id="cc-settings-btn" style="min-height:44px;padding:10px 14px;font-size:14px;font-weight:600;border-radius:8px;border:1px solid #c8860d;cursor:pointer;background:transparent;color:#f5f5f5;" data-i18n="new_button_581">Settings</button>
 </div>
 </div>
 <div class="cc-overlay" id="cc-overlay" hidden style="position:fixed;inset:0;z-index:1000000;background:rgba(0,0,0,0.55);"></div>
 <div class="cc-panel" id="cc-panel" role="dialog" aria-modal="true" aria-label="Cookie settings" hidden style="position:fixed;left:50%;bottom:0;transform:translateX(-50%);z-index:1000001;width:100%;max-width:480px;background:#1a1a1a;color:#f5f5f5;border-radius:14px 14px 0 0;padding:18px;box-shadow:0 -6px 30px rgba(0,0,0,0.5);">
-<div style="display:flex;align-items:center;justify-content:space-between;"><h3 style="margin:0;font-size:17px;font-weight:700;color:#f5f5f5;">Cookie settings</h3><button type="button" id="cc-close" aria-label="Close" style="background:none;border:none;color:#f5f5f5;font-size:26px;line-height:1;cursor:pointer;padding:0 4px;">&amp;times;</button></div>
-<p style="margin:6px 0 16px;font-size:13px;line-height:1.5;color:#cfcfcf;">Choose which optional cookies we may use. You can change this at any time.</p>
-<div style="display:flex;align-items:center;justify-content:space-between;gap:14px;padding:12px 0;border-top:1px solid rgba(255,255,255,0.08);"><div><span style="font-size:14px;font-weight:600;color:#f5f5f5;">Analytics cookies</span><br /><span style="font-size:12.5px;color:#b5b5b5;">Help us understand how visitors use the site.</span></div><label style="position:relative;display:inline-block;width:46px;height:26px;flex-shrink:0;"><input type="checkbox" id="cc-analytics" style="opacity:0;width:0;height:0;" /><span style="position:absolute;inset:0;border-radius:999px;background:#3a3a3a;cursor:pointer;transition:background 0.2s ease;"></span></label></div>
-<div style="display:flex;align-items:center;justify-content:space-between;gap:14px;padding:12px 0;border-top:1px solid rgba(255,255,255,0.08);"><div><span style="font-size:14px;font-weight:600;color:#f5f5f5;">Marketing cookies</span><br /><span style="font-size:12.5px;color:#b5b5b5;">Used to deliver relevant ads and measure campaigns.</span></div><label style="position:relative;display:inline-block;width:46px;height:26px;flex-shrink:0;"><input type="checkbox" id="cc-marketing" style="opacity:0;width:0;height:0;" /><span style="position:absolute;inset:0;border-radius:999px;background:#3a3a3a;cursor:pointer;transition:background 0.2s ease;"></span></label></div>
-<a class="cc-privacy" href="/privacy" style="display:inline-block;margin-top:14px;font-size:13px;color:#c8860d;text-decoration:underline;">Privacy Policy</a>
-<div style="margin-top:16px;"><button type="button" class="cc-btn cc-save" id="cc-save" style="width:100%;min-height:44px;padding:10px 14px;font-size:14px;font-weight:600;border-radius:8px;border:1px solid #c8860d;cursor:pointer;background:#c8860d;color:#1a1a1a;">Save</button></div>
+<div style="display:flex;align-items:center;justify-content:space-between;"><h3 style="margin:0;font-size:17px;font-weight:700;color:#f5f5f5;" data-i18n="new_h3_582">Cookie settings</h3><button type="button" id="cc-close" aria-label="Close" style="background:none;border:none;color:#f5f5f5;font-size:26px;line-height:1;cursor:pointer;padding:0 4px;" data-i18n="new_button_583">&amp;times;</button></div>
+<p style="margin:6px 0 16px;font-size:13px;line-height:1.5;color:#cfcfcf;" data-i18n="new_p_584">Choose which optional cookies we may use. You can change this at any time.</p>
+<div style="display:flex;align-items:center;justify-content:space-between;gap:14px;padding:12px 0;border-top:1px solid rgba(255,255,255,0.08);"><div data-i18n="new_div_585"><span style="font-size:14px;font-weight:600;color:#f5f5f5;">Analytics cookies</span><br /><span style="font-size:12.5px;color:#b5b5b5;">Help us understand how visitors use the site.</span></div><label style="position:relative;display:inline-block;width:46px;height:26px;flex-shrink:0;"><input type="checkbox" id="cc-analytics" style="opacity:0;width:0;height:0;" /><span style="position:absolute;inset:0;border-radius:999px;background:#3a3a3a;cursor:pointer;transition:background 0.2s ease;"></span></label></div>
+<div style="display:flex;align-items:center;justify-content:space-between;gap:14px;padding:12px 0;border-top:1px solid rgba(255,255,255,0.08);"><div data-i18n="new_div_588"><span style="font-size:14px;font-weight:600;color:#f5f5f5;">Marketing cookies</span><br /><span style="font-size:12.5px;color:#b5b5b5;">Used to deliver relevant ads and measure campaigns.</span></div><label style="position:relative;display:inline-block;width:46px;height:26px;flex-shrink:0;"><input type="checkbox" id="cc-marketing" style="opacity:0;width:0;height:0;" /><span style="position:absolute;inset:0;border-radius:999px;background:#3a3a3a;cursor:pointer;transition:background 0.2s ease;"></span></label></div>
+<a class="cc-privacy" href="/privacy" style="display:inline-block;margin-top:14px;font-size:13px;color:#c8860d;text-decoration:underline;" data-i18n="new_a_591">Privacy Policy</a>
+<div style="margin-top:16px;"><button type="button" class="cc-btn cc-save" id="cc-save" style="width:100%;min-height:44px;padding:10px 14px;font-size:14px;font-weight:600;border-radius:8px;border:1px solid #c8860d;cursor:pointer;background:#c8860d;color:#1a1a1a;" data-i18n="new_button_592">Save</button></div>
 </div>
 </div>
   <script>
@@ -2437,9 +2437,9 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
     <div class="empty-cart" data-i18n="category__slug_div_24">Cart is empty</div>
   </div>
   <div class="cart-drawer-footer">
-    <div class="cart-drawer-total">
-      <span><span data-i18n="category_text_25_0">Total:</span></span>
-      <span id="cart-drawer-total" data-i18n="category__slug_span_10">€0</span>
+    <div class="cart-drawer-total" data-i18n="new_div_594">
+      <span><span>Total:</span></span>
+      <span id="cart-drawer-total">€0</span>
     </div>
     <a href="/checkout" class="cart-drawer-checkout" data-i18n="category__slug_link_21">Proceed to Checkout</a>
   </div>
@@ -2548,6 +2548,9 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
   })();
   </script>
   <a href="https://wa.me/[whatsapp_handle]" class="whatsapp-float" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp" data-i18n-aria-label="category__slug_aria_label_53"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg></a>
+
+
+
 
 <!-- i18next Multi-Language Support -->
 <script>
@@ -2917,6 +2920,8 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
       "new_a_557": "Privacy Policy",
       "new_a_561": "Privacy Policy",
       "new_a_574": "Privacy Policy",
+      "new_a_578": "Privacy Policy",
+      "new_a_591": "Privacy Policy",
       "new_p_139": "We do not have a formally designated Data Protection Officer. All data protection queries should be directed to us directly:",
       "new_p_141": "<strong>We do not ask for health or special-category data.</strong> Please do not include health information or any other sensitive personal data in contact forms or order notes.",
       "new_p_144": "<strong>We do not sell, rent or otherwise trade your personal data to third parties.</strong>",
@@ -3030,6 +3035,7 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
       "new_p_542": "NaturoSync is not available. It is not for sale and is not a medical device.",
       "new_p_550": "Choose which optional cookies we may use. You can change this at any time.",
       "new_p_567": "Choose which optional cookies we may use. You can change this at any time.",
+      "new_p_584": "Choose which optional cookies we may use. You can change this at any time.",
       "about_h1_1": "A Lithuanian apothecary mindset, kept for today.",
       "about_h2_2": "Where folklore meets careful craft.",
       "about_h2_3": "Principles that guide every choice we make.",
@@ -3151,6 +3157,7 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
       "new_h3_538": "Learn",
       "new_h3_548": "Cookie settings",
       "new_h3_565": "Cookie settings",
+      "new_h3_582": "Cookie settings",
       "new_li_140": "<strong>Correspondence address:</strong> Žalgirio g. 90, 6th floor, LT-09303 Vilnius, Lithuania",
       "new_li_142": "<strong>Our accountant</strong> — to fulfil our accounting and tax obligations.",
       "new_li_143": "<strong>Our business email provider</strong> — for sending transactional and marketing emails.",
@@ -3261,6 +3268,9 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
       "new_div_568": "<span style=\"font-size:14px;font-weight:600;color:#f5f5f5;\">Analytics cookies</span>\n<span style=\"font-size:12.5px;color:#b5b5b5;\">Help us understand how visitors use the site.</span>",
       "new_div_571": "<span style=\"font-size:14px;font-weight:600;color:#f5f5f5;\">Marketing cookies</span>\n<span style=\"font-size:12.5px;color:#b5b5b5;\">Used to deliver relevant ads and measure campaigns.</span>",
       "new_div_576": "<span><span>Total:</span></span>\n      <span id=\"cart-drawer-total\">€0</span>",
+      "new_div_585": "<span style=\"font-size:14px;font-weight:600;color:#f5f5f5;\">Analytics cookies</span>\n<span style=\"font-size:12.5px;color:#b5b5b5;\">Help us understand how visitors use the site.</span>",
+      "new_div_588": "<span style=\"font-size:14px;font-weight:600;color:#f5f5f5;\">Marketing cookies</span>\n<span style=\"font-size:12.5px;color:#b5b5b5;\">Used to deliver relevant ads and measure campaigns.</span>",
+      "new_div_594": "<span><span>Total:</span></span>\n      <span id=\"cart-drawer-total\">€0</span>",
       "terms_h2_10": "8. Product Information and Health Statements",
       "terms_h2_11": "9. Intellectual Property",
       "terms_h2_12": "10. Liability",
@@ -3654,6 +3664,11 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
       "new_button_564": "Settings",
       "new_button_566": "&times;",
       "new_button_575": "Save",
+      "new_button_579": "Accept all",
+      "new_button_580": "Reject non-essential",
+      "new_button_581": "Settings",
+      "new_button_583": "&times;",
+      "new_button_592": "Save",
       "privacy_alt_63": "Valesų gerovė",
       "privacy_alt_64": "Valesų gerovė",
       "privacy_div_55": "<strong>Last Updated:</strong> 10/17/2026",
@@ -4452,8 +4467,8 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
       "accessibility_aria_label_78": "Return Policy",
       "accessibility_aria_label_79": "Quick view",
       "accessibility_aria_label_80": "Close",
-      "category__slug_seo_keywords": "top nootropics 2022, herbal tinctures, biohacking technology, Baltic wellness, nootropics depot reddit",
-      "category__slug_seo_og_title": "Discover Top Nootropics 2022 & Forest Wisdom — Valesų gerovė",
+      "category__slug_seo_keywords": "Lithuanian herbal tea, Baltic herbs, Lithuanian honey, traditional herbal products, Vilnius",
+      "category__slug_seo_og_title": "Shop by category | Valesu Gerove",
       "legal_accessibility_link_16": "info@valesugerove.lt",
       "legal_accessibility_link_17": "← Back to site",
       "order_success_aria_label_45": "Menu",
@@ -4521,7 +4536,7 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
       "product__slug_seo_twitter_title": "Product details | Valesu Gerove",
       "return_policy_seo_twitter_title": "Discover Top Nootropics 2022 & Forest Wisdom — Valesų gerovė",
       "science_seo_twitter_description": "How Valesu Gerove describes Lithuanian herbal products: origin, ingredients and traditional use, with no health claims.",
-      "category__slug_seo_twitter_title": "Discover Top Nootropics 2022 & Forest Wisdom — Valesų gerovė",
+      "category__slug_seo_twitter_title": "Shop by category | Valesu Gerove",
       "thank_you_seo_twitter_description": "Valesų gerovė - Thank You | Valesų gerovė",
       "new_text_217_0": "We use strictly necessary cookies to run this shop. With your consent we would also use analytics and marketing cookies. You can change your choice at any time. ",
       "new_text_235_0": "<span>Not sure where to begin?</span> <a href=\"/contact\">",
@@ -4533,6 +4548,7 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
       "new_text_543_0": "We use strictly necessary cookies to run this shop. With your consent we would also use analytics and marketing cookies. You can change your choice at any time. ",
       "new_text_284_0": "We use strictly necessary cookies to run this shop. With your consent we would also use analytics and marketing cookies. You can change your choice at any time. ",
       "new_text_560_0": "We use strictly necessary cookies to run this shop. With your consent we would also use analytics and marketing cookies. You can change your choice at any time. ",
+      "new_text_577_0": "We use strictly necessary cookies to run this shop. With your consent we would also use analytics and marketing cookies. You can change your choice at any time. ",
       "new_text_240_0": "We use strictly necessary cookies to run this shop. With your consent we would also use analytics and marketing cookies. You can change your choice at any time. ",
       "new_text_137_0": "This policy applies to the website ",
       "new_text_137_1": " and all associated ordering, account and contact services operated by us.",
@@ -4909,6 +4925,8 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
       "new_a_557": "Privatumo politika",
       "new_a_561": "Privatumo politika",
       "new_a_574": "Privatumo politika",
+      "new_a_578": "Privatumo politika",
+      "new_a_591": "Privatumo politika",
       "new_p_139": "Mes neturime oficialiai paskirto Duomenų apsaugos pareigūno. Visus su duomenų apsauga susijusius klausimus prašome siųsti tiesiogiai mums:",
       "new_p_141": "<strong>Mes neprašome sveikatos ar ypatingų kategorijų duomenų.</strong> Prašome neteikti sveikatos informacijos ar kitų jautrių asmens duomenų kontaktų formose ar užsakymų pastabose.",
       "new_p_144": "<strong>Mes neparduodame, nenuomojame ir kitaip neperleidžiame jūsų asmens duomenų trečiosioms šalims.</strong>",
@@ -5022,6 +5040,7 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
       "new_p_542": "NaturoSync nėra prieinamas. Jis neparduodamas ir nėra medicininis prietaisas.",
       "new_p_550": "Pasirinkite, kuriuos pasirinktinius slapukus galime naudoti. Tai galite keisti bet kada.",
       "new_p_567": "Pasirinkite, kuriuos pasirinktinius slapukus galime naudoti. Tai galite pakeisti bet kada.",
+      "new_p_584": "Pasirinkite, kuriuos pasirinktinius slapukus galime naudoti. Tai galite pakeisti bet kuriuo metu.",
       "about_h1_1": "Lietuviško vaistininko mąstysena, išsaugota šiandienai.",
       "about_h2_2": "Kur folkloras susitinka su kruopščiu meistriškumu.",
       "about_h2_3": "Principai, kuriais vadovaujamės kiekviename sprendime.",
@@ -5143,6 +5162,7 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
       "new_h3_538": "Mokykitės",
       "new_h3_548": "Slapukų nustatymai",
       "new_h3_565": "Slapukų nustatymai",
+      "new_h3_582": "Slapukų nustatymai",
       "new_li_140": "<strong>Korespondencijos adresas:</strong> Žalgirio g. 90, 6 aukštas, LT-09303 Vilnius, Lietuva",
       "new_li_142": "<strong>Mūsų buhalteris</strong> — buhalterinės apskaitos ir mokestinių prievolių vykdymui.",
       "new_li_143": "<strong>Mūsų verslo el. pašto paslaugų teikėjas</strong> — transakciniams ir rinkodaros el. laiškams siųsti.",
@@ -5253,6 +5273,9 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
       "new_div_568": "<span style=\"font-size:14px;font-weight:600;color:#f5f5f5;\">Analizės slapukai</span>\n<span style=\"font-size:12.5px;color:#b5b5b5;\">Padeda mums suprasti, kaip lankytojai naudojasi svetaine.</span>",
       "new_div_571": "<span style=\"font-size:14px;font-weight:600;color:#f5f5f5;\">Rinkodaros slapukai</span>\n<span style=\"font-size:12.5px;color:#b5b5b5;\">Naudojami tinkamoms reklamoms rodyti ir kampanijoms vertinti.</span>",
       "new_div_576": "<span><span>Iš viso:</span></span>\n      <span id=\"cart-drawer-total\">€0</span>",
+      "new_div_585": "<span style=\"font-size:14px;font-weight:600;color:#f5f5f5;\">Analizės slapukai</span>\n<span style=\"font-size:12.5px;color:#b5b5b5;\">Padeda mums suprasti, kaip lankytojai naudojasi svetaine.</span>",
+      "new_div_588": "<span style=\"font-size:14px;font-weight:600;color:#f5f5f5;\">Rinkodaros slapukai</span>\n<span style=\"font-size:12.5px;color:#b5b5b5;\">Naudojami tinkamoms reklamoms rodyti ir kampanijoms vertinti.</span>",
+      "new_div_594": "<span><span>Iš viso:</span></span>\n      <span id=\"cart-drawer-total\">€0</span>",
       "terms_h2_10": "8. Informacija apie produktus ir teiginiai apie sveikatą",
       "terms_h2_11": "9. Intelektinė nuosavybė",
       "terms_h2_12": "10. Atsakomybė",
@@ -5646,6 +5669,11 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
       "new_button_564": "Nustatymai",
       "new_button_566": "&times;",
       "new_button_575": "Išsaugoti",
+      "new_button_579": "Priimti visus",
+      "new_button_580": "Atmesti nebūtinuosius",
+      "new_button_581": "Nustatymai",
+      "new_button_583": "&times;",
+      "new_button_592": "Išsaugoti",
       "privacy_alt_63": "Valesų gerovė",
       "privacy_alt_64": "Valesų gerovė",
       "privacy_div_55": "<strong>Paskutinį kartą atnaujinta:</strong> 10/17/2026",
@@ -6444,8 +6472,8 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
       "accessibility_aria_label_78": "Grąžinimo politika",
       "accessibility_aria_label_79": "Greita peržiūra",
       "accessibility_aria_label_80": "Uždaryti",
-      "category__slug_seo_keywords": "geriausi nootropikai 2022, žolelių tinktūros, biohakingo technologijos, Baltijos gerovė, nootropics depot reddit",
-      "category__slug_seo_og_title": "Atraskite geriausius nootropikus 2022 & Miško išmintį — Valesų gerovė",
+      "category__slug_seo_keywords": "Lietuviška žolelių arbata, Baltijos žolelės, lietuviškas medus, tradiciniai žolelių produktai, Vilnius",
+      "category__slug_seo_og_title": "Naršyti pagal kategoriją | Valesu Gerove",
       "legal_accessibility_link_16": "info@valesugerove.lt",
       "legal_accessibility_link_17": "← Grįžti į svetainę",
       "order_success_aria_label_45": "Meniu",
@@ -6513,7 +6541,7 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
       "product__slug_seo_twitter_title": "Produkto informacija | Valesu Gerove",
       "return_policy_seo_twitter_title": "Atraskite geriausius nootropikus 2022 & Miško išmintį — Valesų gerovė",
       "science_seo_twitter_description": "Kaip Valesų gerovė aprašo lietuviškus žolelių produktus: kilmė, sudėtis ir tradicinis naudojimas, be jokių sveikatos teiginių.",
-      "category__slug_seo_twitter_title": "Atraskite geriausius nootropikus 2022 & Miško išmintį — Valesų gerovė",
+      "category__slug_seo_twitter_title": "Naršyti pagal kategoriją | Valesu Gerove",
       "thank_you_seo_twitter_description": "Valesų gerovė - Ačiū | Valesų gerovė",
       "new_text_217_0": "Mes naudojame būtinuosius slapukus šiai parduotuvei veikti. Jūsų sutikimu taip pat naudotume analizės ir rinkodaros slapukus. Savo pasirinkimą galite keisti bet kada. ",
       "new_text_235_0": "<span>Nežinote, nuo ko pradėti?</span> <a href=\"/contact\">",
@@ -6525,6 +6553,7 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
       "new_text_543_0": "Mes naudojame būtinuosius slapukus šiai parduotuvei veikti. Su jūsų sutikimu taip pat naudotume analizės ir rinkodaros slapukus. Savo pasirinkimą galite keisti bet kada. ",
       "new_text_284_0": "Mes naudojame būtinuosius slapukus šiai parduotuvei veikti. Su jūsų sutikimu taip pat naudotume analizės ir rinkodaros slapukus. Savo pasirinkimą galite keisti bet kada. ",
       "new_text_560_0": "Mes naudojame būtinuosius slapukus šiai parduotuvei veikti. Su jūsų sutikimu taip pat naudotume analizės ir rinkodaros slapukus. Savo pasirinkimą galite pakeisti bet kada. ",
+      "new_text_577_0": "Mes naudojame būtinuosius slapukus šiai parduotuvei veikti. Jūsų sutikimu taip pat naudotume analizės ir rinkodaros slapukus. Savo pasirinkimą galite pakeisti bet kuriuo metu. ",
       "new_text_240_0": "Mes naudojame būtinuosius slapukus šiai parduotuvei veikti. Su jūsų sutikimu taip pat naudotume analizės ir rinkodaros slapukus. Savo pasirinkimą galite pakeisti bet kuriuo metu. ",
       "new_text_137_0": "Ši politika taikoma svetainei ",
       "new_text_137_1": " ir visoms susijusioms užsakymų, paskyros ir kontaktų paslaugoms, kurias mes valdome.",
@@ -7828,7 +7857,6 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
   }
 })();
 </script>
-
 
     <script src="/script.js"></script>
 
