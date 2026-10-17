@@ -4123,10 +4123,10 @@ The idea
 
 
 
-Valesų gerovė is a Lithuanian wellness brand built on a simple but powerful belief: the ancient wisdom of the Baltic forest and the precision of modern biohacking belong together. We create a space where traditional forest remedies—like chaga tinctures and birch bud extracts—sit alongside carefully sourced supplements and wearable health devices, offering a dual-pathway approach to wellbeing that respects heritage while embracing innovation.
+NaturoSync is a concept from Valesu Gerove: a companion app idea that would bring traditional Baltic herbal knowledge and everyday wellness technology together in one simple place.
 
 
-Our name, meaning "wellness of the Valesa" or "forest grove," reflects this union. We honor the slow, quiet knowledge passed down through generations of Lithuanian herbalists, and we pair it with measurable, data-driven tools that help you understand your body on a deeper level. The result is an experience that feels both ancient and futuristic—a calm, premium apothecary where moss-green structure meets neon-amber action, and where every product tells a story of roots and resonance.
+The name reflects our belief that heritage and technology can sit side by side. NaturoSync is illustrative only. It is not a medical device, it is not for sale, and it makes no health claims.
 
 
 
@@ -4140,7 +4140,7 @@ Our name, meaning "wellness of the Valesa" or "forest grove," reflects this unio
 ## How it is planned to work
 
 
-The NaturoSync flow is a planned concept, not an available product. It illustrates how ancient Baltic wisdom and modern biohacking might one day meet in a single, personalised rhythm.
+An illustrative concept, not an available product.
 
 
 
@@ -4153,10 +4153,10 @@ The NaturoSync flow is a planned concept, not an available product. It illustrat
 
 
 
-### Sense
+### Explore
 
 
-Wearable devices and gentle self-tracking gather baseline signals — sleep depth, heart-rate variability, energy dips. The goal is a quiet, continuous read of your body's forest floor, not a flood of numbers.
+Browse traditional herbs, teas and honey with their origin and traditional use.
 
 
 
@@ -4172,7 +4172,7 @@ Wearable devices and gentle self-tracking gather baseline signals — sleep dept
 ### Understand
 
 
-An app layer translates raw signals into clear patterns, connecting dots between stress, season, and lifestyle. It would highlight meaningful shifts — like the moment Chaga's adaptogenic support might truly help.
+Simple notes explain how each product is traditionally prepared.
 
 
 
@@ -4185,10 +4185,10 @@ An app layer translates raw signals into clear patterns, connecting dots between
 
 
 
-### Personalise
+### Plan
 
 
-The system would suggest a tailored blend: a birch bud extract for spring renewal, a specific breathwork sequence for evenings, or a biohacking stack timed to your personal chronotype.
+Save favourites and build a shopping list.
 
 
 
@@ -4201,10 +4201,10 @@ The system would suggest a tailored blend: a birch bud extract for spring renewa
 
 
 
-### Review
+### Learn
 
 
-Over weeks, the loop would refine itself. You would see what worked, what faded, and how your body responded — a slow, respectful dialogue between ancestral remedies and real-time data.
+Read about Lithuanian herbal culture through the seasons.
 
 
 
