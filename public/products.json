@@ -1,8 +1,34 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-17T08:21:14.042Z",
+  "generated_at": "2026-10-17T08:25:56.928Z",
   "base_url": "https://valesugerove.lt",
   "currency": "EUR",
-  "count": 0,
-  "products": []
+  "count": 1,
+  "products": [
+    {
+      "id": "25c4039a-c368-4af0-af5f-5961068f4c05",
+      "slug": "sample-botanical-supplement-bottle-placeholder-ks34tq",
+      "name": "SAMPLE - Botanical Supplement Bottle (placeholder)",
+      "name_translations": {
+        "en": "SAMPLE - Botanical Supplement Bottle (placeholder)",
+        "lt": "PAVYZDYS – Botaninis maisto papildas buteliuke (vietos užpildas)"
+      },
+      "description": "",
+      "short_description": "Placeholder product for layout only. Not for sale. Real products coming soon.",
+      "sku": null,
+      "brand": null,
+      "price": 0.01,
+      "base_price": 0.01,
+      "sale_price": null,
+      "currency": "EUR",
+      "images": [],
+      "in_stock": false,
+      "stock_status": "out_of_stock",
+      "url": "https://valesugerove.lt/product/sample-botanical-supplement-bottle-placeholder-ks34tq",
+      "categories": [
+        "Biohacking Supplements"
+      ],
+      "updated_at": "2026-10-17T08:25:20.372Z"
+    }
+  ]
 }
