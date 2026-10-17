@@ -500,13 +500,10 @@ Personal Guidance
 ## Find a good place to start.
 
 
-Tell us what you enjoy, such as herbal teas, honey or modern wellness products, and our AI assistant will suggest items from our range and explain what they are. It gives product information only, not medical advice.
+Tell us what you enjoy, such as herbal teas, honey or modern wellness products, and we will suggest items from our range and explain what they are. We give product information only, not medical advice.
 
 
-
-Ask our assistant
-
-
+Contact us
 
 
 
@@ -522,7 +519,7 @@ Lithuanian botanical heritage, carefully selected supplements and modern technol
 - About
 - Standards
 - Contact
-
+Click to add embed URL
 ### Get in Touch
 - info@valesugerove.lt
 - +37045435643
@@ -869,7 +866,7 @@ Lithuanian botanical heritage, carefully selected supplements and modern technol
 - About
 - Standards
 - Contact
-
+Click to add embed URL
 ### Get in Touch
 - info@valesugerove.lt
 - +37045435643
@@ -1107,7 +1104,7 @@ Lithuanian botanical heritage, carefully selected supplements and modern technol
 - About
 - Standards
 - Contact
-
+Click to add embed URL
 ### Get in Touch
 - info@valesugerove.lt
 - +37045435643
@@ -1268,7 +1265,7 @@ Message
 
 
 
-I have read and agree to the    Terms & Conditions    and    Privacy Policy
+I have read and agree to the   Terms & Conditions   and   Privacy Policy
 
 
 
@@ -1389,7 +1386,7 @@ Lithuanian botanical heritage, carefully selected supplements and modern technol
 - About
 - Standards
 - Contact
-
+Click to add embed URL
 ### Get in Touch
 - info@valesugerove.lt
 - +37045435643
@@ -1536,6 +1533,8 @@ Filters
 
 
 
+Loading products...
+
 
 
 
@@ -1548,7 +1547,7 @@ Lithuanian botanical heritage, carefully selected supplements and modern technol
 - About
 - Standards
 - Contact
-
+Click to add embed URL
 ### Get in Touch
 - info@valesugerove.lt
 - +37045435643
@@ -1705,7 +1704,7 @@ Lithuanian botanical heritage, carefully selected supplements and modern technol
 - About
 - Standards
 - Contact
-
+Click to add embed URL
 ### Get in Touch
 - info@valesugerove.lt
 - +37045435643
@@ -2048,7 +2047,7 @@ Lithuanian botanical heritage, carefully selected supplements and modern technol
 - About
 - Standards
 - Contact
-
+Click to add embed URL
 ### Get in Touch
 - info@valesugerove.lt
 - +37045435643
@@ -2212,7 +2211,7 @@ Lithuanian botanical heritage, carefully selected supplements and modern technol
 - About
 - Standards
 - Contact
-
+Click to add embed URL
 ### Get in Touch
 - info@valesugerove.lt
 - +37045435643
@@ -2531,7 +2530,7 @@ Lithuanian botanical heritage, carefully selected supplements and modern technol
 - About
 - Standards
 - Contact
-
+Click to add embed URL
 ### Get in Touch
 - info@valesugerove.lt
 - +37045435643
@@ -2712,7 +2711,7 @@ Lithuanian botanical heritage, carefully selected supplements and modern technol
 - About
 - Standards
 - Contact
-
+Click to add embed URL
 ### Get in Touch
 - info@valesugerove.lt
 - +37045435643
@@ -2835,7 +2834,7 @@ Lithuanian botanical heritage, carefully selected supplements and modern technol
 - About
 - Standards
 - Contact
-
+Click to add embed URL
 ### Get in Touch
 - info@valesugerove.lt
 - +37045435643
@@ -2976,7 +2975,7 @@ Lithuanian botanical heritage, carefully selected supplements and modern technol
 - About
 - Standards
 - Contact
-
+Click to add embed URL
 ### Get in Touch
 - info@valesugerove.lt
 - +37045435643
@@ -3145,6 +3144,8 @@ Filters
 
 
 
+Loading products...
+
 
 
 
@@ -3157,7 +3158,7 @@ Lithuanian botanical heritage, carefully selected supplements and modern technol
 - About
 - Standards
 - Contact
-
+Click to add embed URL
 ### Get in Touch
 - info@valesugerove.lt
 - +37045435643
@@ -3305,7 +3306,7 @@ Lithuanian botanical heritage, carefully selected supplements and modern technol
 - About
 - Standards
 - Contact
-
+Click to add embed URL
 ### Get in Touch
 - info@valesugerove.lt
 - +37045435643
@@ -3537,7 +3538,7 @@ Lithuanian botanical heritage, carefully selected supplements and modern technol
 - About
 - Standards
 - Contact
-
+Click to add embed URL
 ### Get in Touch
 - info@valesugerove.lt
 - +37045435643
@@ -3785,7 +3786,7 @@ Lithuanian botanical heritage, carefully selected supplements and modern technol
 - About
 - Standards
 - Contact
-
+Click to add embed URL
 ### Get in Touch
 - info@valesugerove.lt
 - +37045435643
@@ -3954,7 +3955,7 @@ Lithuanian botanical heritage, carefully selected supplements and modern technol
 - About
 - Standards
 - Contact
-
+Click to add embed URL
 ### Get in Touch
 - info@valesugerove.lt
 - +37045435643
@@ -4268,7 +4269,7 @@ Lithuanian botanical heritage, carefully selected supplements and modern technol
 - About
 - Standards
 - Contact
-
+Click to add embed URL
 ### Get in Touch
 - info@valesugerove.lt
 - +37045435643
