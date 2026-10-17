@@ -10647,6 +10647,75 @@ async function loadRelatedProducts(currentProduct, t) {
 })();
 /* ZAPPY_CUSTOM_JS_END:51e694175cbe */
 
+/* ZAPPY_CUSTOM_JS_START:5d9d602e5216 */
+(function () {
+  function __zappyCustomInit() {
+    try {
+(function () {
+  if (window.__zappyGdprInit3) return;
+  window.__zappyGdprInit3 = true;
+
+  var KEY = 'zappy_gdpr_consent_v1';
+  function read() { try { var v = JSON.parse(localStorage.getItem(KEY)); return v || null; } catch (e) { return null; } }
+  function write(o) { try { localStorage.setItem(KEY, JSON.stringify(o)); } catch (e) {} }
+
+  var banner = document.getElementById('cc-banner');
+  var panel = document.getElementById('cc-panel');
+  var overlay = document.getElementById('cc-overlay');
+  var wrapper = document.getElementById('zappy-cookie-consent');
+  var analytics = document.getElementById('cc-analytics');
+  var marketing = document.getElementById('cc-marketing');
+
+  function setImp(el, p, v) { if (el) el.style.setProperty(p, v, 'important'); }
+
+  function showPanel() { setImp(panel, 'display', 'block'); setImp(overlay, 'display', 'block'); }
+  function hidePanel() { setImp(panel, 'display', 'none'); setImp(overlay, 'display', 'none'); }
+  function hideBanner() { setImp(banner, 'display', 'none'); setImp(wrapper, 'display', 'none'); }
+
+  var st = read();
+  if (st) {
+    if (st.decided) hideBanner();
+    if (analytics) analytics.checked = !!st.analytics;
+    if (marketing) marketing.checked = !!st.marketing;
+  }
+
+  function bind(id, fn) { var el = document.getElementById(id); if (el) el.addEventListener('click', fn); }
+
+  bind('cc-accept', function () { write({ analytics: true, marketing: true, decided: true }); hideBanner(); });
+  bind('cc-reject', function () { write({ analytics: false, marketing: false, decided: true }); hideBanner(); });
+  bind('cc-settings-btn', function () {
+    var s = read();
+    if (analytics) analytics.checked = !!(s && s.analytics);
+    if (marketing) marketing.checked = !!(s && s.marketing);
+    showPanel();
+  });
+  bind('cc-save', function () {
+    write({ analytics: analytics ? analytics.checked : false, marketing: marketing ? marketing.checked : false, decided: true });
+    hidePanel(); hideBanner();
+  });
+  bind('cc-close', hidePanel);
+  if (overlay) overlay.addEventListener('click', hidePanel);
+
+  var link = document.getElementById('cookie-settings-link');
+  if (link) link.addEventListener('click', function (e) { e.preventDefault(); showPanel(); });
+
+  window.__zappyConsent = {
+    get analytics() { var s = read(); return !!(s && s.analytics); },
+    get marketing() { var s = read(); return !!(s && s.marketing); }
+  };
+})();
+    } catch (e) {
+      if (typeof console !== 'undefined' && console.warn) { console.warn('[zappy-custom-js]', e); }
+    }
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', __zappyCustomInit);
+  } else {
+    __zappyCustomInit();
+  }
+})();
+/* ZAPPY_CUSTOM_JS_END:5d9d602e5216 */
+
 
 /* ZAPPY_PUBLISHED_LIGHTBOX_RUNTIME */
 (function(){

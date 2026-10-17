@@ -2335,23 +2335,52 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
 </head>
 <body>
 
-<div id="zappy-cookie-consent" style="position:fixed;left:0;right:0;bottom:0;z-index:999999;background:#1a1a1a;color:#f5f5f5;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;">
-<div class="cc-banner" id="cc-banner" role="dialog" aria-label="Cookie consent" style="padding:16px 18px;display:flex;flex-direction:column;gap:14px;box-shadow:0 -4px 24px rgba(0,0,0,0.35);border-top:1px solid rgba(200,134,13,0.35);max-width:760px;margin:0 auto;">
-<p class="cc-text" style="margin:0;font-size:13.5px;line-height:1.5;color:#f5f5f5;"><span data-i18n="new_text_217_0">We use strictly necessary cookies to run this shop. With your consent we would also use analytics and marketing cookies. You can change your choice at any time.</span> <a class="cc-privacy" href="/privacy" style="color:#c8860d;text-decoration:underline;" data-i18n="cart_link_18">Privacy Policy</a></p>
-<div class="cc-actions" style="display:flex;flex-direction:column;gap:10px;">
-<button type="button" class="cc-btn cc-accept" id="cc-accept" style="min-height:44px;padding:10px 14px;font-size:14px;font-weight:600;border-radius:8px;border:1px solid #c8860d;cursor:pointer;background:#c8860d;color:#1a1a1a;" data-i18n="new_button_218">Accept all</button>
-<button type="button" class="cc-btn cc-reject" id="cc-reject" style="min-height:44px;padding:10px 14px;font-size:14px;font-weight:600;border-radius:8px;border:1px solid #c8860d;cursor:pointer;background:transparent;color:#f5f5f5;" data-i18n="new_button_219">Reject non-essential</button>
-<button type="button" class="cc-btn cc-settings" id="cc-settings-btn" style="min-height:44px;padding:10px 14px;font-size:14px;font-weight:600;border-radius:8px;border:1px solid #c8860d;cursor:pointer;background:transparent;color:#f5f5f5;" data-i18n="new_button_220">Settings</button>
+<div id="zappy-cookie-consent">
+<style>
+#zappy-cookie-consent{position:fixed;left:0;right:0;bottom:0;z-index:999999;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;pointer-events:none;}
+#zappy-cookie-consent *{box-sizing:border-box;}
+#cc-banner{pointer-events:auto;background:#1a1a1a;color:#f5f5f5;max-width:760px;margin:0 auto 16px;padding:16px 18px;border-radius:12px;box-shadow:0 8px 30px rgba(0,0,0,0.4);border:1px solid rgba(200,134,13,0.35);max-height:45vh;overflow:auto;}
+#cc-banner .cc-text{margin:0 0 14px;font-size:13.5px;line-height:1.5;color:#f5f5f5;}
+#cc-banner .cc-text a{color:#c8860d;text-decoration:underline;}
+#cc-banner .cc-actions{display:flex;flex-direction:row;flex-wrap:wrap;gap:10px;}
+#cc-banner .cc-btn{flex:1 1 0;min-width:140px;min-height:44px;padding:10px 14px;font-size:14px;font-weight:600;border-radius:8px;border:1px solid #c8860d;cursor:pointer;}
+#cc-banner #cc-accept{background:#c8860d;color:#1a1a1a;}
+#cc-banner #cc-reject,#cc-banner #cc-settings-btn{background:transparent;color:#f5f5f5;}
+#cc-banner .cc-btn:hover{filter:brightness(1.1);}
+#cc-overlay{display:none;position:fixed;inset:0;z-index:1000000;background:rgba(0,0,0,0.55);}
+#cc-panel{display:none;position:fixed;left:50%;bottom:0;transform:translateX(-50%);z-index:1000001;width:100%;max-width:480px;background:#1a1a1a;color:#f5f5f5;border-radius:14px 14px 0 0;padding:18px;box-shadow:0 -6px 30px rgba(0,0,0,0.5);max-height:80vh;overflow:auto;}
+#cc-panel h3{margin:0;font-size:17px;font-weight:700;color:#f5f5f5;}
+#cc-panel .cc-close-row{display:flex;align-items:center;justify-content:space-between;margin-bottom:6px;}
+#cc-close{background:none;border:none;color:#f5f5f5;font-size:26px;line-height:1;cursor:pointer;padding:0 4px;}
+#cc-panel .cc-panel-sub{margin:0 0 14px;font-size:13px;line-height:1.5;color:#cfcfcf;}
+#cc-panel .cc-toggle-row{display:flex;align-items:center;justify-content:space-between;gap:14px;padding:12px 0;border-top:1px solid rgba(255,255,255,0.08);}
+#cc-panel .cc-toggle-row .cc-label b{display:block;font-size:14px;font-weight:600;color:#f5f5f5;}
+#cc-panel .cc-toggle-row .cc-label span{font-size:12.5px;color:#b5b5b5;}
+#cc-panel .cc-switch{position:relative;display:inline-block;width:46px;height:26px;flex-shrink:0;}
+#cc-panel .cc-switch input{opacity:0;width:0;height:0;}
+#cc-panel .cc-slider{position:absolute;cursor:pointer;inset:0;background:#3a3a3a;border-radius:999px;transition:background 0.2s ease;}
+#cc-panel .cc-slider:before{content:"";position:absolute;height:20px;width:20px;left:3px;top:3px;background:#fff;border-radius:50%;transition:transform 0.2s ease;}
+#cc-panel .cc-switch input:checked + .cc-slider{background:#c8860d;}
+#cc-panel .cc-switch input:checked + .cc-slider:before{transform:translateX(20px);}
+#cc-panel .cc-panel-privacy{display:inline-block;margin-top:14px;font-size:13px;color:#c8860d;text-decoration:underline;}
+#cc-save{width:100%;min-height:44px;margin-top:16px;padding:10px 14px;font-size:14px;font-weight:600;border-radius:8px;border:1px solid #c8860d;cursor:pointer;background:#c8860d;color:#1a1a1a;}
+</style>
+<div class="cc-banner" id="cc-banner" role="dialog" aria-label="Cookie consent">
+<p class="cc-text"><span data-i18n="new_text_217_0">We use strictly necessary cookies to run this shop. With your consent we would also use analytics and marketing cookies. You can change your choice at any time.</span> <a href="/privacy" data-i18n="cart_link_18">Privacy Policy</a></p>
+<div class="cc-actions">
+<button type="button" class="cc-btn" id="cc-accept" data-i18n="new_button_218">Accept all</button>
+<button type="button" class="cc-btn" id="cc-reject" data-i18n="new_button_219">Reject non-essential</button>
+<button type="button" class="cc-btn" id="cc-settings-btn" data-i18n="new_button_220">Settings</button>
 </div>
 </div>
-<div class="cc-overlay" id="cc-overlay" hidden style="position:fixed;inset:0;z-index:1000000;background:rgba(0,0,0,0.55);"></div>
-<div class="cc-panel" id="cc-panel" role="dialog" aria-modal="true" aria-label="Cookie settings" hidden style="position:fixed;left:50%;bottom:0;transform:translateX(-50%);z-index:1000001;width:100%;max-width:480px;background:#1a1a1a;color:#f5f5f5;border-radius:14px 14px 0 0;padding:18px;box-shadow:0 -6px 30px rgba(0,0,0,0.5);">
-<div style="display:flex;align-items:center;justify-content:space-between;"><h3 style="margin:0;font-size:17px;font-weight:700;color:#f5f5f5;" data-i18n="new_h3_221">Cookie settings</h3><button type="button" id="cc-close" aria-label="Close" style="background:none;border:none;color:#f5f5f5;font-size:26px;line-height:1;cursor:pointer;padding:0 4px;" data-i18n="new_button_222">&amp;times;</button></div>
-<p style="margin:6px 0 16px;font-size:13px;line-height:1.5;color:#cfcfcf;" data-i18n="new_p_223">Choose which optional cookies we may use. You can change this at any time.</p>
-<div style="display:flex;align-items:center;justify-content:space-between;gap:14px;padding:12px 0;border-top:1px solid rgba(255,255,255,0.08);"><div data-i18n="new_div_224"><span style="font-size:14px;font-weight:600;color:#f5f5f5;">Analytics cookies</span><br /><span style="font-size:12.5px;color:#b5b5b5;">Help us understand how visitors use the site.</span></div><label style="position:relative;display:inline-block;width:46px;height:26px;flex-shrink:0;"><input type="checkbox" id="cc-analytics" style="opacity:0;width:0;height:0;" /><span style="position:absolute;inset:0;border-radius:999px;background:#3a3a3a;cursor:pointer;transition:background 0.2s ease;"></span></label></div>
-<div style="display:flex;align-items:center;justify-content:space-between;gap:14px;padding:12px 0;border-top:1px solid rgba(255,255,255,0.08);"><div data-i18n="new_div_227"><span style="font-size:14px;font-weight:600;color:#f5f5f5;">Marketing cookies</span><br /><span style="font-size:12.5px;color:#b5b5b5;">Used to deliver relevant ads and measure campaigns.</span></div><label style="position:relative;display:inline-block;width:46px;height:26px;flex-shrink:0;"><input type="checkbox" id="cc-marketing" style="opacity:0;width:0;height:0;" /><span style="position:absolute;inset:0;border-radius:999px;background:#3a3a3a;cursor:pointer;transition:background 0.2s ease;"></span></label></div>
-<a class="cc-privacy" href="/privacy" style="display:inline-block;margin-top:14px;font-size:13px;color:#c8860d;text-decoration:underline;" data-i18n="cart_link_18">Privacy Policy</a>
-<div style="margin-top:16px;"><button type="button" class="cc-btn cc-save" id="cc-save" style="width:100%;min-height:44px;padding:10px 14px;font-size:14px;font-weight:600;border-radius:8px;border:1px solid #c8860d;cursor:pointer;background:#c8860d;color:#1a1a1a;" data-i18n="new_button_230">Save</button></div>
+<div class="cc-overlay" id="cc-overlay"></div>
+<div class="cc-panel" id="cc-panel" role="dialog" aria-modal="true" aria-label="Cookie settings">
+<div class="cc-close-row"><h3 data-i18n="new_h3_221">Cookie settings</h3><button type="button" id="cc-close" aria-label="Close" data-i18n="new_button_236">&amp;times;</button></div>
+<p class="cc-panel-sub" data-i18n="new_p_223">Choose which optional cookies we may use. You can change this at any time.</p>
+<div class="cc-toggle-row"><div class="cc-label" data-i18n="new_div_237"><b>Analytics cookies</b><span>Help us understand how visitors use the site.</span></div><label class="cc-switch"><input type="checkbox" id="cc-analytics" /><span class="cc-slider"></span></label></div>
+<div class="cc-toggle-row"><div class="cc-label" data-i18n="new_div_239"><b>Marketing cookies</b><span>Used to deliver relevant ads and measure campaigns.</span></div><label class="cc-switch"><input type="checkbox" id="cc-marketing" /><span class="cc-slider"></span></label></div>
+<a class="cc-panel-privacy" href="/privacy" data-i18n="cart_link_18">Privacy Policy</a>
+<button type="button" id="cc-save" data-i18n="new_button_230">Save</button>
 </div>
 </div>
 
@@ -3217,6 +3246,8 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
 
 
 
+
+
 <!-- i18next Multi-Language Support -->
 <script>
 (function() {
@@ -3748,6 +3779,8 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
       "new_div_183": "<span><span>Total:</span></span> <span id=\"cart-drawer-total\">€0</span>",
       "new_div_224": "<span style=\"font-size:14px;font-weight:600;color:#f5f5f5;\">Analytics cookies</span>\n<span style=\"font-size:12.5px;color:#b5b5b5;\">Help us understand how visitors use the site.</span>",
       "new_div_227": "<span style=\"font-size:14px;font-weight:600;color:#f5f5f5;\">Marketing cookies</span>\n<span style=\"font-size:12.5px;color:#b5b5b5;\">Used to deliver relevant ads and measure campaigns.</span>",
+      "new_div_237": "<b>Analytics cookies</b><span>Help us understand how visitors use the site.</span>",
+      "new_div_239": "<b>Marketing cookies</b><span>Used to deliver relevant ads and measure campaigns.</span>",
       "terms_h2_10": "8. Product Information and Health Statements",
       "terms_h2_11": "9. Intellectual Property",
       "terms_h2_12": "10. Liability",
@@ -4094,6 +4127,7 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
       "new_button_220": "Settings",
       "new_button_222": "&times;",
       "new_button_230": "Save",
+      "new_button_236": "&times;",
       "privacy_alt_63": "Valesų gerovė",
       "privacy_alt_64": "Valesų gerovė",
       "privacy_div_55": "<strong>Last Updated:</strong> 10/17/2026",
@@ -5501,6 +5535,8 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
       "new_div_183": "<span><span>Iš viso:</span></span> <span id=\"cart-drawer-total\">€0</span>",
       "new_div_224": "<span style=\"font-size:14px;font-weight:600;color:#f5f5f5;\">Analizės slapukai</span>\n<span style=\"font-size:12.5px;color:#b5b5b5;\">Padeda mums suprasti, kaip lankytojai naudojasi svetaine.</span>",
       "new_div_227": "<span style=\"font-size:14px;font-weight:600;color:#f5f5f5;\">Rinkodaros slapukai</span>\n<span style=\"font-size:12.5px;color:#b5b5b5;\">Naudojami aktualių skelbimų pateikimui ir kampanijų vertinimui.</span>",
+      "new_div_237": "<b>Analitiniai slapukai</b><span>Padeda mums suprasti, kaip lankytojai naudojasi svetaine.</span>",
+      "new_div_239": "<b>Rinkodaros slapukai</b><span>Naudojami tinkamoms reklamoms rodyti ir kampanijoms vertinti.</span>",
       "terms_h2_10": "8. Informacija apie produktus ir teiginiai apie sveikatą",
       "terms_h2_11": "9. Intelektinė nuosavybė",
       "terms_h2_12": "10. Atsakomybė",
@@ -5847,6 +5883,7 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
       "new_button_220": "Nustatymai",
       "new_button_222": "&times;",
       "new_button_230": "Išsaugoti",
+      "new_button_236": "&times;",
       "privacy_alt_63": "Valesų gerovė",
       "privacy_alt_64": "Valesų gerovė",
       "privacy_div_55": "<strong>Paskutinį kartą atnaujinta:</strong> 10/17/2026",
