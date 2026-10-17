@@ -1982,8 +1982,6 @@ Filters
 
 
 
-Loading products...
-
 
 
 
@@ -4298,8 +4296,6 @@ Filters
 
 
 
-Loading products...
-
 
 
 
@@ -4508,44 +4504,47 @@ All Products
 # Privacy Policy
 
 
-
-Last Updated:  3/14/2026
-
+Last Updated:  10/17/2026
 
 
-Valesų gerovė ("Company", "we", "our") is committed to protecting your privacy. This privacy policy explains how we collect, use and protect your information when you use our website [business_website] ("Service").
+## 1. Who We Are
 
 
-## 1. Information Collection
+The controller responsible for your personal data is Valesų Gerovė, MB (Mažoji bendrija), company code 307168555, registered office Žirmūnų g. 57-50, LT-09110 Vilnius, Lithuania.
 
 
-We may collect the following types of information:
+This policy applies to the website https://valesugerove.lt/ and all associated ordering, account and contact services operated by us.
 
 
-- Personal Information: Name, email address, phone number and address
-
-- Technical Information: IP address, browser type, operating system and website usage data
-
-- Cookies: Information stored on your computer to improve user experience
+We do not have a formally designated Data Protection Officer. All data protection queries should be directed to us directly:
 
 
+- Correspondence address: Žalgirio g. 90, 6th floor, LT-09303 Vilnius, Lithuania
+
+- Email: info@valesugerove.lt
+
+- Phone: +370 45435643
 
 
-## 2. Use of Information
 
 
-We use the collected information for the following purposes:
+## 2. What Data We Collect
 
 
-- Providing requested services
-
-- Improving service and user experience
-
-- Contacting you regarding our services
-
-- Compliance with legal requirements
+We collect the following categories of personal data:
 
 
+- Order data: your name, delivery and billing address, email address, phone number, items ordered and payment status. We never see or store your full card number — card payments are handled entirely by our payment providers.
+
+- Contact and newsletter data: your name and email address when you submit a contact form or subscribe to our newsletter.
+
+- Technical data: IP address, browser type, operating system and website usage data, collected via cookies and similar technologies (see Section 8).
+
+- Account data: your name, email address and order history if you create a customer account on our website.
+
+
+
+We do not ask for health or special-category data. Please do not include health information or any other sensitive personal data in contact forms or order notes.
 
 
 ## 3. Information Sharing
