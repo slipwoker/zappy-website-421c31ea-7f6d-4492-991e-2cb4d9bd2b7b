@@ -12670,6 +12670,67 @@ h1, h2, h3, h4, h5, h6 { font-family: 'Lora', sans-serif; font-weight: 700; }
     margin-bottom: 22px;
   }
 }
+
+.naturosync-in-development-vales-gerov-hero-section,
+.naturosync-in-development-vales-gerov-about-section,
+.naturosync-in-development-vales-gerov-process-section {
+  background-color: var(--surface-color, var(--surface, #F5F5DC)) !important;
+}
+
+.naturosync-in-development-vales-gerov-about-section .neural-separator svg circle,
+.naturosync-in-development-vales-gerov-about-section .neural-separator svg line {
+  stroke: var(--secondary-color, var(--secondary, #4A5D4E));
+}
+
+.naturosync-in-development-vales-gerov-about-section h2,
+.naturosync-in-development-vales-gerov-about-section .about-left-column h2,
+.naturosync-in-development-vales-gerov-process-section .process-header h2,
+.naturosync-in-development-vales-gerov-process-section .process-card h3,
+.naturosync-in-development-vales-gerov-about-section .text-panel p,
+.naturosync-in-development-vales-gerov-about-section .about-left-column p,
+.naturosync-in-development-vales-gerov-about-section .about-notice-box p,
+.naturosync-in-development-vales-gerov-process-section .process-card p,
+.naturosync-in-development-vales-gerov-process-section .process-intro {
+  color: var(--text-color, var(--text, var(--text-dark, #2D241E))) !important;
+}
+
+.naturosync-in-development-vales-gerov-about-section .eyebrow-label {
+  color: var(--secondary-color, var(--secondary, #4A5D4E)) !important;
+}
+
+.naturosync-in-development-vales-gerov-process-section .step-number,
+.naturosync-in-development-vales-gerov-process-section .card-icon {
+  color: var(--secondary-color, var(--secondary, #4A5D4E)) !important;
+}
+
+.naturosync-in-development-vales-gerov-process-section .process-card {
+  background-color: #FFFFFF !important;
+  border-color: var(--secondary-color, var(--secondary, #4A5D4E)) !important;
+}
+
+.naturosync-in-development-vales-gerov-process-section .accent-rule {
+  background-color: var(--accent-color, var(--accent, #D97706)) !important;
+}
+
+.naturosync-in-development-vales-gerov-about-section .about-notice-box {
+  background: #FFFFFF !important;
+  border-color: var(--secondary-color, var(--secondary, #4A5D4E)) !important;
+}
+
+.naturosync-in-development-vales-gerov-about-section .text-panel {
+  background: #FFFFFF !important;
+  border-left-color: var(--secondary-color, var(--secondary, #4A5D4E)) !important;
+}
+
+.naturosync-in-development-vales-gerov-hero-section .ns-hero-figure {
+  background: #FFFFFF !important;
+  border-color: var(--secondary-color, var(--secondary, #4A5D4E)) !important;
+}
+
+.naturosync-in-development-vales-gerov-hero-section .ns-hero-caption {
+  background: var(--surface-color, var(--surface, #F5F5DC)) !important;
+  color: var(--text-secondary-color, var(--text-secondary, var(--text-muted, #5A5A5A))) !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,

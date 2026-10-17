@@ -4151,10 +4151,10 @@ An illustrative concept, not an available product.
 
 
 
-### Explore
+### Sense
 
 
-Browse traditional herbs, teas and honey with their origin and traditional use.
+Ear-worn sensors would record signals such as heart-rate variability and blood-oxygen trends.
 
 
 
@@ -4167,10 +4167,10 @@ Browse traditional herbs, teas and honey with their origin and traditional use.
 
 
 
-### Understand
+### Interpret
 
 
-Simple notes explain how each product is traditionally prepared.
+An AI-supported app would turn the signals into simple trends.
 
 
 
@@ -4183,10 +4183,10 @@ Simple notes explain how each product is traditionally prepared.
 
 
 
-### Plan
+### Personalize
 
 
-Save favourites and build a shopping list.
+Settings would be tailored to each person over time.
 
 
 
@@ -4199,11 +4199,10 @@ Save favourites and build a shopping list.
 
 
 
-### Learn
+### Review
 
 
-Read about Lithuanian herbal culture through the seasons.
-
+A dashboard would let users, and in the future wellness professionals, review trends.
 
 
 
@@ -4217,12 +4216,7 @@ Read about Lithuanian herbal culture through the seasons.
 
 ## Where we are
 
-
-Valesu Gerove is a small Lithuanian business. Our shop focuses on traditional Baltic herbal products, with carefully selected supplements and modern technology alongside.
-
-
-NaturoSync is only an idea at this stage. We will share news here if it develops.
-
+Valesu Gerove is a small Lithuanian business. Our shop focuses on traditional Baltic herbal products, with carefully selected supplements and modern technology alongside. NaturoSync is an early concept; we will share news here if it develops.
 
 
 
