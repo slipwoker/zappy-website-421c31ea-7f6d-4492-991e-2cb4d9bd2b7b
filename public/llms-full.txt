@@ -4283,7 +4283,14 @@ To exercise any of these rights, please write to us at info@valesugerove.lt. We 
 
 You also have the right to lodge a complaint with the Lithuanian supervisory authority: Valstybinė duomenų apsaugos inspekcija (VDAI), L. Sapiegos g. 17, 10312 Vilnius, email ada@ada.lt, website vdai.lrv.lt.
 
-## 8. Contact Information
+## 8. Cookies
+
+
+Our website uses cookies and similar technologies. Strictly necessary cookies (for example to keep your basket and checkout session working) are used without consent because the site cannot work without them. All other cookies, including analytics and marketing cookies, are used only if you give your consent through our cookie banner (Art. 6(1)(a) GDPR and the ePrivacy rules). You can accept or reject non-essential cookies equally easily, and you can change or withdraw your choice at any time through the cookie settings link in the page footer. Withdrawing consent does not affect processing carried out before withdrawal. Further details on individual cookies, including their lifetimes, are available in the cookie settings.
+
+
+
+## 9. Contact Information
 
 For questions or requests regarding this privacy policy, please contact us:
 - Company: Valesų Gerovė, MB (company code 307168555)
