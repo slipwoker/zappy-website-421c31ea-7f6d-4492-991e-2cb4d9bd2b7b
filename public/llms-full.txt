@@ -4095,7 +4095,7 @@ Concept stage
 ### A Lithuania-based wellness technology project, currently in development.
 
 
-An early preview of a wellness technology concept that combines everyday wearable sensing, a companion app and practitioner knowledge.
+An early, illustrative idea for a companion app that brings traditional herbal knowledge and everyday wellness technology together.
 
 
 
@@ -4220,20 +4220,18 @@ Read about Lithuanian herbal culture through the seasons.
 ## Where we are
 
 
-Valesų gerovė is currently in active development. We are building a unique Lithuanian wellness platform that bridges ancient Baltic forest wisdom with the precision of modern biohacking. Our team is carefully sourcing Chaga tinctures, birch bud extracts, and other heritage remedies, while simultaneously integrating carefully sourced supplements and wearable health devices into a unified catalog experience.
+Valesu Gerove is a small Lithuanian business. Our shop focuses on traditional Baltic herbal products, with carefully selected supplements and modern technology alongside.
 
 
-The dual-pathway shopping experience is being refined so that every visitor can move seamlessly between traditional apothecary knowledge and lab-grade technological innovation. We are not rushing this process; the integrity of both worlds matters deeply to us.
+NaturoSync is only an idea at this stage. We will share news here if it develops.
 
 
 
 
 Development notice
 
-Our catalog and checkout are not yet live. We are currently finalizing product sourcing, testing user flows, and ensuring that every item meets our standards for both heritage authenticity and scientific rigor.
+NaturoSync is not available. It is not for sale and is not a medical device.
 
-
-Not yet for sale.
 
 
 
