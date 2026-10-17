@@ -76,7 +76,14 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 1**
+**Total active products: 2**
+
+### SAMPLE - Wellness Wearable (placeholder)
+https://valesugerove.lt/product/sample-wellness-wearable-placeholder-ki7tpg
+- Price: 0.01 EUR
+- Availability: Out of stock
+- Category: Biohacking wearables
+- Description: Placeholder product for layout only. Not for sale. Real products coming soon.
 
 ### SAMPLE - Botanical Supplement Bottle (placeholder)
 https://valesugerove.lt/product/sample-botanical-supplement-bottle-placeholder-ks34tq

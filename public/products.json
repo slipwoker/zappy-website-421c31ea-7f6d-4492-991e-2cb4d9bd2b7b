@@ -1,10 +1,35 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-17T08:25:56.928Z",
+  "generated_at": "2026-10-17T08:27:22.114Z",
   "base_url": "https://valesugerove.lt",
   "currency": "EUR",
-  "count": 1,
+  "count": 2,
   "products": [
+    {
+      "id": "99ffd505-7e5f-4da4-b65d-6d6f02d70556",
+      "slug": "sample-wellness-wearable-placeholder-ki7tpg",
+      "name": "SAMPLE - Wellness Wearable (placeholder)",
+      "name_translations": {
+        "en": "SAMPLE - Wellness Wearable (placeholder)",
+        "lt": "PAVYZDYS – Gerovės įrenginys (vietos žymeklis)"
+      },
+      "description": "",
+      "short_description": "Placeholder product for layout only. Not for sale. Real products coming soon.",
+      "sku": null,
+      "brand": null,
+      "price": 0.01,
+      "base_price": 0.01,
+      "sale_price": null,
+      "currency": "EUR",
+      "images": [],
+      "in_stock": false,
+      "stock_status": "out_of_stock",
+      "url": "https://valesugerove.lt/product/sample-wellness-wearable-placeholder-ki7tpg",
+      "categories": [
+        "Biohacking wearables"
+      ],
+      "updated_at": "2026-10-17T08:26:43.928Z"
+    },
     {
       "id": "25c4039a-c368-4af0-af5f-5961068f4c05",
       "slug": "sample-botanical-supplement-bottle-placeholder-ks34tq",

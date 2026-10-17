@@ -4,7 +4,19 @@
     <title>Valesų gerovė</title>
     <link>https://valesugerove.lt</link>
     <description>Product feed for Valesų gerovė</description>
-    <lastBuildDate>Sat, 17 Oct 2026 08:25:56 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 08:27:22 GMT</lastBuildDate>
+    <item>
+      <g:id>99ffd505-7e5f-4da4-b65d-6d6f02d70556</g:id>
+      <g:title>SAMPLE - Wellness Wearable (placeholder)</g:title>
+      <g:description>Placeholder product for layout only. Not for sale. Real products coming soon.</g:description>
+      <g:link>https://valesugerove.lt/product/sample-wellness-wearable-placeholder-ki7tpg</g:link>
+      <g:availability>out_of_stock</g:availability>
+      <g:price>0.01 EUR</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Valesų gerovė</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Biohacking wearables</g:product_type>
+    </item>
     <item>
       <g:id>25c4039a-c368-4af0-af5f-5961068f4c05</g:id>
       <g:title>SAMPLE - Botanical Supplement Bottle (placeholder)</g:title>
