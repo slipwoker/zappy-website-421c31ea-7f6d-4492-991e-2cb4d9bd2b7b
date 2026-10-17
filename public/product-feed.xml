@@ -4,18 +4,6 @@
     <title>Valesų gerovė</title>
     <link>https://valesugerove.lt</link>
     <description>Product feed for Valesų gerovė</description>
-    <lastBuildDate>Sat, 17 Oct 2026 11:49:47 GMT</lastBuildDate>
-    <item>
-      <g:id>25c4039a-c368-4af0-af5f-5961068f4c05</g:id>
-      <g:title>SAMPLE - Botanical Supplement Bottle (placeholder)</g:title>
-      <g:description>Placeholder product for layout only. Not for sale. Real products coming soon.</g:description>
-      <g:link>https://valesugerove.lt/product/sample-botanical-supplement-bottle-placeholder-ks34tq</g:link>
-      <g:availability>out_of_stock</g:availability>
-      <g:price>0.01 EUR</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>Valesų gerovė</g:brand>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:product_type>Biohacking Supplements</g:product_type>
-    </item>
+    <lastBuildDate>Sat, 17 Oct 2026 11:50:34 GMT</lastBuildDate>
   </channel>
 </rss>
