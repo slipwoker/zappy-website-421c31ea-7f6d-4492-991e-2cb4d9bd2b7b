@@ -1,17 +1,17 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-17T08:27:22.114Z",
+  "generated_at": "2026-10-17T08:28:06.475Z",
   "base_url": "https://valesugerove.lt",
   "currency": "EUR",
-  "count": 2,
+  "count": 3,
   "products": [
     {
-      "id": "99ffd505-7e5f-4da4-b65d-6d6f02d70556",
-      "slug": "sample-wellness-wearable-placeholder-ki7tpg",
-      "name": "SAMPLE - Wellness Wearable (placeholder)",
+      "id": "dea671a8-bfeb-4ddb-a42b-b4699ffa1557",
+      "slug": "sample-traditional-herbal-bottle-placeholder-1y7eey",
+      "name": "SAMPLE - Traditional Herbal Bottle (placeholder)",
       "name_translations": {
-        "en": "SAMPLE - Wellness Wearable (placeholder)",
-        "lt": "PAVYZDYS – Gerovės įrenginys (vietos žymeklis)"
+        "en": "SAMPLE - Traditional Herbal Bottle (placeholder)",
+        "lt": "PAVYZDYS - Tradicinis žolelių buteliukas (vietos užpildas)"
       },
       "description": "",
       "short_description": "Placeholder product for layout only. Not for sale. Real products coming soon.",
@@ -24,11 +24,36 @@
       "images": [],
       "in_stock": false,
       "stock_status": "out_of_stock",
-      "url": "https://valesugerove.lt/product/sample-wellness-wearable-placeholder-ki7tpg",
+      "url": "https://valesugerove.lt/product/sample-traditional-herbal-bottle-placeholder-1y7eey",
+      "categories": [
+        "Tradtional Remedies"
+      ],
+      "updated_at": "2026-10-17T08:27:33.893Z"
+    },
+    {
+      "id": "99ffd505-7e5f-4da4-b65d-6d6f02d70556",
+      "slug": "sample-wellness-wearable-placeholder-096j2z",
+      "name": "SAMPLE - Wellness Wearable (placeholder)",
+      "name_translations": {
+        "en": "SAMPLE - Wellness Wearable (placeholder)",
+        "lt": "PAVYZDYS – Gerovės nešiojamas įrenginys (vietos užpildas)"
+      },
+      "description": "",
+      "short_description": "Placeholder product for layout only. Not for sale. Real products coming soon.",
+      "sku": null,
+      "brand": null,
+      "price": 0.01,
+      "base_price": 0.01,
+      "sale_price": null,
+      "currency": "EUR",
+      "images": [],
+      "in_stock": false,
+      "stock_status": "out_of_stock",
+      "url": "https://valesugerove.lt/product/sample-wellness-wearable-placeholder-096j2z",
       "categories": [
         "Biohacking wearables"
       ],
-      "updated_at": "2026-10-17T08:26:43.928Z"
+      "updated_at": "2026-10-17T08:27:58.940Z"
     },
     {
       "id": "25c4039a-c368-4af0-af5f-5961068f4c05",

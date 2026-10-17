@@ -76,10 +76,17 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 2**
+**Total active products: 3**
+
+### SAMPLE - Traditional Herbal Bottle (placeholder)
+https://valesugerove.lt/product/sample-traditional-herbal-bottle-placeholder-1y7eey
+- Price: 0.01 EUR
+- Availability: Out of stock
+- Category: Tradtional Remedies
+- Description: Placeholder product for layout only. Not for sale. Real products coming soon.
 
 ### SAMPLE - Wellness Wearable (placeholder)
-https://valesugerove.lt/product/sample-wellness-wearable-placeholder-ki7tpg
+https://valesugerove.lt/product/sample-wellness-wearable-placeholder-096j2z
 - Price: 0.01 EUR
 - Availability: Out of stock
 - Category: Biohacking wearables

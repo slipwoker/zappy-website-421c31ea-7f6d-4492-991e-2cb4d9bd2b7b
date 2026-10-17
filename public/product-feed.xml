@@ -4,12 +4,24 @@
     <title>Valesų gerovė</title>
     <link>https://valesugerove.lt</link>
     <description>Product feed for Valesų gerovė</description>
-    <lastBuildDate>Sat, 17 Oct 2026 08:27:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 08:28:06 GMT</lastBuildDate>
+    <item>
+      <g:id>dea671a8-bfeb-4ddb-a42b-b4699ffa1557</g:id>
+      <g:title>SAMPLE - Traditional Herbal Bottle (placeholder)</g:title>
+      <g:description>Placeholder product for layout only. Not for sale. Real products coming soon.</g:description>
+      <g:link>https://valesugerove.lt/product/sample-traditional-herbal-bottle-placeholder-1y7eey</g:link>
+      <g:availability>out_of_stock</g:availability>
+      <g:price>0.01 EUR</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>Valesų gerovė</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>Tradtional Remedies</g:product_type>
+    </item>
     <item>
       <g:id>99ffd505-7e5f-4da4-b65d-6d6f02d70556</g:id>
       <g:title>SAMPLE - Wellness Wearable (placeholder)</g:title>
       <g:description>Placeholder product for layout only. Not for sale. Real products coming soon.</g:description>
-      <g:link>https://valesugerove.lt/product/sample-wellness-wearable-placeholder-ki7tpg</g:link>
+      <g:link>https://valesugerove.lt/product/sample-wellness-wearable-placeholder-096j2z</g:link>
       <g:availability>out_of_stock</g:availability>
       <g:price>0.01 EUR</g:price>
       <g:condition>new</g:condition>
