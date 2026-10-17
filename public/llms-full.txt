@@ -89,7 +89,7 @@ Save
 
 - Products Products
 - About
-- Science
+- Standards
 - Contact
 - NaturoSync
 0                            Lietuvių
@@ -482,7 +482,7 @@ Coming soon
 Share your tastes and preferences with us. Our team will help you explore a personal selection of traditional Baltic botanicals and carefully chosen modern wellness products — always described with honest, complete information first.
 
 Contact Valesų gerovė
-Read our sourcing standards
+Standards
 
 
 
@@ -519,7 +519,7 @@ Lithuanian botanical heritage, carefully selected supplements and modern technol
 
 ### Quick Links
 - About
-- Science
+- Standards
 - Contact
 
 ### Get in Touch
@@ -618,7 +618,7 @@ Save
 
 - Products Products
 - About
-- Science
+- Standards
 - Contact
 - NaturoSync
 0                            Lietuvių
@@ -866,7 +866,7 @@ Lithuanian botanical heritage, carefully selected supplements and modern technol
 
 ### Quick Links
 - About
-- Science
+- Standards
 - Contact
 
 ### Get in Touch
@@ -886,7 +886,7 @@ Privacy Policy   •   Terms & Conditions  |    Return Policy    •   Accessibi
 URL: https://valesugerove.lt/science
 Description: How Valesu Gerove describes Lithuanian herbal products and supplements: origin, ingredients and traditional use, with no health claims.
 
-Product Information Standards | Valesu Gerove
+Standards
 
 
 
@@ -965,7 +965,7 @@ Save
 
 - Products Products
 - About
-- Science
+- Standards
 - Contact
 - NaturoSync
 0                            Lietuvių
@@ -1058,7 +1058,7 @@ Herbs and supplements can interact with medication. Ask your doctor or pharmacis
 ## Common questions.
 
 
-We've gathered answers to the most frequently asked questions about combining ancient Baltic remedies with responsible, modern wellness practices. These responses are designed to help you navigate your wellness journey safely and thoughtfully.
+Short answers about responsible use of herbal products and supplements.
 
 
 
@@ -1089,10 +1089,10 @@ Yes. Use the Contact page or the shop assistant, which is an AI and gives produc
 
 
 
-## Get a cautious, personalized starting plan.
+## Need help choosing?
 
 
-Share your wellness goals and any constraints with us, and we'll create a conservative first step that respects both ancient wisdom and modern science. Whether you're exploring herbal tinctures or wellness supplements, we'll guide you safely.
+Tell us what you like, such as teas, honey or other traditional products, and we will suggest where to start. We give product information only, not medical advice.
 
 Contact
 
@@ -1104,7 +1104,7 @@ Lithuanian botanical heritage, carefully selected supplements and modern technol
 
 ### Quick Links
 - About
-- Science
+- Standards
 - Contact
 
 ### Get in Touch
@@ -1203,7 +1203,7 @@ Save
 
 - Products Products
 - About
-- Science
+- Standards
 - Contact
 - NaturoSync
 0                            Lietuvių
@@ -1390,7 +1390,7 @@ Lithuanian botanical heritage, carefully selected supplements and modern technol
 
 ### Quick Links
 - About
-- Science
+- Standards
 - Contact
 
 ### Get in Touch
@@ -1494,7 +1494,7 @@ Save
 
 - Products Products
 - About
-- Science
+- Standards
 - Contact
 - NaturoSync
 0                            Lietuvių
@@ -1549,7 +1549,7 @@ Lithuanian botanical heritage, carefully selected supplements and modern technol
 
 ### Quick Links
 - About
-- Science
+- Standards
 - Contact
 
 ### Get in Touch
@@ -1673,7 +1673,7 @@ Save
 
 - Products Products
 - About
-- Science
+- Standards
 - Contact
 - NaturoSync
 0                            Lietuvių
@@ -1706,7 +1706,7 @@ Lithuanian botanical heritage, carefully selected supplements and modern technol
 
 ### Quick Links
 - About
-- Science
+- Standards
 - Contact
 
 ### Get in Touch
@@ -1830,7 +1830,7 @@ Save
 
 - Products Products
 - About
-- Science
+- Standards
 - Contact
 - NaturoSync
 0                            Lietuvių
@@ -2049,7 +2049,7 @@ Lithuanian botanical heritage, carefully selected supplements and modern technol
 
 ### Quick Links
 - About
-- Science
+- Standards
 - Contact
 
 ### Get in Touch
@@ -2173,7 +2173,7 @@ Save
 
 - Products Products
 - About
-- Science
+- Standards
 - Contact
 - NaturoSync
 0                            Lietuvių
@@ -2213,7 +2213,7 @@ Lithuanian botanical heritage, carefully selected supplements and modern technol
 
 ### Quick Links
 - About
-- Science
+- Standards
 - Contact
 
 ### Get in Touch
@@ -2337,7 +2337,7 @@ Save
 
 - Products Products
 - About
-- Science
+- Standards
 - Contact
 - NaturoSync
 0                            Lietuvių
@@ -2532,7 +2532,7 @@ Lithuanian botanical heritage, carefully selected supplements and modern technol
 
 ### Quick Links
 - About
-- Science
+- Standards
 - Contact
 
 ### Get in Touch
@@ -2656,7 +2656,7 @@ Save
 
 - Products Products
 - About
-- Science
+- Standards
 - Contact
 - NaturoSync
 0                            Lietuvių
@@ -2713,7 +2713,7 @@ Lithuanian botanical heritage, carefully selected supplements and modern technol
 
 ### Quick Links
 - About
-- Science
+- Standards
 - Contact
 
 ### Get in Touch
@@ -2763,7 +2763,7 @@ Analytics cookies
 Help us understand how visitors use the site.            Marketing cookies
 Used to deliver relevant ads and measure campaigns.          Privacy Policy    Save                                                          - Products Products
 - About
-- Science
+- Standards
 - Contact
 - NaturoSync
 0                            Lietuvių                      All Products
@@ -2836,7 +2836,7 @@ Lithuanian botanical heritage, carefully selected supplements and modern technol
 
 ### Quick Links
 - About
-- Science
+- Standards
 - Contact
 
 ### Get in Touch
@@ -2942,7 +2942,7 @@ Save
 
 - Products Products
 - About
-- Science
+- Standards
 - Contact
 - NaturoSync
 0                            Lietuvių
@@ -2977,7 +2977,7 @@ Lithuanian botanical heritage, carefully selected supplements and modern technol
 
 ### Quick Links
 - About
-- Science
+- Standards
 - Contact
 
 ### Get in Touch
@@ -3101,7 +3101,7 @@ Save
 
 - Products Products
 - About
-- Science
+- Standards
 - Contact
 - NaturoSync
 0                            Lietuvių
@@ -3158,7 +3158,7 @@ Lithuanian botanical heritage, carefully selected supplements and modern technol
 
 ### Quick Links
 - About
-- Science
+- Standards
 - Contact
 
 ### Get in Touch
@@ -3208,7 +3208,7 @@ Analytics cookies
 Help us understand how visitors use the site.            Marketing cookies
 Used to deliver relevant ads and measure campaigns.          Privacy Policy    Save                                                          - Products Products
 - About
-- Science
+- Standards
 - Contact
 - NaturoSync
 0                            Lietuvių                      All Products
@@ -3306,7 +3306,7 @@ Lithuanian botanical heritage, carefully selected supplements and modern technol
 
 ### Quick Links
 - About
-- Science
+- Standards
 - Contact
 
 ### Get in Touch
@@ -3389,7 +3389,7 @@ Save
 
 - Products Products
 - About
-- Science
+- Standards
 - Contact
 - NaturoSync
 0                            Lietuvių
@@ -3538,7 +3538,7 @@ Lithuanian botanical heritage, carefully selected supplements and modern technol
 
 ### Quick Links
 - About
-- Science
+- Standards
 - Contact
 
 ### Get in Touch
@@ -3621,7 +3621,7 @@ Save
 
 - Products Products
 - About
-- Science
+- Standards
 - Contact
 - NaturoSync
 0                            Lietuvių
@@ -3786,7 +3786,7 @@ Lithuanian botanical heritage, carefully selected supplements and modern technol
 
 ### Quick Links
 - About
-- Science
+- Standards
 - Contact
 
 ### Get in Touch
@@ -3896,7 +3896,7 @@ Save
 
 - Products Products
 - About
-- Science
+- Standards
 - Contact
 - NaturoSync
 0                            Lietuvių
@@ -3955,7 +3955,7 @@ Lithuanian botanical heritage, carefully selected supplements and modern technol
 
 ### Quick Links
 - About
-- Science
+- Standards
 - Contact
 
 ### Get in Touch
@@ -4068,7 +4068,7 @@ Save
 
 - Products Products
 - About
-- Science
+- Standards
 - Contact
 - NaturoSync
 0                            Lietuvių
@@ -4271,7 +4271,7 @@ Lithuanian botanical heritage, carefully selected supplements and modern technol
 
 ### Quick Links
 - About
-- Science
+- Standards
 - Contact
 
 ### Get in Touch
