@@ -12743,6 +12743,40 @@ h1, h2, h3, h4, h5, h6 { font-family: 'Lora', sans-serif; font-weight: 700; }
 .nav-cta-btn { color: #FFFFFF !important; }
 /* === BUTTON TEXT OVERRIDES END === */
 
+
+.home-hero-section {
+  min-height: 520px;
+  height: 56vw;
+  align-items: center;
+  padding-bottom: 0;
+}
+
+.home-hero-section .home-hero-bg {
+  object-fit: cover;
+  object-position: center bottom;
+  height: 100%;
+}
+
+.home-hero-section .zappy-hero-overlay {
+  background: rgba(0, 0, 0, 0.08) !important;
+}
+
+.home-hero-section .home-hero-scrim {
+  background: linear-gradient(90deg, rgba(11,31,38,0.60) 0%, rgba(11,31,38,0.35) 38%, rgba(11,31,38,0.05) 62%, rgba(11,31,38,0) 100%);
+}
+
+.home-hero-section .home-hero-overlay-card {
+  margin-left: 6vw;
+  align-self: center;
+}
+
+.home-hero-section .home-hero-divider-wrapper {
+  height: 0;
+  overflow: hidden;
+}
+/* zappy-self-heal */
+.home-hero-section .home-hero-bg { object-position: center bottom !important; }
+
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
