@@ -4912,82 +4912,67 @@ All Products
 
 
 
-# Terms of Use
+# Terms and Conditions of Sale
+
+
+Last updated:  10/17/2026
+
+
+Please read these Terms and Conditions of Sale carefully before placing an order. By completing a purchase on valesugerove.lt you agree to be bound by these terms.
 
 
 
-Last updated:  March 14, 2026
+## 1. Seller
 
 
+- Company name: Valesų Gerovė, MB
 
-Use of this site constitutes agreement to the terms outlined below. Please read carefully before use.
+- Company code: 307168555
 
+- VAT number: LT100019995616
 
+- Registered office: Žirmūnų g. 57-50, LT-09110 Vilnius, Lithuania
 
-## 1. Definitions
+- Contact and correspondence address: Žalgirio g. 90, 6th floor, LT-09303 Vilnius, Lithuania
 
+- Email: info@valesugerove.lt
 
-- "Company" - Valesų gerovė
+- Phone: +370 4543 5643
 
-- "User" - Anyone who browses or uses the site
-
-- "Services" - wellness and biohacking provided through the site
-
-
-
-
-## 2. Description of Services
-
-
-Valesų gerovė provides wellness and biohacking through the site. The services are subject to the terms detailed in this document and may change from time to time.
-
-
-## 3. Terms of Use
-
-
-Use of the site is conditional on compliance with the following terms:
-
-
-- Use of the site for lawful purposes only
-
-- No interference with site operations or other users
-
-- No uploading of offensive, illegal, or harmful content
-
-- Respect for copyright and intellectual property rights
-
-- No actions that may compromise site security
+- Website: valesugerove.lt
 
 
 
 
-## 4. User Obligations
+## 2. Scope
 
 
-- Providing accurate and truthful information during registration or ordering
-
-- Maintaining confidentiality of account access details
-
-- Immediate notification of any unauthorized account use
-
-- Updating personal information as needed
+These terms apply to all purchases made on valesugerove.lt. Our products are food supplements and related wellness products. Food supplements are not medicines and do not replace a varied and balanced diet or medical care.
 
 
+- If you are pregnant, breastfeeding, taking medication, or have a medical condition, speak to a doctor or pharmacist before use.
+
+- Keep all products out of reach of young children.
+
+- Do not exceed the recommended daily dose.
 
 
-## 5. Payment and Refund Policy
 
 
-If services include payment:
+## 3. Orders and Contract
 
 
-- Payments are processed through secure and encrypted systems
+Your order is an offer to purchase. The contract between you and us is concluded when we send you an order confirmation by email. We may decline an order — for example due to stock errors or suspected fraud — and will refund any payment already made.
 
-- Prices include applicable taxes as required by law
 
-- Right to cancel will be in accordance with consumer protection laws
+## 4. Prices and Payment
 
-- Refunds will be processed within 14 business days of cancellation approval
+
+- Prices are shown in euros (EUR) and include VAT where applicable.
+
+- The delivery cost is shown before you complete payment.
+
+- We accept the payment methods shown at checkout. Payments are processed by Mollie and PayPal. We never see or store your full card number.
 
 
 
