@@ -4090,10 +4090,10 @@ Concept stage
 # NaturoSync
 
 
-### A Lithuania-based wellness technology project, currently in development.
+### A Lithuania-based wellness technology project in development.
 
 
-An early, illustrative idea for a companion app that brings traditional herbal knowledge and everyday wellness technology together.
+An early-stage concept for a personalized biometric-monitoring and neuroregulation platform: ear-worn sensing, non-invasive technology and a companion app, working together in one measurable loop.
 
 
 
@@ -4121,10 +4121,10 @@ The idea
 
 
 
-NaturoSync is a concept from Valesu Gerove: a companion app idea that would bring traditional Baltic herbal knowledge and everyday wellness technology together in one simple place.
+Most wearables measure, and most neuromodulation devices stimulate. NaturoSync explores connecting both in one platform, so users and, in the future, wellness professionals can follow how the body responds over time.
 
 
-The name reflects our belief that heritage and technology can sit side by side. NaturoSync is illustrative only. It is not a medical device, it is not for sale, and it makes no health claims.
+NaturoSync is a concept under development. It is not for sale, not a medical device, not CE-marked, and makes no health claims.
 
 
 
