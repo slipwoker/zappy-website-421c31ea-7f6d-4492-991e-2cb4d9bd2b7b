@@ -12731,6 +12731,16 @@ h1, h2, h3, h4, h5, h6 { font-family: 'Lora', sans-serif; font-weight: 700; }
   background: var(--surface-color, var(--surface, #F5F5DC)) !important;
   color: var(--text-secondary-color, var(--text-secondary, var(--text-muted, #5A5A5A))) !important;
 }
+
+.naturosync-in-development-vales-gerov-hero-section,
+.naturosync-in-development-vales-gerov-process-section {
+  background-image: none !important;
+  background-size: auto !important;
+}
+
+.naturosync-in-development-vales-gerov-cta-section {
+  background-image: none !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
