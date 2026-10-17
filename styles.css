@@ -12590,6 +12590,10 @@ h1, h2, h3, h4, h5, h6 { font-family: 'Lora', sans-serif; font-weight: 700; }
 .products-section .product-card .price {
   color: var(--surface-color, var(--surface, #F5F5DC)) !important;
 }
+
+.featured-products-section {
+  display: none !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
