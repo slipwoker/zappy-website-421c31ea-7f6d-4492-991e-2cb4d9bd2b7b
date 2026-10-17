@@ -4400,335 +4400,106 @@ Proceed to Checkout
 URL: https://valesugerove.lt/privacy
 Description: Our privacy policy - how we collect, use, and protect your information
 
-Privacy Policy
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-- Products Products
-
-
-
-
-
-
-
-
-
-
+Privacy Policy                                                                              - Products Products
 - About
 - Science
 - Contact
-0
-
-
-
-
-
-
-
-
-
-
-
-Lietuvių
-
-
-
-
-
-
-
-
-
-
-
-All Products
-
-
-
-
-
-
-
-
-
+0                            Lietuvių                      All Products
 # Privacy Policy
-
-
 Last Updated:  10/17/2026
-
-
 ## 1. Who We Are
-
 
 The controller responsible for your personal data is Valesų Gerovė, MB (Mažoji bendrija), company code 307168555, registered office Žirmūnų g. 57-50, LT-09110 Vilnius, Lithuania.
 
-
 This policy applies to the website https://valesugerove.lt/ and all associated ordering, account and contact services operated by us.
 
-
 We do not have a formally designated Data Protection Officer. All data protection queries should be directed to us directly:
-
-
 - Correspondence address: Žalgirio g. 90, 6th floor, LT-09303 Vilnius, Lithuania
-
 - Email: info@valesugerove.lt
-
 - Phone: +370 45435643
-
-
-
 
 ## 2. What Data We Collect
 
-
 We collect the following categories of personal data:
-
-
 - Order data: your name, delivery and billing address, email address, phone number, items ordered and payment status. We never see or store your full card number — card payments are handled entirely by our payment providers.
-
 - Contact and newsletter data: your name and email address when you submit a contact form or subscribe to our newsletter.
-
 - Technical data: IP address, browser type, operating system and website usage data, collected via cookies and similar technologies (see Section 8).
-
 - Account data: your name, email address and order history if you create a customer account on our website.
-
-
 
 We do not ask for health or special-category data. Please do not include health information or any other sensitive personal data in contact forms or order notes.
 
-
 ## 3. Purposes and Legal Bases (GDPR Art. 6)
 
-
 We process your personal data only where we have a lawful basis to do so:
-
-
 - Processing and fulfilling your order — legal basis: performance of a contract with you (Art. 6(1)(b) GDPR).
-
 - Accounting and tax records — legal basis: compliance with a legal obligation (Art. 6(1)(c) GDPR), in particular Lithuanian accounting and tax legislation.
-
 - Answering your enquiries — legal basis: our legitimate interest in responding to customers and potential customers (Art. 6(1)(f) GDPR), or pre-contractual steps at your request (Art. 6(1)(b) GDPR). See Section 7 for your right to object.
-
 - Newsletter and marketing emails — legal basis: your consent (Art. 6(1)(a) GDPR). You may withdraw your consent at any time by clicking the unsubscribe link in any email or by writing to us. Withdrawal of consent does not affect the lawfulness of any processing carried out before the withdrawal.
-
 - Analytics and non-essential cookies — legal basis: your consent (Art. 6(1)(a) GDPR), given through our cookie banner. See Section 8 for details.
-
 - Fraud prevention and security — legal basis: our legitimate interest in protecting our business and customers (Art. 6(1)(f) GDPR). See Section 7 for your right to object.
-
-
-
 
 ## 4. Recipients of Your Data
 
-
 We share your personal data only where necessary, with the following categories of recipients:
-
-
 - Website platform and hosting provider — for operating and maintaining the website.
-
 - Payment providers: Mollie and PayPal — to process your payment securely. These providers have their own privacy policies.
-
 - Carriers and logistics providers — to deliver your order to the address you specify.
-
 - Our accountant — to fulfil our accounting and tax obligations.
-
 - Our business email provider — for sending transactional and marketing emails.
-
-
 
 We do not sell, rent or otherwise trade your personal data to third parties.
 
-
 ## 5. Transfers Outside the EEA
-
 
 Some of our service providers (for example, PayPal) may transfer personal data to countries outside the European Economic Area (EEA). Where such transfers occur, we ensure they are protected by an adequacy decision of the European Commission or by Standard Contractual Clauses (SCCs) approved by the European Commission. Mollie is headquartered within the EEA and processes data in the EEA. If you would like a copy of the applicable SCCs or further information about a specific transfer, please contact us at info@valesugerove.lt.
 
-
 ## 6. Retention Periods
 
-
 We retain your personal data only for as long as necessary:
-
-
 - Order and accounting records — for 10 years, as required by the Lithuanian Law on Accounting (Buhalterinės apskaitos įstatymas) and applicable tax legislation.
-
 - Newsletter subscribers — until you unsubscribe.
-
 - Enquiries and account data — for as long as necessary to answer your enquiry, operate your account, resolve any disputes and comply with our legal obligations.
-
-
-
 
 ## 7. Your Rights
 
-
 Under the GDPR, you have the following rights in relation to your personal data:
-
-
 - Right of access — to obtain a copy of the personal data we hold about you.
-
 - Right to rectification — to have inaccurate or incomplete data corrected.
-
 - Right to erasure — to have your data deleted in certain circumstances.
-
 - Right to restriction of processing — to limit how we use your data in certain circumstances.
-
 - Right to data portability — to receive your data in a structured, machine-readable format.
-
 - Right to object — to object to processing based on legitimate interest (Art. 6(1)(f)) or for direct marketing purposes at any time.
-
 - Right to withdraw consent — where processing is based on your consent, you may withdraw it at any time without affecting the lawfulness of prior processing.
-
-
 
 To exercise any of these rights, please write to us at info@valesugerove.lt. We will respond within one month of receiving your request. For complex or numerous requests, we may extend this period by up to a further two months; if so, we will notify you within the first month and explain the reason for the delay.
 
-
-You also have the right to lodge a complaint with the Lithuanian supervisory authority: Valstybinė duomenų apsaugos inspekcija (VDAI) Email: ada@ada.lt Website: https://vdai.lrv.lt
-
-
+You also have the right to lodge a complaint with the Lithuanian supervisory authority: Valstybinė duomenų apsaugos inspekcija (VDAI), L. Sapiegos g. 17, 10312 Vilnius. Email: ada@ada.lt. Website: https://vdai.lrv.lt.
 
 ## 8. Contact Information
 
-
 For questions or requests regarding this privacy policy, please contact us:
-
-
-- Company: Valesų gerovė
-
+- Company: Valesų Gerovė, MB (company code 307168555)
 - Email: info@valesugerove.lt
-
-- Phone: +37045435643
-
-- Address: Žalgirio g. 90-6th floor, Vilnius, 09303, Lithuania
-
-
-
-Data Protection Authority: For complaints, you may contact the Data Protection Authority at the Ministry of Justice
-
-
-
-
-
-
-
-
-
-
-
+- Phone: +370 4543 5643
+- Registered office: Žirmūnų g. 57-50, LT-09110 Vilnius, Lithuania
+- Correspondence address: Žalgirio g. 90, 6th floor, LT-09303 Vilnius, Lithuania
 
 Empowering your journey to optimal health through science-backed wellness and biohacking solutions.
 
-
-
-
-
 ### Quick Links
-
-
 - About
-
 - Science
-
 - Contact
 
-
-
-
-
-
 ### Get in Touch
-
-
 - info@valesugerove.lt
-
 - +37045435643
-
 - Žalgirio g. 90-6th floor, Vilnius, 09303, Lithuania
-
-
-
-
-
 
 ### Connect With Us
 
-
-
-
-
-
-
-
-
-
-
-
 © 2026 Valesų gerovė. All rights reserved.
-
-
-
-Privacy Policy
-•
-Terms & Conditions  |
-
-Return Policy
-
-•
-Accessibility
-•
-Generated by Zappy
+Privacy Policy   •   Terms & Conditions  |    Return Policy    •   Accessibility   •   Generated by Zappy
 
 ---
 
