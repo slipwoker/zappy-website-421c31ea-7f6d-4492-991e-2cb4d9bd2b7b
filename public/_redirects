@@ -1,12 +1,14 @@
 # Clean URL redirects for Render static hosting
-# Generated: 2026-10-17T14:08:21.151Z
+# Generated: 2026-10-17T14:11:49.310Z
 # NOTE: Render uses render.yaml for routing, not _redirects (that is Netlify)
 # This file is kept for reference only
 
+/products  /products.html  200!
 /about  /about.html  200!
 /science  /science.html  200!
+/books  /books.html  200!
+/naturosync  /naturosync.html  200!
 /contact  /contact.html  200!
-/products  /products.html  200!
 /cart  /cart.html  200!
 /checkout  /checkout.html  200!
 /login  /login.html  200!
@@ -17,15 +19,15 @@
 /accessibility  /accessibility.html  200!
 /terms  /terms.html  200!
 /thank-you  /thank-you.html  200!
-/naturosync  /naturosync.html  200!
-/booksnew-page  /booksnew-page.html  200!
 
 # Language slug rewrites for SEO
 /lt  /lt/index.html  200!
+/lt/products  /lt/products.html  200!
 /lt/about  /lt/about.html  200!
 /lt/science  /lt/science.html  200!
+/lt/books  /lt/books.html  200!
+/lt/naturosync  /lt/naturosync.html  200!
 /lt/contact  /lt/contact.html  200!
-/lt/products  /lt/products.html  200!
 /lt/cart  /lt/cart.html  200!
 /lt/checkout  /lt/checkout.html  200!
 /lt/login  /lt/login.html  200!
@@ -36,8 +38,6 @@
 /lt/accessibility  /lt/accessibility.html  200!
 /lt/terms  /lt/terms.html  200!
 /lt/thank-you  /lt/thank-you.html  200!
-/lt/naturosync  /lt/naturosync.html  200!
-/lt/booksnew-page  /lt/booksnew-page.html  200!
 /lt  /lt/index.html  200!
 
 # Legal pages - redirect old .html URLs to friendly URLs

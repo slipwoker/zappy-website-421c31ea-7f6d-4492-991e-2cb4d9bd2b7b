@@ -10,6 +10,10 @@
 https://valesugerove.lt
 Lithuanian herbal teas, honey and botanical wellness products, curated by naturopath Ron Yaffe, ND. Vilnius.
 
+### Products
+https://valesugerove.lt/products
+Our Products - Valesų gerovė
+
 ### About
 https://valesugerove.lt/about
 We blend centuries-old Lithuanian forest remedies with modern biohacking science. Discover our unique Ancient-Future wellness philosophy and heritage.
@@ -18,13 +22,16 @@ We blend centuries-old Lithuanian forest remedies with modern biohacking science
 https://valesugerove.lt/science
 How Valesu Gerove describes Lithuanian herbal products and supplements: origin, ingredients and traditional use, with no health claims.
 
+### Books
+https://valesugerove.lt/books
+
+### NaturoSync (in development) | Valesų Gerovė
+https://valesugerove.lt/naturosync
+Valesų gerovė - NaturoSync (in development) | Valesų Gerovė
+
 ### Contact
 https://valesugerove.lt/contact
 Contact Valesu Gerove in Vilnius with questions about Lithuanian herbal products, teas, honey and supplements.
-
-### Products
-https://valesugerove.lt/products
-Our Products - Valesų gerovė
 
 ### Cart
 https://valesugerove.lt/cart
@@ -57,13 +64,6 @@ Products - Valesų gerovė
 ### Thank You | Valesų gerovė
 https://valesugerove.lt/thank-you
 Valesų gerovė - Thank You | Valesų gerovė
-
-### NaturoSync (in development) | Valesų Gerovė
-https://valesugerove.lt/naturosync
-Valesų gerovė - NaturoSync (in development) | Valesų Gerovė
-
-### Page
-https://valesugerove.lt/booksnew-page
 
 ## Legal & Policy
 
