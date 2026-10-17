@@ -162,7 +162,7 @@ View All Products →
 ## Two pathways, one standard of care.
 
 
-We bring together heritage craft and careful sourcing, honouring Lithuanian traditions while keeping every product honest, traceable and clearly described.
+We bring together heritage craft and careful selection, honouring Lithuanian traditions and describing every product clearly and honestly.
 
 
 
@@ -180,7 +180,7 @@ We bring together heritage craft and careful sourcing, honouring Lithuanian trad
 Rooted in Baltic heritage, our traditional remedies honour centuries of craft passed down through generations of Lithuanian foragers and forest keepers.
 
 
-- Carefully selected teas, honey and botanicals with clear, traceable origins
+- Carefully selected teas, honey and botanicals with clear origin information
 
 - Seasonal harvesting aligned with natural rhythms
 
@@ -188,7 +188,7 @@ Rooted in Baltic heritage, our traditional remedies honour centuries of craft pa
 
 - A gentle, everyday place for plants in the modern home
 
-- Origin-first sourcing from trusted Lithuanian foragers
+- Origin information shared where our suppliers provide it
 
 
 
@@ -328,7 +328,7 @@ Heritage · Origin · Craft · Sourcing
 ## From forest to shelf: our craft.
 
 
-We trace every ingredient from harvest to your hands, honouring Lithuanian traditions while keeping sourcing and documentation open and honest. Each step is about care for the plants and clarity for you.
+We aim to keep sourcing and documentation open and honest. Each step is about care for the plants and clarity for you.
 
 
 
@@ -393,6 +393,7 @@ We choose products that honour heritage and are described honestly.
 ## We aim for honest sourcing and clear product information.
 
 
+Every product we offer is described honestly, with the origin information our suppliers provide. We share the craft and the story behind each product.
 
 
 
