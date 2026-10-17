@@ -12598,6 +12598,20 @@ h1, h2, h3, h4, h5, h6 { font-family: 'Lora', sans-serif; font-weight: 700; }
 .vy-books-section .vy-book-cover {
   object-fit: contain !important;
 }
+
+.vy-books-section .vy-book-cover-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.vy-books-section .vy-book-cover {
+  width: auto;
+  height: auto;
+  max-height: 320px;
+  object-fit: contain;
+  aspect-ratio: 2 / 3;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
