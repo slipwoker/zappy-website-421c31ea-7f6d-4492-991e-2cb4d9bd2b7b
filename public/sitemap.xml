@@ -254,6 +254,24 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://valesugerove.lt/naturosync" />
   </url>
   <url>
+    <loc>https://valesugerove.lt/booksnew-page</loc>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valesugerove.lt/booksnew-page" />
+    <xhtml:link rel="alternate" hreflang="lt" href="https://valesugerove.lt/lt/booksnew-page" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://valesugerove.lt/booksnew-page" />
+  </url>
+  <url>
+    <loc>https://valesugerove.lt/lt/booksnew-page</loc>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://valesugerove.lt/booksnew-page" />
+    <xhtml:link rel="alternate" hreflang="lt" href="https://valesugerove.lt/lt/booksnew-page" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://valesugerove.lt/booksnew-page" />
+  </url>
+  <url>
     <loc>https://valesugerove.lt/privacy</loc>
     <lastmod>2026-10-17</lastmod>
     <changefreq>monthly</changefreq>

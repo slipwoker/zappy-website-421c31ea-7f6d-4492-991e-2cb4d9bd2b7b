@@ -62,6 +62,9 @@ Valesų gerovė - Thank You | Valesų gerovė
 https://valesugerove.lt/naturosync
 Valesų gerovė - NaturoSync (in development) | Valesų Gerovė
 
+### Page
+https://valesugerove.lt/booksnew-page
+
 ## Legal & Policy
 
 ### Privacy Policy
