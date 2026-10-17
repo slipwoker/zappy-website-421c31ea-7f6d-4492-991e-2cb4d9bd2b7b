@@ -12777,6 +12777,24 @@ h1, h2, h3, h4, h5, h6 { font-family: 'Lora', sans-serif; font-weight: 700; }
 /* zappy-self-heal */
 .home-hero-section .home-hero-bg { object-position: center bottom !important; }
 
+
+:root {
+  --bg-light: var(--surface-color, var(--surface, #F5F5DC));
+  --bg-dark: var(--secondary-color, var(--secondary, #4A5D4E));
+  --text-dark: var(--text-color, var(--text, var(--text-dark, #2D241E)));
+  --text-light: #FFFFFF;
+  --gradient-dark-section: linear-gradient(180deg, var(--secondary-color, var(--secondary, #4A5D4E)) 0%, var(--text-color, var(--text, var(--text-dark, #2D241E))) 100%);
+  --gradient-overlay-light: linear-gradient(180deg, rgba(245,245,220,0.10) 0%, rgba(245,245,220,0.75) 55%, rgba(245,245,220,0.95) 100%);
+  --gradient-light-section: linear-gradient(180deg, var(--surface-color, var(--surface, #F5F5DC)) 0%, #F4EFE7 100%);
+}
+
+.home-process-section {
+  background: var(--surface-color, var(--surface, #F5F5DC));
+}
+
+.vh-heritage .vh-heritage__card--image {
+  background: var(--surface-color, var(--surface, #F5F5DC));
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
