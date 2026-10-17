@@ -10577,50 +10577,17 @@ async function loadRelatedProducts(currentProduct, t) {
 }
 /* ==ZAPPY E-COMMERCE JS END== */
 
-/* ZAPPY_CUSTOM_JS_START:15469b84673a */
+/* ZAPPY_CUSTOM_JS_START:51e694175cbe */
 (function () {
   function __zappyCustomInit() {
     try {
 (function () {
-  if (window.__zappyGdprLoaded) return;
-  window.__zappyGdprLoaded = true;
+  if (window.__zappyGdprInitialized) return;
+  window.__zappyGdprInitialized = true;
 
   var KEY = 'zappy_gdpr_consent_v1';
-
-  function read() {
-    try { return JSON.parse(localStorage.getItem(KEY)) || null; } catch (e) { return null; }
-  }
-  function write(obj) {
-    try { localStorage.setItem(KEY, JSON.stringify(obj)); } catch (e) {}
-  }
-
-  // ---- Build markup ----
-  var wrap = document.createElement('div');
-  wrap.id = 'zappy-cookie-consent';
-  wrap.innerHTML =
-    '<div class="cc-banner" id="cc-banner" role="dialog" aria-label="Cookie consent">' +
-      '<p class="cc-text">We use strictly necessary cookies to run this shop. With your consent we would also use analytics and marketing cookies. You can change your choice at any time. <a class="cc-privacy" href="/privacy">Privacy Policy</a></p>' +
-      '<div class="cc-actions">' +
-        '<button type="button" class="cc-btn cc-accept" id="cc-accept">Accept all</button>' +
-        '<button type="button" class="cc-btn cc-reject" id="cc-reject">Reject non-essential</button>' +
-        '<button type="button" class="cc-btn cc-settings" id="cc-settings-btn">Settings</button>' +
-      '</div>' +
-    '</div>' +
-    '<div class="cc-overlay" id="cc-overlay" hidden></div>' +
-    '<div class="cc-panel" id="cc-panel" role="dialog" aria-modal="true" aria-label="Cookie settings" hidden>' +
-      '<div class="cc-panel-head"><h3 class="cc-panel-title">Cookie settings</h3>' +
-      '<button type="button" class="cc-close" id="cc-close" aria-label="Close">&times;</button></div>' +
-      '<p class="cc-sub">Choose which optional cookies we may use. You can change this at any time.</p>' +
-      '<div class="cc-row"><div class="cc-row-label"><span class="cc-row-name">Analytics cookies</span>' +
-      '<span class="cc-row-desc">Help us understand how visitors use the site.</span></div>' +
-      '<label class="cc-toggle"><input type="checkbox" id="cc-analytics"><span class="cc-track"></span></label></div>' +
-      '<div class="cc-row"><div class="cc-row-label"><span class="cc-row-name">Marketing cookies</span>' +
-      '<span class="cc-row-desc">Used to deliver relevant ads and measure campaigns.</span></div>' +
-      '<label class="cc-toggle"><input type="checkbox" id="cc-marketing"><span class="cc-track"></span></label></div>' +
-      '<a class="cc-privacy cc-panel-pp" href="/privacy">Privacy Policy</a>' +
-      '<div class="cc-panel-actions"><button type="button" class="cc-btn cc-save" id="cc-save">Save</button></div>' +
-    '</div>';
-  document.body.appendChild(wrap);
+  function read() { try { return JSON.parse(localStorage.getItem(KEY)) || null; } catch (e) { return null; } }
+  function write(o) { try { localStorage.setItem(KEY, JSON.stringify(o)); } catch (e) {} }
 
   var banner = document.getElementById('cc-banner');
   var panel = document.getElementById('cc-panel');
@@ -10628,57 +10595,41 @@ async function loadRelatedProducts(currentProduct, t) {
   var analyticsTgl = document.getElementById('cc-analytics');
   var marketingTgl = document.getElementById('cc-marketing');
 
+  if (!banner) return;
+
   var state = read();
   if (state && state.decided) { banner.style.display = 'none'; }
   if (state) {
-    analyticsTgl.checked = !!state.analytics;
-    marketingTgl.checked = !!state.marketing;
+    if (analyticsTgl) analyticsTgl.checked = !!state.analytics;
+    if (marketingTgl) marketingTgl.checked = !!state.marketing;
   }
 
-  function save(analytics, marketing, decided) {
-    write({ analytics: analytics, marketing: marketing, decided: decided, ts: Date.now() });
-  }
+  function save(a, m, d) { write({ analytics: a, marketing: m, decided: d, ts: Date.now() }); }
   function hideBanner() { banner.style.display = 'none'; }
-  function openPanel() { panel.hidden = false; overlay.hidden = false; }
-  function closePanel() { panel.hidden = true; overlay.hidden = true; }
+  function openPanel() { if (panel) panel.hidden = false; if (overlay) overlay.hidden = false; }
+  function closePanel() { if (panel) panel.hidden = true; if (overlay) overlay.hidden = true; }
 
-  document.getElementById('cc-accept').addEventListener('click', function () { save(true, true, true); hideBanner(); });
-  document.getElementById('cc-reject').addEventListener('click', function () { save(false, false, true); hideBanner(); });
-  document.getElementById('cc-settings-btn').addEventListener('click', function () {
+  function bind(id, fn) { var el = document.getElementById(id); if (el) el.addEventListener('click', fn); }
+
+  bind('cc-accept', function () { save(true, true, true); hideBanner(); });
+  bind('cc-reject', function () { save(false, false, true); hideBanner(); });
+  bind('cc-settings-btn', function () {
     var s = read();
-    analyticsTgl.checked = !!(s && s.analytics);
-    marketingTgl.checked = !!(s && s.marketing);
+    if (analyticsTgl) analyticsTgl.checked = !!(s && s.analytics);
+    if (marketingTgl) marketingTgl.checked = !!(s && s.marketing);
     openPanel();
   });
-  document.getElementById('cc-save').addEventListener('click', function () {
-    save(analyticsTgl.checked, marketingTgl.checked, true);
+  bind('cc-save', function () {
+    save(analyticsTgl ? analyticsTgl.checked : false, marketingTgl ? marketingTgl.checked : false, true);
     closePanel(); hideBanner();
   });
-  document.getElementById('cc-close').addEventListener('click', closePanel);
-  overlay.addEventListener('click', closePanel);
+  bind('cc-close', closePanel);
+  if (overlay) overlay.addEventListener('click', closePanel);
 
-  // Footer "Cookie settings" link — reopen panel
-  function addFooterLink() {
-    var container = document.querySelector('.footer-legal, .footer-bottom, .footer-links, .site-footer');
-    if (!container) { setTimeout(addFooterLink, 400); return; }
-    if (document.getElementById('cc-footer-link')) return;
-    var a = document.createElement('a');
-    a.id = 'cc-footer-link';
-    a.href = '#';
-    a.textContent = 'Cookie settings';
-    a.addEventListener('click', function (e) {
-      e.preventDefault();
-      openPanel();
-    });
-    var sep = document.createElement('span');
-    sep.className = 'separator';
-    sep.textContent = '\u2022';
-    container.appendChild(sep);
-    container.appendChild(a);
-  }
-  addFooterLink();
+  // Static footer link
+  var link = document.getElementById('cookie-settings-link');
+  if (link) link.addEventListener('click', function (e) { e.preventDefault(); openPanel(); });
 
-  // Expose for later (gating analytics/marketing scripts)
   window.__zappyConsent = {
     get analytics() { var s = read(); return !!(s && s.analytics); },
     get marketing() { var s = read(); return !!(s && s.marketing); }
@@ -10694,7 +10645,7 @@ async function loadRelatedProducts(currentProduct, t) {
     __zappyCustomInit();
   }
 })();
-/* ZAPPY_CUSTOM_JS_END:15469b84673a */
+/* ZAPPY_CUSTOM_JS_END:51e694175cbe */
 
 
 /* ZAPPY_PUBLISHED_LIGHTBOX_RUNTIME */

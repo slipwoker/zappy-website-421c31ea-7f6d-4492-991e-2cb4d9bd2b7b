@@ -2334,6 +2334,25 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
 </head>
 <body>
 
+<div id="zappy-cookie-consent" style="position:fixed;left:0;right:0;bottom:0;z-index:999999;background:#1a1a1a;color:#f5f5f5;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;">
+<div class="cc-banner" id="cc-banner" role="dialog" aria-label="Cookie consent" style="padding:16px 18px;display:flex;flex-direction:column;gap:14px;box-shadow:0 -4px 24px rgba(0,0,0,0.35);border-top:1px solid rgba(200,134,13,0.35);max-width:760px;margin:0 auto;">
+<p class="cc-text" style="margin:0;font-size:13.5px;line-height:1.5;color:#f5f5f5;">We use strictly necessary cookies to run this shop. With your consent we would also use analytics and marketing cookies. You can change your choice at any time. <a class="cc-privacy" href="/privacy" style="color:#c8860d;text-decoration:underline;">Privacy Policy</a></p>
+<div class="cc-actions" style="display:flex;flex-direction:column;gap:10px;">
+<button type="button" class="cc-btn cc-accept" id="cc-accept" style="min-height:44px;padding:10px 14px;font-size:14px;font-weight:600;border-radius:8px;border:1px solid #c8860d;cursor:pointer;background:#c8860d;color:#1a1a1a;">Accept all</button>
+<button type="button" class="cc-btn cc-reject" id="cc-reject" style="min-height:44px;padding:10px 14px;font-size:14px;font-weight:600;border-radius:8px;border:1px solid #c8860d;cursor:pointer;background:transparent;color:#f5f5f5;">Reject non-essential</button>
+<button type="button" class="cc-btn cc-settings" id="cc-settings-btn" style="min-height:44px;padding:10px 14px;font-size:14px;font-weight:600;border-radius:8px;border:1px solid #c8860d;cursor:pointer;background:transparent;color:#f5f5f5;">Settings</button>
+</div>
+</div>
+<div class="cc-overlay" id="cc-overlay" hidden style="position:fixed;inset:0;z-index:1000000;background:rgba(0,0,0,0.55);"></div>
+<div class="cc-panel" id="cc-panel" role="dialog" aria-modal="true" aria-label="Cookie settings" hidden style="position:fixed;left:50%;bottom:0;transform:translateX(-50%);z-index:1000001;width:100%;max-width:480px;background:#1a1a1a;color:#f5f5f5;border-radius:14px 14px 0 0;padding:18px;box-shadow:0 -6px 30px rgba(0,0,0,0.5);">
+<div style="display:flex;align-items:center;justify-content:space-between;"><h3 style="margin:0;font-size:17px;font-weight:700;color:#f5f5f5;">Cookie settings</h3><button type="button" id="cc-close" aria-label="Close" style="background:none;border:none;color:#f5f5f5;font-size:26px;line-height:1;cursor:pointer;padding:0 4px;">&amp;times;</button></div>
+<p style="margin:6px 0 16px;font-size:13px;line-height:1.5;color:#cfcfcf;">Choose which optional cookies we may use. You can change this at any time.</p>
+<div style="display:flex;align-items:center;justify-content:space-between;gap:14px;padding:12px 0;border-top:1px solid rgba(255,255,255,0.08);"><div><span style="font-size:14px;font-weight:600;color:#f5f5f5;">Analytics cookies</span><br /><span style="font-size:12.5px;color:#b5b5b5;">Help us understand how visitors use the site.</span></div><label style="position:relative;display:inline-block;width:46px;height:26px;flex-shrink:0;"><input type="checkbox" id="cc-analytics" style="opacity:0;width:0;height:0;" /><span style="position:absolute;inset:0;border-radius:999px;background:#3a3a3a;cursor:pointer;transition:background 0.2s ease;"></span></label></div>
+<div style="display:flex;align-items:center;justify-content:space-between;gap:14px;padding:12px 0;border-top:1px solid rgba(255,255,255,0.08);"><div><span style="font-size:14px;font-weight:600;color:#f5f5f5;">Marketing cookies</span><br /><span style="font-size:12.5px;color:#b5b5b5;">Used to deliver relevant ads and measure campaigns.</span></div><label style="position:relative;display:inline-block;width:46px;height:26px;flex-shrink:0;"><input type="checkbox" id="cc-marketing" style="opacity:0;width:0;height:0;" /><span style="position:absolute;inset:0;border-radius:999px;background:#3a3a3a;cursor:pointer;transition:background 0.2s ease;"></span></label></div>
+<a class="cc-privacy" href="/privacy" style="display:inline-block;margin-top:14px;font-size:13px;color:#c8860d;text-decoration:underline;">Privacy Policy</a>
+<div style="margin-top:16px;"><button type="button" class="cc-btn cc-save" id="cc-save" style="width:100%;min-height:44px;padding:10px 14px;font-size:14px;font-weight:600;border-radius:8px;border:1px solid #c8860d;cursor:pointer;background:#c8860d;color:#1a1a1a;">Save</button></div>
+</div>
+</div>
 
     <div class="mobile-search-panel" id="mobile-search-panel">
       <div class="search-wrapper">
@@ -3092,7 +3111,7 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
         <span class="separator">•</span>
         <a href="/accessibility" data-i18n="home_link_56">Accessibility</a>
         <span class="separator">•</span>
-        <a href="https://zappy5.com" target="_blank" class="zappy-attribution" data-i18n="home_link_57">Generated by Zappy</a>
+        <a href="#" class="cookie-settings-link" id="cookie-settings-link" style="cursor:pointer;">Cookie settings</a><span class="separator">•</span><a href="https://zappy5.com" target="_blank" class="zappy-attribution" data-i18n="home_link_57">Generated by Zappy</a>
       </div>
     </div>
   </div>
@@ -3458,6 +3477,8 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
       "new_a_181": "info@valesugerove.lt",
       "new_a_211": "vvtat.lt",
       "new_a_214": "Terms and Conditions of Sale",
+      "new_a_233": "Shop supplements",
+      "new_a_234": "About our approach",
       "new_p_139": "We do not have a formally designated Data Protection Officer. All data protection queries should be directed to us directly:",
       "new_p_141": "<strong>We do not ask for health or special-category data.</strong> Please do not include health information or any other sensitive personal data in contact forms or order notes.",
       "new_p_144": "<strong>We do not sell, rent or otherwise trade your personal data to third parties.</strong>",
@@ -3486,6 +3507,7 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
       "new_p_210": "If we are unable to resolve your complaint, consumers may contact the State Consumer Rights Protection Authority (Valstybinė vartotojų teisių apsaugos tarnyba, VVTAT): vvtat.lt.",
       "new_p_213": "Please also read our Terms and Conditions of Sale for further information about your rights and our obligations.",
       "new_p_216": "Our website uses cookies and similar technologies. Strictly necessary cookies (for example to keep your basket and checkout session working) are used without consent because the site cannot work without them. All other cookies, including analytics and marketing cookies, are used only if you give your consent through our cookie banner (Art. 6(1)(a) GDPR and the ePrivacy rules). You can accept or reject non-essential cookies equally easily, and you can change or withdraw your choice at any time through the cookie settings link in the page footer. Withdrawing consent does not affect processing carried out before withdrawal. Further details on individual cookies, including their lifetimes, are available in the cookie settings.",
+      "new_p_223": "Choose which optional cookies we may use. You can change this at any time.",
       "about_h1_1": "A Lithuanian apothecary mindset, built for the future.",
       "about_h2_2": "Where folklore meets measurement.",
       "about_h2_3": "Principles that guide every recommendation.",
@@ -3540,6 +3562,7 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
       "login_h3_3": "Quick Links",
       "login_h3_4": "Get in Touch",
       "login_h3_5": "Connect With Us",
+      "new_h1_231": "Baltic tradition meets modern technology.",
       "new_h2_175": "13. Changes to These Terms",
       "new_h2_184": "1. Two Ways to Return",
       "new_h2_188": "2. Statutory Right of Withdrawal",
@@ -3550,6 +3573,8 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
       "new_h2_208": "7. Complaints & Dispute Resolution",
       "new_h2_212": "8. See Also",
       "new_h2_215": "8. Cookies",
+      "new_h3_221": "Cookie settings",
+      "new_h3_232": "Valesų Gerovė brings Lithuania's botanical heritage together with carefully selected supplements and wellness technology, curated by naturopath Ron Yaffe, ND.",
       "new_li_140": "<strong>Correspondence address:</strong> Žalgirio g. 90, 6th floor, LT-09303 Vilnius, Lithuania",
       "new_li_142": "<strong>Our accountant</strong> — to fulfil our accounting and tax obligations.",
       "new_li_143": "<strong>Our business email provider</strong> — for sending transactional and marketing emails.",
@@ -3637,6 +3662,8 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
       "home_nav_74": "All Products",
       "new_div_174": "<strong>Our 30-day return promise:</strong> In addition to your statutory right of withdrawal, we accept returns of unopened products in their original packaging within 30 days of delivery. This is a voluntary commitment and does not limit or replace the 14-day statutory right described above.",
       "new_div_183": "<span><span>Total:</span></span> <span id=\"cart-drawer-total\">€0</span>",
+      "new_div_224": "<span style=\"font-size:14px;font-weight:600;color:#f5f5f5;\">Analytics cookies</span>\n<span style=\"font-size:12.5px;color:#b5b5b5;\">Help us understand how visitors use the site.</span>",
+      "new_div_227": "<span style=\"font-size:14px;font-weight:600;color:#f5f5f5;\">Marketing cookies</span>\n<span style=\"font-size:12.5px;color:#b5b5b5;\">Used to deliver relevant ads and measure campaigns.</span>",
       "terms_h2_10": "8. Product Information and Health Statements",
       "terms_h2_11": "9. Intellectual Property",
       "terms_h2_12": "10. Liability",
@@ -3978,6 +4005,11 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
       "login_title_41": "Cart",
       "login_title_42": "Search",
       "login_title_43": "Search",
+      "new_button_218": "Accept all",
+      "new_button_219": "Reject non-essential",
+      "new_button_220": "Settings",
+      "new_button_222": "&times;",
+      "new_button_230": "Save",
       "privacy_alt_63": "Valesų gerovė",
       "privacy_alt_64": "Valesų gerovė",
       "privacy_div_55": "<strong>Last Updated:</strong> 10/17/2026",
@@ -4846,6 +4878,8 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
       "science_seo_twitter_description": "Science-backed supplements and alpha brain reddit insights. Explore clinical research behind our Chaga tinctures, nootropics, and biohacking innovations.",
       "category__slug_seo_twitter_title": "Discover Top Nootropics 2022 & Forest Wisdom — Valesų gerovė",
       "thank_you_seo_twitter_description": "Valesų gerovė - Thank You | Valesų gerovė",
+      "new_text_217_0": "We use strictly necessary cookies to run this shop. With your consent we would also use analytics and marketing cookies. You can change your choice at any time. ",
+      "new_text_235_0": "<span>Not sure where to begin?</span> <a href=\"/contact\">",
       "new_text_180_0": "<strong>Email:</strong> <a href=\"mailto:",
       "new_text_180_1": "\">info@valesugerove.lt</a>\n <strong>Phone:</strong> <a href=\"tel:+37045435643\">+370 4543 5643</a>",
       "new_text_204_0": "If you receive goods that are damaged or do not conform to the contract, please contact us at ",
@@ -5196,6 +5230,8 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
       "new_a_181": "info@valesugerove.lt",
       "new_a_211": "vvtat.lt",
       "new_a_214": "Pardavimo taisyklės ir sąlygos",
+      "new_a_233": "Maisto papildų parduotuvė",
+      "new_a_234": "Apie mūsų požiūrį",
       "new_p_139": "Mes neturime oficialiai paskirto Duomenų apsaugos pareigūno. Visus su duomenų apsauga susijusius klausimus prašome siųsti tiesiogiai mums:",
       "new_p_141": "<strong>Mes neprašome sveikatos ar ypatingų kategorijų duomenų.</strong> Prašome neteikti sveikatos informacijos ar kitų jautrių asmens duomenų kontaktų formose ar užsakymų pastabose.",
       "new_p_144": "<strong>Mes neparduodame, nenuomojame ir kitaip neperleidžiame jūsų asmens duomenų trečiosioms šalims.</strong>",
@@ -5224,6 +5260,7 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
       "new_p_210": "Jei negalime išspręsti jūsų skundo, vartotojai gali kreiptis į <strong>Valstybinę vartotojų teisių apsaugos tarnybą</strong> (Valstybinė vartotojų teisių apsaugos tarnyba, VVTAT): <a href=\"https://vvtat.lt\" target=\"_blank\" rel=\"noopener noreferrer\">vvtat.lt</a>.",
       "new_p_213": "Taip pat perskaitykite mūsų pardavimo taisykles ir sąlygas, kad gautumėte daugiau informacijos apie jūsų teises ir mūsų įsipareigojimus.",
       "new_p_216": "Mūsų svetainė naudoja slapukus ir panašias technologijas. Griežtai būtini slapukai (pavyzdžiui, kad jūsų krepšelis ir atsiskaitymo sesija veiktų tinkamai) naudojami be sutikimo, nes svetainė be jų negali veikti. Visi kiti slapukai, įskaitant analitinius ir rinkodaros slapukus, naudojami tik tuo atveju, jei duodate sutikimą per mūsų slapukų juostą (BDAR 6 str. 1 d. a p. ir el. privatumo taisyklės). Nebūtinus slapukus galite priimti arba atmesti vienodai lengvai, o savo pasirinkimą galite bet kada pakeisti arba atšaukti per slapukų nustatymų nuorodą puslapio poraštėje. Sutikimo atšaukimas neturi įtakos tvarkymui, vykdytam iki atšaukimo. Išsamesnė informacija apie atskirus slapukus, įskaitant jų galiojimo laiką, pateikiama slapukų nustatymuose.",
+      "new_p_223": "Pasirinkite, kuriuos pasirinktinius slapukus galime naudoti. Tai galite keisti bet kada.",
       "about_h1_1": "Lietuviško vaistininko mąstysena, sukurta ateičiai.",
       "about_h2_2": "Ten, kur folkloras susitinka su matavimu.",
       "about_h2_3": "Principai, kuriais vadovaujamės kiekviename pasiūlyme.",
@@ -5255,7 +5292,7 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
       "home_h3_10": "Biohakingo protokolai",
       "home_h3_11": "Sezoninis derlius",
       "home_h3_12": "Švelni ekstrakcija",
-      "home_h3_13": "Tapatybės ir grynumo patikrinimai",
+      "home_h3_13": "Tapatybės & grynumo patikrinimai",
       "home_h3_14": "Praktinės protokolo gairės",
       "home_h3_15": "Atkurtas nuoseklus miego ritmas",
       "home_h3_16": "Virškinimo komfortas ir kasdienė lengvata",
@@ -5263,7 +5300,7 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
       "home_h3_18": "Greitos nuorodos",
       "home_h3_19": "Susisiekite",
       "home_h3_20": "Sekite mus",
-      "home_li_58": "Chaga ir beržo tradicijos iš senovės Baltijos miškų",
+      "home_li_58": "Chaga & beržo tradicijos iš senovinių Baltijos miškų",
       "home_li_59": "Sezoninis naudojimas, suderintas su gamtos ritmais",
       "home_li_60": "Sąmoningi paruošimo ritualai gilesniam ryšiui",
       "home_li_61": "Švelnus kasdieninis ritmas, palaikantis holistinę gerovę",
@@ -5278,6 +5315,7 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
       "login_h3_3": "Greitos nuorodos",
       "login_h3_4": "Susisiekite su mumis",
       "login_h3_5": "Sekite mus",
+      "new_h1_231": "Baltų tradicija susitinka su šiuolaikinėmis technologijomis.",
       "new_h2_175": "13. Šių sąlygų keitimai",
       "new_h2_184": "1. Du grąžinimo būdai",
       "new_h2_188": "2. Įstatyminis atsisakymo teisė",
@@ -5288,6 +5326,8 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
       "new_h2_208": "7. Skundai ir ginčų sprendimas",
       "new_h2_212": "8. Taip pat žiūrėkite",
       "new_h2_215": "8. Slapukai",
+      "new_h3_221": "Slapukų nustatymai",
+      "new_h3_232": "Valesų Gerovė sujungia Lietuvos botanikos paveldą su kruopščiai atrinktais maisto papildais ir gerovės technologijomis, kuruojamomis naturopato Rono Yaffės, ND.",
       "new_li_140": "<strong>Korespondencijos adresas:</strong> Žalgirio g. 90, 6 aukštas, LT-09303 Vilnius, Lietuva",
       "new_li_142": "<strong>Mūsų buhalteris</strong> — buhalterinės apskaitos ir mokestinių prievolių vykdymui.",
       "new_li_143": "<strong>Mūsų verslo el. pašto paslaugų teikėjas</strong> — transakciniams ir rinkodaros el. laiškams siųsti.",
@@ -5375,6 +5415,8 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
       "home_nav_74": "Visi produktai",
       "new_div_174": "<strong>Mūsų 30 dienų grąžinimo pažadas:</strong> Be jūsų įstatymų nustatytos atsisakymo teisės, priimame neatidarytas prekes originalioje pakuotėje per 30 dienų nuo pristatymo. Tai savanoriškas įsipareigojimas, kuris neapriboja ir nepakeičia aukščiau aprašytos 14 dienų įstatyminės teisės.",
       "new_div_183": "<span><span>Iš viso:</span></span> <span id=\"cart-drawer-total\">€0</span>",
+      "new_div_224": "<span style=\"font-size:14px;font-weight:600;color:#f5f5f5;\">Analizės slapukai</span>\n<span style=\"font-size:12.5px;color:#b5b5b5;\">Padeda mums suprasti, kaip lankytojai naudojasi svetaine.</span>",
+      "new_div_227": "<span style=\"font-size:14px;font-weight:600;color:#f5f5f5;\">Rinkodaros slapukai</span>\n<span style=\"font-size:12.5px;color:#b5b5b5;\">Naudojami aktualių skelbimų pateikimui ir kampanijų vertinimui.</span>",
       "terms_h2_10": "8. Informacija apie produktus ir teiginiai apie sveikatą",
       "terms_h2_11": "9. Intelektinė nuosavybė",
       "terms_h2_12": "10. Atsakomybė",
@@ -5716,6 +5758,11 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
       "login_title_41": "Krepšelis",
       "login_title_42": "Paieška",
       "login_title_43": "Paieška",
+      "new_button_218": "Priimti visus",
+      "new_button_219": "Atmesti nebūtinuosius",
+      "new_button_220": "Nustatymai",
+      "new_button_222": "&times;",
+      "new_button_230": "Išsaugoti",
       "privacy_alt_63": "Valesų gerovė",
       "privacy_alt_64": "Valesų gerovė",
       "privacy_div_55": "<strong>Paskutinį kartą atnaujinta:</strong> 10/17/2026",
@@ -6584,6 +6631,8 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
       "science_seo_twitter_description": "Mokslu pagrįsti maisto papildai ir alpha brain reddit įžvalgos. Tyrinėkite klinikinius tyrimus, kuriais grindžiamos mūsų Chaga tinktūros, nootropikai ir biohakingo inovacijos.",
       "category__slug_seo_twitter_title": "Atraskite geriausius nootropikus 2022 & Miško išmintį — Valesų gerovė",
       "thank_you_seo_twitter_description": "Valesų gerovė - Ačiū | Valesų gerovė",
+      "new_text_217_0": "Mes naudojame būtinuosius slapukus šiai parduotuvei veikti. Jūsų sutikimu taip pat naudotume analizės ir rinkodaros slapukus. Savo pasirinkimą galite keisti bet kada. ",
+      "new_text_235_0": "Not sure where to begin?",
       "new_text_180_0": "<strong>El. paštas:</strong> <a href=\"mailto:",
       "new_text_180_1": "\">info@valesugerove.lt</a>\n <strong>Telefonas:</strong> <a href=\"tel:+37045435643\">+370 4543 5643</a>",
       "new_text_204_0": "Jei gavote prekes, kurios yra pažeistos arba neatitinka sutarties, kuo greičiau susisiekite su mumis adresu ",
