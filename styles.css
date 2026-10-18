@@ -12883,6 +12883,128 @@ body { background-color: #F4EFE7 !important; } .vh-heritage { background-color: 
 .naturosync-in-development-vales-gerov-cta-section .naturosync-cta-container .naturosync-cta-button {
   background-color: rgb(245, 245, 220) !important;
 }
+
+.featured-products-section {
+  display: block !important;
+  background: #F4EFE7 !important;
+}
+
+.featured-products-section .section-title {
+  color: var(--text-color, var(--text, var(--text-dark, #2D241E))) !important;
+}
+
+.featured-products-section .product-card {
+  background: var(--surface-color, var(--surface, #F5F5DC)) !important;
+}
+
+.featured-products-section .product-card h3,
+.featured-products-section .product-card-body-link {
+  color: var(--text-color, var(--text, var(--text-dark, #2D241E))) !important;
+}
+
+.featured-products-section .product-card .price {
+  color: var(--text-color, var(--text, var(--text-dark, #2D241E))) !important;
+}
+
+.featured-products-section .product-card .stock-status,
+.featured-products-section .product-card .out-of-stock-label {
+  color: var(--secondary-color, var(--secondary, #4A5D4E)) !important;
+}
+
+.products-section .product-card,
+.category-section .product-card,
+.featured-products-section .product-card {
+  background: var(--surface-color, var(--surface, #F5F5DC)) !important;
+}
+
+.products-section .product-card h3,
+.products-section .product-card-body-link,
+.category-section .product-card h3,
+.category-section .product-card-body-link {
+  color: var(--text-color, var(--text, var(--text-dark, #2D241E))) !important;
+}
+
+.products-section .product-card .price,
+.category-section .product-card .price {
+  color: var(--text-color, var(--text, var(--text-dark, #2D241E))) !important;
+}
+
+.products-section .product-card .stock-status,
+.products-section .product-card .out-of-stock-label,
+.category-section .product-card .stock-status,
+.category-section .product-card .out-of-stock-label {
+  color: var(--secondary-color, var(--secondary, #4A5D4E)) !important;
+}
+
+.featured-products-section .product-card .add-to-cart,
+.featured-products-section .product-card button.product-card-btn,
+.featured-products-section .product-card .btn,
+.products-section .product-card .add-to-cart,
+.products-section .product-card button.product-card-btn,
+.products-section .product-card .btn,
+.category-section .product-card .add-to-cart,
+.category-section .product-card button.product-card-btn,
+.category-section .product-card .btn {
+  background: var(--secondary-color, var(--secondary, #4A5D4E)) !important;
+  color: var(--surface-color, var(--surface, #F5F5DC)) !important;
+  border-color: var(--secondary-color, var(--secondary, #4A5D4E)) !important;
+}
+
+.featured-products-section .product-card h3 {
+  color: var(--text-color, var(--text, var(--text-dark, #2D241E))) !important;
+}
+
+.featured-products-section .product-card-body-link {
+  color: var(--text-color, var(--text, var(--text-dark, #2D241E))) !important;
+}
+
+.featured-products-section .product-card .price {
+  color: var(--text-color, var(--text, var(--text-dark, #2D241E))) !important;
+}
+
+.featured-products-section .product-card .stock-status {
+  color: var(--text-color, var(--text, var(--text-dark, #2D241E))) !important;
+}
+
+.featured-products-section .product-card .out-of-stock-label {
+  color: var(--text-color, var(--text, var(--text-dark, #2D241E))) !important;
+}
+
+.featured-products-section .section-title {
+  color: var(--text-color, var(--text, var(--text-dark, #2D241E))) !important;
+}
+
+.products-section .product-card .price {
+  color: var(--text-color, var(--text, var(--text-dark, #2D241E))) !important;
+}
+
+.products-section .product-card .stock-status {
+  color: var(--text-color, var(--text, var(--text-dark, #2D241E))) !important;
+}
+
+.products-section .product-card .out-of-stock-label {
+  color: var(--text-color, var(--text, var(--text-dark, #2D241E))) !important;
+}
+
+.products-section .product-card h3 {
+  color: var(--text-color, var(--text, var(--text-dark, #2D241E))) !important;
+}
+
+.category-section .product-card .price {
+  color: var(--text-color, var(--text, var(--text-dark, #2D241E))) !important;
+}
+
+.category-section .product-card .stock-status {
+  color: var(--text-color, var(--text, var(--text-dark, #2D241E))) !important;
+}
+
+.category-section .product-card .out-of-stock-label {
+  color: var(--text-color, var(--text, var(--text-dark, #2D241E))) !important;
+}
+
+.category-section .product-card h3 {
+  color: var(--text-color, var(--text, var(--text-dark, #2D241E))) !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
