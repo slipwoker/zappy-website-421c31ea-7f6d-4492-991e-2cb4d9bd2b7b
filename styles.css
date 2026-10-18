@@ -12867,6 +12867,18 @@ body { background-color: #F4EFE7 !important; } .vh-heritage { background-color: 
 .site-footer .footer-social {
   min-width: 150px;
 }
+
+.naturosync-in-development-vales-gerov-cta-section .naturosync-cta-heading,
+.naturosync-in-development-vales-gerov-cta-section .naturosync-cta-description,
+.naturosync-in-development-vales-gerov-cta-section .naturosync-cta-gdpr-note {
+  color: var(--surface-color, var(--surface, #F5F5DC));
+}
+
+.naturosync-in-development-vales-gerov-cta-section .naturosync-cta-container .naturosync-cta-heading,
+.naturosync-in-development-vales-gerov-cta-section .naturosync-cta-container .naturosync-cta-description,
+.naturosync-in-development-vales-gerov-cta-section .naturosync-cta-container .naturosync-cta-gdpr-note {
+  color: rgb(245, 245, 220) !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
