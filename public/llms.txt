@@ -102,11 +102,12 @@ https://valesugerove.lt/product/sample-wellness-wearable-placeholder-o22ha1
 - Image: https://valesugerove.lt/assets/image-product-image-1792312243404-wt4izd.webp
 
 ### SAMPLE - Botanical Supplement Bottle (placeholder)
-https://valesugerove.lt/product/sample-botanical-supplement-bottle-placeholder-oby3dd
+https://valesugerove.lt/product/sample-botanical-supplement-bottle-placeholder-7d0t8n
 - Price: 0.01 EUR
 - Availability: Out of stock
 - Category: Supplements
 - Description: Placeholder product for layout only. Not for sale. Real products coming soon.
+- Image: https://valesugerove.lt/assets/image-product-image-1792312329525-a4vvgb.webp
 
 ---
 
