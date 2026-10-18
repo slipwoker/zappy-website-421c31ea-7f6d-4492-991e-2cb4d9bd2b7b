@@ -1907,7 +1907,7 @@ Message
 
 
 
-I have read and agree to the    Terms & Conditions    and    Privacy Policy
+I have read and agree to the   Terms & Conditions   and   Privacy Policy
 
 
 
@@ -4372,7 +4372,7 @@ Privacy Policy   •   Terms & Conditions  |    Return Policy    •   Accessibi
 ## Product Catalog
 
 ### SAMPLE - Traditional Herbal Bottle (placeholder)
-URL: https://valesugerove.lt/product/sample-traditional-herbal-bottle-placeholder-kwmll1
+URL: https://valesugerove.lt/product/sample-traditional-herbal-bottle-placeholder-yw8y02
 Price: 0.01 EUR
 Availability: Out of stock
 
@@ -4381,7 +4381,7 @@ Placeholder - Not for sale
 ---
 
 ### SAMPLE - Wellness Wearable (placeholder)
-URL: https://valesugerove.lt/product/sample-wellness-wearable-placeholder-o22ha1
+URL: https://valesugerove.lt/product/sample-wellness-wearable-placeholder-gbnycq
 Price: 0.01 EUR
 Availability: Out of stock
 
@@ -4390,7 +4390,7 @@ Placeholder - Not for sale
 ---
 
 ### SAMPLE - Botanical Supplement Bottle (placeholder)
-URL: https://valesugerove.lt/product/sample-botanical-supplement-bottle-placeholder-7d0t8n
+URL: https://valesugerove.lt/product/sample-botanical-supplement-bottle-placeholder-52ydi2
 Price: 0.01 EUR
 Availability: Out of stock
 

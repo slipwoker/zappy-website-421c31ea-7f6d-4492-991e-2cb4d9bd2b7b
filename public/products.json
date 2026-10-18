@@ -1,17 +1,17 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-18T08:33:26.610Z",
+  "generated_at": "2026-10-18T08:35:30.284Z",
   "base_url": "https://valesugerove.lt",
   "currency": "EUR",
   "count": 3,
   "products": [
     {
       "id": "dea671a8-bfeb-4ddb-a42b-b4699ffa1557",
-      "slug": "sample-traditional-herbal-bottle-placeholder-kwmll1",
+      "slug": "sample-traditional-herbal-bottle-placeholder-yw8y02",
       "name": "SAMPLE - Traditional Herbal Bottle (placeholder)",
       "name_translations": {
         "en": "SAMPLE - Traditional Herbal Bottle (placeholder)",
-        "lt": "PAVYZDYS - Tradicinis žolelių buteliukas (vietos rezervavimas)"
+        "lt": "PAVYZDYS - Tradicinis žolelių buteliukas (vietos užpildas)"
       },
       "description": "<p>Placeholder - Not for sale</p>",
       "short_description": "Placeholder product for layout only. Not for sale. Real products coming soon.",
@@ -26,19 +26,19 @@
       ],
       "in_stock": false,
       "stock_status": "out_of_stock",
-      "url": "https://valesugerove.lt/product/sample-traditional-herbal-bottle-placeholder-kwmll1",
+      "url": "https://valesugerove.lt/product/sample-traditional-herbal-bottle-placeholder-yw8y02",
       "categories": [
         "Traditional Herbal Products"
       ],
-      "updated_at": "2026-10-18T08:30:02.528Z"
+      "updated_at": "2026-10-18T08:34:55.784Z"
     },
     {
       "id": "99ffd505-7e5f-4da4-b65d-6d6f02d70556",
-      "slug": "sample-wellness-wearable-placeholder-o22ha1",
+      "slug": "sample-wellness-wearable-placeholder-gbnycq",
       "name": "SAMPLE - Wellness Wearable (placeholder)",
       "name_translations": {
         "en": "SAMPLE - Wellness Wearable (placeholder)",
-        "lt": "PAVYZDYS - Gerovės nešiojamas įrenginys (vietos užpildas)"
+        "lt": "PAVYZDYS - Gerovės įrenginys (vietos rezervavimas)"
       },
       "description": "<p>Placeholder - Not for sale</p>",
       "short_description": "Placeholder product for layout only. Not for sale. Real products coming soon.",
@@ -53,19 +53,19 @@
       ],
       "in_stock": false,
       "stock_status": "out_of_stock",
-      "url": "https://valesugerove.lt/product/sample-wellness-wearable-placeholder-o22ha1",
+      "url": "https://valesugerove.lt/product/sample-wellness-wearable-placeholder-gbnycq",
       "categories": [
         "Wellness Technology"
       ],
-      "updated_at": "2026-10-18T08:31:02.306Z"
+      "updated_at": "2026-10-18T08:35:06.486Z"
     },
     {
       "id": "25c4039a-c368-4af0-af5f-5961068f4c05",
-      "slug": "sample-botanical-supplement-bottle-placeholder-7d0t8n",
+      "slug": "sample-botanical-supplement-bottle-placeholder-52ydi2",
       "name": "SAMPLE - Botanical Supplement Bottle (placeholder)",
       "name_translations": {
         "en": "SAMPLE - Botanical Supplement Bottle (placeholder)",
-        "lt": "PAVYZDYS - Botaninio papildo buteliukas (vietos užpildas)"
+        "lt": "PAVYZDYS - Botaninio papildo buteliukas (vietos rezervavimas)"
       },
       "description": "<p>Placeholder - Not for sale</p>",
       "short_description": "Placeholder product for layout only. Not for sale. Real products coming soon.",
@@ -80,11 +80,11 @@
       ],
       "in_stock": false,
       "stock_status": "out_of_stock",
-      "url": "https://valesugerove.lt/product/sample-botanical-supplement-bottle-placeholder-7d0t8n",
+      "url": "https://valesugerove.lt/product/sample-botanical-supplement-bottle-placeholder-52ydi2",
       "categories": [
         "Supplements"
       ],
-      "updated_at": "2026-10-18T08:32:29.425Z"
+      "updated_at": "2026-10-18T08:35:16.470Z"
     }
   ]
 }
