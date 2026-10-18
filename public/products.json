@@ -1,19 +1,19 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-18T08:27:52.158Z",
+  "generated_at": "2026-10-18T08:30:40.157Z",
   "base_url": "https://valesugerove.lt",
   "currency": "EUR",
   "count": 3,
   "products": [
     {
       "id": "dea671a8-bfeb-4ddb-a42b-b4699ffa1557",
-      "slug": "sample-traditional-herbal-bottle-placeholder-086vgg",
+      "slug": "sample-traditional-herbal-bottle-placeholder-kwmll1",
       "name": "SAMPLE - Traditional Herbal Bottle (placeholder)",
       "name_translations": {
         "en": "SAMPLE - Traditional Herbal Bottle (placeholder)",
-        "lt": "PAVYZDYS - Tradicinis žolelių buteliukas (vietos užpildas)"
+        "lt": "PAVYZDYS - Tradicinis žolelių buteliukas (vietos rezervavimas)"
       },
-      "description": "Placeholder - Not for sale",
+      "description": "<p>Placeholder - Not for sale</p>",
       "short_description": "Placeholder product for layout only. Not for sale. Real products coming soon.",
       "sku": null,
       "brand": null,
@@ -21,14 +21,16 @@
       "base_price": 0.01,
       "sale_price": null,
       "currency": "EUR",
-      "images": [],
+      "images": [
+        "https://valesugerove.lt/assets/image-product-image-1792312186316-jdbluu.webp"
+      ],
       "in_stock": false,
       "stock_status": "out_of_stock",
-      "url": "https://valesugerove.lt/product/sample-traditional-herbal-bottle-placeholder-086vgg",
+      "url": "https://valesugerove.lt/product/sample-traditional-herbal-bottle-placeholder-kwmll1",
       "categories": [
         "Traditional Herbal Products"
       ],
-      "updated_at": "2026-10-18T07:56:11.064Z"
+      "updated_at": "2026-10-18T08:30:02.528Z"
     },
     {
       "id": "99ffd505-7e5f-4da4-b65d-6d6f02d70556",
