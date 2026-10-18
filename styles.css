@@ -12879,6 +12879,10 @@ body { background-color: #F4EFE7 !important; } .vh-heritage { background-color: 
 .naturosync-in-development-vales-gerov-cta-section .naturosync-cta-container .naturosync-cta-gdpr-note {
   color: rgb(245, 245, 220) !important;
 }
+
+.naturosync-in-development-vales-gerov-cta-section .naturosync-cta-container .naturosync-cta-button {
+  background-color: rgb(245, 245, 220) !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
