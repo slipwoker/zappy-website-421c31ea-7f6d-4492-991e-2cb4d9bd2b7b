@@ -13005,6 +13005,114 @@ body { background-color: #F4EFE7 !important; } .vh-heritage { background-color: 
 .category-section .product-card h3 {
   color: var(--text-color, var(--text, var(--text-dark, #2D241E))) !important;
 }
+
+.featured-products-section .product-card .card-desc,
+.products-section .product-card .card-desc,
+.category-section .product-card .card-desc,
+.featured-products-section .product-card .product-tag,
+.products-section .product-card .product-tag,
+.category-section .product-card .product-tag,
+.featured-products-section .product-card .category-label,
+.products-section .product-card .category-label,
+.category-section .product-card .category-label {
+  color: var(--secondary-color, var(--secondary, #4A5D4E)) !important;
+}
+
+.featured-products-section .product-card .card-content h3,
+.featured-products-section .product-card .product-card-body-link,
+.featured-products-section .product-card-body-link .card-content,
+.products-section .product-card .card-content h3,
+.products-section .product-card .product-card-body-link,
+.category-section .product-card .card-content h3,
+.category-section .product-card .product-card-body-link {
+  color: var(--text-color, var(--text, var(--text-dark, #2D241E))) !important;
+}
+
+.featured-products-section .product-card .price,
+.products-section .product-card .price,
+.category-section .product-card .price {
+  color: var(--text-color, var(--text, var(--text-dark, #2D241E))) !important;
+}
+
+.featured-products-section .product-card .card-cart-btn,
+.products-section .product-card .card-cart-btn,
+.category-section .product-card .card-cart-btn {
+  background: var(--secondary-color, var(--secondary, #4A5D4E)) !important;
+  color: var(--surface-color, var(--surface, #F5F5DC)) !important;
+  border-color: var(--secondary-color, var(--secondary, #4A5D4E)) !important;
+}
+
+.featured-products-section .product-card .price {
+  color: var(--secondary-color, var(--secondary, #4A5D4E)) !important;
+}
+
+.featured-products-section .product-card .stock-status {
+  color: var(--secondary-color, var(--secondary, #4A5D4E)) !important;
+}
+
+.featured-products-section .product-card .out-of-stock-label {
+  color: var(--secondary-color, var(--secondary, #4A5D4E)) !important;
+}
+
+.featured-products-section .product-card .add-to-cart {
+  color: var(--secondary-color, var(--secondary, #4A5D4E)) !important;
+}
+
+.featured-products-section .product-card button.product-card-btn {
+  color: var(--secondary-color, var(--secondary, #4A5D4E)) !important;
+}
+
+.featured-products-section .product-card .btn {
+  color: var(--secondary-color, var(--secondary, #4A5D4E)) !important;
+}
+
+.products-section .product-card .price {
+  color: var(--secondary-color, var(--secondary, #4A5D4E)) !important;
+}
+
+.products-section .product-card .stock-status {
+  color: var(--secondary-color, var(--secondary, #4A5D4E)) !important;
+}
+
+.products-section .product-card .out-of-stock-label {
+  color: var(--secondary-color, var(--secondary, #4A5D4E)) !important;
+}
+
+.products-section .product-card .add-to-cart {
+  color: var(--secondary-color, var(--secondary, #4A5D4E)) !important;
+}
+
+.products-section .product-card button.product-card-btn {
+  color: var(--secondary-color, var(--secondary, #4A5D4E)) !important;
+}
+
+.products-section .product-card .btn {
+  color: var(--secondary-color, var(--secondary, #4A5D4E)) !important;
+}
+
+.category-section .product-card .price {
+  color: var(--secondary-color, var(--secondary, #4A5D4E)) !important;
+}
+
+.category-section .product-card .stock-status {
+  color: var(--secondary-color, var(--secondary, #4A5D4E)) !important;
+}
+
+.category-section .product-card .out-of-stock-label {
+  color: var(--secondary-color, var(--secondary, #4A5D4E)) !important;
+}
+
+.category-section .product-card .add-to-cart {
+  color: var(--secondary-color, var(--secondary, #4A5D4E)) !important;
+}
+
+.category-section .product-card button.product-card-btn {
+  color: var(--secondary-color, var(--secondary, #4A5D4E)) !important;
+}
+
+.category-section .product-card .btn {
+  color: var(--secondary-color, var(--secondary, #4A5D4E)) !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
