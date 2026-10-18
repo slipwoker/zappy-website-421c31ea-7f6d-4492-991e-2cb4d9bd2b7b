@@ -2044,7 +2044,7 @@ Privacy Policy   •   Terms & Conditions  |    Return Policy    •   Accessibi
 ## Cart
 
 URL: https://valesugerove.lt/cart
-Description: Your Cart
+Description: Review the items in your Valesų Gerovė cart — Baltic herbal teas, honey and traditional products from Vilnius.
 
 Cart - Valesų gerovė
 
@@ -2195,7 +2195,7 @@ Proceed to Checkout
 ## Checkout
 
 URL: https://valesugerove.lt/checkout
-Description: Checkout
+Description: Complete your Valesų Gerovė order — Baltic herbal teas, honey and traditional products, described clearly and honestly.
 
 Checkout - Valesų gerovė
 
@@ -2532,7 +2532,7 @@ Proceed to Checkout
 ## Login
 
 URL: https://valesugerove.lt/login
-Description: Customer Login
+Description: Log in to your Valesų Gerovė account to view orders, favourites and details.
 
 Login - Valesų gerovė
 
@@ -2690,7 +2690,7 @@ Proceed to Checkout
 ## My Account
 
 URL: https://valesugerove.lt/account
-Description: My Account
+Description: Manage your Valesų Gerovė account — orders, addresses, favourites and personal details.
 
 My Account - Valesų gerovė
 
@@ -2792,7 +2792,7 @@ Save
 
 
 
-# Not Logged In
+## Not Logged In
 
 
 Please login to view your account
@@ -3003,7 +3003,7 @@ Proceed to Checkout
 ## Order Received!
 
 URL: https://valesugerove.lt/order-success
-Description: Thank you for your order
+Description: Your Valesų Gerovė order was received. A confirmation has been sent to your email.
 
 Order Received! - Valesų gerovė
 
@@ -3284,7 +3284,7 @@ Cart is empty          Total:    €0     Proceed to Checkout
 ## Product Details
 
 URL: https://valesugerove.lt/product/:slug
-Description: Product Details - Valesų gerovė
+Description: Baltic herbal teas, honey and traditional herbal products from Vilnius, described clearly and honestly.
 
 Product Details - Valesų gerovė
 
@@ -3437,7 +3437,7 @@ Proceed to Checkout
 ## Products
 
 URL: https://valesugerove.lt/category/:slug
-Description: Products - Valesų gerovė
+Description: Browse Baltic herbal teas, Lithuanian honey and traditional herbal products by category.
 
 Products - Valesų gerovė
 
@@ -4209,7 +4209,7 @@ Privacy Policy   •   Terms & Conditions  |    Return Policy    •   Accessibi
 ## Thank You | Valesų gerovė
 
 URL: https://valesugerove.lt/thank-you
-Description: Valesų gerovė - Thank You | Valesų gerovė
+Description: Thank you for contacting Valesų Gerovė — we have received your message.
 
 Thank You | Valesų gerovė
 

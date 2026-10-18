@@ -35,35 +35,35 @@ Contact Valesu Gerove in Vilnius with questions about Lithuanian herbal products
 
 ### Cart
 https://valesugerove.lt/cart
-Your Cart
+Review the items in your Valesų Gerovė cart — Baltic herbal teas, honey and traditional products from Vilnius.
 
 ### Checkout
 https://valesugerove.lt/checkout
-Checkout
+Complete your Valesų Gerovė order — Baltic herbal teas, honey and traditional products, described clearly and honestly.
 
 ### Login
 https://valesugerove.lt/login
-Customer Login
+Log in to your Valesų Gerovė account to view orders, favourites and details.
 
 ### Account
 https://valesugerove.lt/account
-My Account
+Manage your Valesų Gerovė account — orders, addresses, favourites and personal details.
 
 ### Order Success
 https://valesugerove.lt/order-success
-Thank you for your order
+Your Valesų Gerovė order was received. A confirmation has been sent to your email.
 
 ### Product Detail
 https://valesugerove.lt/product/:slug
-Product Details - Valesų gerovė
+Baltic herbal teas, honey and traditional herbal products from Vilnius, described clearly and honestly.
 
 ### Category
 https://valesugerove.lt/category/:slug
-Products - Valesų gerovė
+Browse Baltic herbal teas, Lithuanian honey and traditional herbal products by category.
 
 ### Thank You | Valesų gerovė
 https://valesugerove.lt/thank-you
-Valesų gerovė - Thank You | Valesų gerovė
+Thank you for contacting Valesų Gerovė — we have received your message.
 
 ## Legal & Policy
 
