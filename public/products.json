@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-10-18T08:30:40.157Z",
+  "generated_at": "2026-10-18T08:31:39.439Z",
   "base_url": "https://valesugerove.lt",
   "currency": "EUR",
   "count": 3,
@@ -34,13 +34,13 @@
     },
     {
       "id": "99ffd505-7e5f-4da4-b65d-6d6f02d70556",
-      "slug": "sample-wellness-wearable-placeholder-7g6mnq",
+      "slug": "sample-wellness-wearable-placeholder-o22ha1",
       "name": "SAMPLE - Wellness Wearable (placeholder)",
       "name_translations": {
         "en": "SAMPLE - Wellness Wearable (placeholder)",
-        "lt": "PAVYZDYS – Gerovės nešiojamasis įrenginys (vietos rezervavimas)"
+        "lt": "PAVYZDYS - Gerovės nešiojamas įrenginys (vietos užpildas)"
       },
-      "description": "Placeholder - Not for sale",
+      "description": "<p>Placeholder - Not for sale</p>",
       "short_description": "Placeholder product for layout only. Not for sale. Real products coming soon.",
       "sku": null,
       "brand": null,
@@ -48,14 +48,16 @@
       "base_price": 0.01,
       "sale_price": null,
       "currency": "EUR",
-      "images": [],
+      "images": [
+        "https://valesugerove.lt/assets/image-product-image-1792312243404-wt4izd.webp"
+      ],
       "in_stock": false,
       "stock_status": "out_of_stock",
-      "url": "https://valesugerove.lt/product/sample-wellness-wearable-placeholder-7g6mnq",
+      "url": "https://valesugerove.lt/product/sample-wellness-wearable-placeholder-o22ha1",
       "categories": [
         "Wellness Technology"
       ],
-      "updated_at": "2026-10-18T07:56:11.290Z"
+      "updated_at": "2026-10-18T08:31:02.306Z"
     },
     {
       "id": "25c4039a-c368-4af0-af5f-5961068f4c05",

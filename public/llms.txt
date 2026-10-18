@@ -94,11 +94,12 @@ https://valesugerove.lt/product/sample-traditional-herbal-bottle-placeholder-kwm
 - Image: https://valesugerove.lt/assets/image-product-image-1792312186316-jdbluu.webp
 
 ### SAMPLE - Wellness Wearable (placeholder)
-https://valesugerove.lt/product/sample-wellness-wearable-placeholder-7g6mnq
+https://valesugerove.lt/product/sample-wellness-wearable-placeholder-o22ha1
 - Price: 0.01 EUR
 - Availability: Out of stock
 - Category: Wellness Technology
 - Description: Placeholder product for layout only. Not for sale. Real products coming soon.
+- Image: https://valesugerove.lt/assets/image-product-image-1792312243404-wt4izd.webp
 
 ### SAMPLE - Botanical Supplement Bottle (placeholder)
 https://valesugerove.lt/product/sample-botanical-supplement-bottle-placeholder-oby3dd
