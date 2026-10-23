@@ -8,11 +8,11 @@
 
 ### Home
 https://valesugerove.lt
-Lithuanian herbal teas, honey and botanical wellness products, curated by naturopath Ron Yaffe, ND. Vilnius.
+Curated Baltic botanical products and wellness technology from MB Valesų Gerovė, Vilnius. Clear information, no exaggerated claims.
 
 ### Products
 https://valesugerove.lt/products
-Explore Baltic herbal teas, Lithuanian honey and traditional herbal products from Vilnius, described clearly and honestly.
+Explore curated Baltic herbal teas, Lithuanian honey and traditional herbal products from MB Valesų Gerovė, Vilnius.
 
 ### About
 https://valesugerove.lt/about
@@ -27,7 +27,7 @@ https://valesugerove.lt/books
 
 ### NaturoSync (in development) | Valesų Gerovė
 https://valesugerove.lt/naturosync
-Valesų gerovė - NaturoSync (in development) | Valesų Gerovė
+NaturoSync is an illustrative concept from Valesų Gerovė: a companion app idea for traditional Baltic herbal knowledge and everyday wellness.
 
 ### Contact
 https://valesugerove.lt/contact
@@ -59,7 +59,7 @@ Baltic herbal teas, honey and traditional herbal products from Vilnius, describe
 
 ### Category
 https://valesugerove.lt/category/:slug
-Browse Baltic herbal teas, Lithuanian honey and traditional herbal products by category.
+Browse our curated ranges of Baltic herbal products, supplements and wellness technology from MB Valesų Gerovė, Vilnius.
 
 ### Thank You | Valesų gerovė
 https://valesugerove.lt/thank-you
