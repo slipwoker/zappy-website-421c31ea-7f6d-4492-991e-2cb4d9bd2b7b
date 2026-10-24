@@ -50,6 +50,7 @@ Valesų Gerovė | Baltic botanical heritage and modern wellness technology
 
 
 
+
 We use essential cookies for the site to work. Analytics and marketing cookies are enabled only with your consent. More in the Privacy Policy. Privacy Policy
 
 
@@ -87,13 +88,35 @@ Save
 
 
 
+
+
 - Products Products
+
+
+
+
 - About
 - Standards
 - Books
 - Contact
 - NaturoSync
-0                            Lietuvių
+0
+
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+
 
 
 
@@ -527,7 +550,7 @@ Privacy Policy   •   Terms & Conditions  |    Return Policy    •   Accessibi
 ## Products
 
 URL: https://valesugerove.lt/products
-Description: Explore curated Baltic herbal teas, Lithuanian honey and traditional herbal products from MB Valesų Gerovė, Vilnius.
+Description: Our Products - Valesų gerovė
 
 Products - Valesų gerovė
 
@@ -573,32 +596,6 @@ Products - Valesų gerovė
 
 
 
-We use essential cookies for the site to work. Analytics and marketing cookies are enabled only with your consent. More in the Privacy Policy. Privacy Policy
-
-
-Accept all
-Essential only
-Settings
-
-
-
-
-
-### Cookie settings
-&times;
-
-Choose which optional cookies we may use. You can change this at any time.
-
-Analytics cookies
-Help us understand how visitors use the site.
-Marketing cookies
-Used to deliver relevant ads and measure campaigns.
-Privacy Policy
-Save
-
-
-
-
 
 
 
@@ -612,18 +609,37 @@ Save
 
 
 - Products Products
+
+
+
+
 - About
 - Standards
 - Books
 - Contact
 - NaturoSync
-0                            Lietuvių
+0
+
+
+
+
+
+
+
+
+
+Products
+
+
+
+
 
 
 
 
 
 # Our Products
+
 
 
 
@@ -690,6 +706,22 @@ Cart is empty
 
 
 
+Subtotal:
+€0
+
+
+Bundle Discount:
+-€0
+
+
+Seasonal Discount:
+-€0
+
+
+Customer Discount:
+-€0
+
+
 Total:
 €0
 
@@ -703,6 +735,7 @@ URL: https://valesugerove.lt/about
 Description: We blend centuries-old Lithuanian forest remedies with modern biohacking science. Discover our unique Ancient-Future wellness philosophy and heritage.
 
 About Valesu Gerove | Lithuanian herbal heritage
+
 
 
 
@@ -779,13 +812,35 @@ Save
 
 
 
+
+
 - Products Products
+
+
+
+
 - About
 - Standards
 - Books
 - Contact
 - NaturoSync
-0                            Lietuvių
+0
+
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+
 
 
 
@@ -1081,6 +1136,7 @@ Product Information Standards | Valesu Gerove
 
 
 
+
 We use essential cookies for the site to work. Analytics and marketing cookies are enabled only with your consent. More in the Privacy Policy. Privacy Policy
 
 
@@ -1120,13 +1176,35 @@ Save
 
 
 
+
+
 - Products Products
+
+
+
+
 - About
 - Standards
 - Books
 - Contact
 - NaturoSync
-0                            Lietuvių
+0
+
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+
 
 
 
@@ -1313,6 +1391,7 @@ Books | Valesų Gerovė
 
 
 
+
 We use essential cookies for the site to work. Analytics and marketing cookies are enabled only with your consent. More in the Privacy Policy. Privacy Policy
 
 
@@ -1350,13 +1429,35 @@ Save
 
 
 
+
+
 - Products Products
+
+
+
+
 - About
 - Standards
 - Books
 - Contact
 - NaturoSync
-0                            Lietuvių
+0
+
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+
 
 
 
@@ -1522,6 +1623,7 @@ NaturoSync | Valesų Gerovė
 
 
 
+
 We use essential cookies for the site to work. Analytics and marketing cookies are enabled only with your consent. More in the Privacy Policy. Privacy Policy
 
 
@@ -1559,13 +1661,35 @@ Save
 
 
 
+
+
 - Products Products
+
+
+
+
 - About
 - Standards
 - Books
 - Contact
 - NaturoSync
-0                            Lietuvių
+0
+
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+
 
 
 
@@ -1808,6 +1932,7 @@ Contact | Valesu Gerove
 
 
 
+
 We use essential cookies for the site to work. Analytics and marketing cookies are enabled only with your consent. More in the Privacy Policy. Privacy Policy
 
 
@@ -1847,13 +1972,35 @@ Save
 
 
 
+
+
 - Products Products
+
+
+
+
 - About
 - Standards
 - Books
 - Contact
 - NaturoSync
-0                            Lietuvių
+0
+
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+
 
 
 
@@ -2044,7 +2191,7 @@ Privacy Policy   •   Terms & Conditions  |    Return Policy    •   Accessibi
 ## Cart
 
 URL: https://valesugerove.lt/cart
-Description: Review the items in your Valesų Gerovė cart — Baltic herbal teas, honey and traditional products from Vilnius.
+Description: Your Cart
 
 Cart - Valesų gerovė
 
@@ -2090,32 +2237,6 @@ Cart - Valesų gerovė
 
 
 
-We use essential cookies for the site to work. Analytics and marketing cookies are enabled only with your consent. More in the Privacy Policy. Privacy Policy
-
-
-Accept all
-Essential only
-Settings
-
-
-
-
-
-### Cookie settings
-&times;
-
-Choose which optional cookies we may use. You can change this at any time.
-
-Analytics cookies
-Help us understand how visitors use the site.
-Marketing cookies
-Used to deliver relevant ads and measure campaigns.
-Privacy Policy
-Save
-
-
-
-
 
 
 
@@ -2129,12 +2250,30 @@ Save
 
 
 - Products Products
+
+
+
+
 - About
 - Standards
 - Books
 - Contact
 - NaturoSync
-0                            Lietuvių
+0
+
+
+
+
+
+
+
+
+
+Products
+
+
+
+
 
 
 
@@ -2146,7 +2285,7 @@ Save
 Cart is empty
 
 
-Total:   €0
+Total:  €0
 Proceed to Checkout
 
 
@@ -2185,6 +2324,22 @@ Cart is empty
 
 
 
+Subtotal:
+€0
+
+
+Bundle Discount:
+-€0
+
+
+Seasonal Discount:
+-€0
+
+
+Customer Discount:
+-€0
+
+
 Total:
 €0
 
@@ -2195,7 +2350,7 @@ Proceed to Checkout
 ## Checkout
 
 URL: https://valesugerove.lt/checkout
-Description: Complete your Valesų Gerovė order — Baltic herbal teas, honey and traditional products, described clearly and honestly.
+Description: Checkout
 
 Checkout - Valesų gerovė
 
@@ -2241,32 +2396,6 @@ Checkout - Valesų gerovė
 
 
 
-We use essential cookies for the site to work. Analytics and marketing cookies are enabled only with your consent. More in the Privacy Policy. Privacy Policy
-
-
-Accept all
-Essential only
-Settings
-
-
-
-
-
-### Cookie settings
-&times;
-
-Choose which optional cookies we may use. You can change this at any time.
-
-Analytics cookies
-Help us understand how visitors use the site.
-Marketing cookies
-Used to deliver relevant ads and measure campaigns.
-Privacy Policy
-Save
-
-
-
-
 
 
 
@@ -2280,12 +2409,30 @@ Save
 
 
 - Products Products
+
+
+
+
 - About
 - Standards
 - Books
 - Contact
 - NaturoSync
-0                            Lietuvių
+0
+
+
+
+
+
+
+
+
+
+Products
+
+
+
+
 
 
 
@@ -2464,7 +2611,7 @@ Remove
 Subtotal:  €0
 VAT Included:  €0
 Shipping:  €0
-Discount:  €0
+Discount:  €0.00
 
 Total:  €0
 
@@ -2522,6 +2669,22 @@ Cart is empty
 
 
 
+Subtotal:
+€0
+
+
+Bundle Discount:
+-€0
+
+
+Seasonal Discount:
+-€0
+
+
+Customer Discount:
+-€0
+
+
 Total:
 €0
 
@@ -2532,7 +2695,7 @@ Proceed to Checkout
 ## Login
 
 URL: https://valesugerove.lt/login
-Description: Log in to your Valesų Gerovė account to view orders, favourites and details.
+Description: Customer Login
 
 Login - Valesų gerovė
 
@@ -2578,32 +2741,6 @@ Login - Valesų gerovė
 
 
 
-We use essential cookies for the site to work. Analytics and marketing cookies are enabled only with your consent. More in the Privacy Policy. Privacy Policy
-
-
-Accept all
-Essential only
-Settings
-
-
-
-
-
-### Cookie settings
-&times;
-
-Choose which optional cookies we may use. You can change this at any time.
-
-Analytics cookies
-Help us understand how visitors use the site.
-Marketing cookies
-Used to deliver relevant ads and measure campaigns.
-Privacy Policy
-Save
-
-
-
-
 
 
 
@@ -2617,12 +2754,30 @@ Save
 
 
 - Products Products
+
+
+
+
 - About
 - Standards
 - Books
 - Contact
 - NaturoSync
-0                            Lietuvių
+0
+
+
+
+
+
+
+
+
+
+Products
+
+
+
+
 
 
 
@@ -2680,6 +2835,22 @@ Cart is empty
 
 
 
+Subtotal:
+€0
+
+
+Bundle Discount:
+-€0
+
+
+Seasonal Discount:
+-€0
+
+
+Customer Discount:
+-€0
+
+
 Total:
 €0
 
@@ -2690,7 +2861,7 @@ Proceed to Checkout
 ## My Account
 
 URL: https://valesugerove.lt/account
-Description: Manage your Valesų Gerovė account — orders, addresses, favourites and personal details.
+Description: My Account
 
 My Account - Valesų gerovė
 
@@ -2736,32 +2907,6 @@ My Account - Valesų gerovė
 
 
 
-We use essential cookies for the site to work. Analytics and marketing cookies are enabled only with your consent. More in the Privacy Policy. Privacy Policy
-
-
-Accept all
-Essential only
-Settings
-
-
-
-
-
-### Cookie settings
-&times;
-
-Choose which optional cookies we may use. You can change this at any time.
-
-Analytics cookies
-Help us understand how visitors use the site.
-Marketing cookies
-Used to deliver relevant ads and measure campaigns.
-Privacy Policy
-Save
-
-
-
-
 
 
 
@@ -2775,12 +2920,26 @@ Save
 
 
 - Products Products
+
+
+
+
 - About
 - Standards
 - Books
 - Contact
 - NaturoSync
-0                            Lietuvių
+0
+
+
+
+
+
+
+
+
+
+Products
 
 
 
@@ -2792,7 +2951,11 @@ Save
 
 
 
-## Not Logged In
+
+
+
+
+# Not Logged In
 
 
 Please login to view your account
@@ -2993,6 +3156,22 @@ Cart is empty
 
 
 
+Subtotal:
+€0
+
+
+Bundle Discount:
+-€0
+
+
+Seasonal Discount:
+-€0
+
+
+Customer Discount:
+-€0
+
+
 Total:
 €0
 
@@ -3003,7 +3182,7 @@ Proceed to Checkout
 ## Order Received!
 
 URL: https://valesugerove.lt/order-success
-Description: Your Valesų Gerovė order was received. A confirmation has been sent to your email.
+Description: Thank you for your order
 
 Order Received! - Valesų gerovė
 
@@ -3049,32 +3228,6 @@ Order Received! - Valesų gerovė
 
 
 
-We use essential cookies for the site to work. Analytics and marketing cookies are enabled only with your consent. More in the Privacy Policy. Privacy Policy
-
-
-Accept all
-Essential only
-Settings
-
-
-
-
-
-### Cookie settings
-&times;
-
-Choose which optional cookies we may use. You can change this at any time.
-
-Analytics cookies
-Help us understand how visitors use the site.
-Marketing cookies
-Used to deliver relevant ads and measure campaigns.
-Privacy Policy
-Save
-
-
-
-
 
 
 
@@ -3088,12 +3241,30 @@ Save
 
 
 - Products Products
+
+
+
+
 - About
 - Standards
 - Books
 - Contact
 - NaturoSync
-0                            Lietuvių
+0
+
+
+
+
+
+
+
+
+
+Products
+
+
+
+
 
 
 
@@ -3168,6 +3339,22 @@ Cart is empty
 
 
 
+Subtotal:
+€0
+
+
+Bundle Discount:
+-€0
+
+
+Seasonal Discount:
+-€0
+
+
+Customer Discount:
+-€0
+
+
 Total:
 €0
 
@@ -3181,84 +3368,156 @@ URL: https://valesugerove.lt/return-policy
 Description: Return policy - your rights for returns and exchanges
 
 Return Policy - Valesų gerovė
-We use essential cookies for the site to work. Analytics and marketing cookies are enabled only with your consent. More in the Privacy Policy. Privacy Policy
-Accept all   Essential only   Settings
-### Cookie settings
-&times;
-Choose which optional cookies we may use. You can change this at any time.
-Analytics cookies
-Help us understand how visitors use the site.            Marketing cookies
-Used to deliver relevant ads and measure campaigns.          Privacy Policy    Save                                                         - Products Products
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Products Products
+
+
+
+
 - About
 - Standards
 - Books
 - Contact
 - NaturoSync
-0                            Lietuvių
+0
+
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+
+
+
+
+
 # Return Policy
 
-Last Updated: 10/17/2026
 
-Seller: Valesų Gerovė, MB, company code 307168555, Žirmūnų g. 57-50, LT-09110 Vilnius, Lithuania
+Last Updated: 10/24/2026
 
-Return and contact address: Žalgirio g. 90, 6th floor, LT-09303 Vilnius, Lithuania
+
+
+At Valesų gerovė, we want you to be satisfied with your purchase. This policy outlines your rights for returns and refunds.
+
+
+## 1. Return Window
+
+
+You may return most items within 30 days of delivery for a full refund.
+
+
+- Items must be unused and in original condition
+
+- Items must be in original packaging
+
+- Receipt or proof of purchase required
+
+
+
+
+## 2. Non-Returnable Items
+
+
+- Perishable goods
+
+- Custom or personalized items
+
+- Digital products and opened software
+
+- Personal hygiene products that have been opened
+
+
+
+
+## 3. Damaged or Defective Items
+
+
+If you receive a damaged or defective item, contact us within 48 hours for a full refund including shipping costs.
+
+
+## 4. Contact Us
+
+
+
+For returns or questions:
+
 
 Email: info@valesugerove.lt
 
-Phone: +370 4543 5643
 
-## 1. Two Ways to Return
-
-We offer two return routes:
-- Your statutory 14-day right of withdrawal for distance contracts under EU and Lithuanian consumer law (see Section 2).
-- Our voluntary 30-day return promise for unopened products (see Section 3).
-
-## 2. Statutory Right of Withdrawal
-
-You have the right to withdraw from this contract within 14 calendar days without giving any reason. The withdrawal period expires 14 calendar days from the day on which you, or a person you name, receives the goods — or, if the order covers several goods delivered separately, the day on which you or that person receives the last good.
-
-To exercise the right of withdrawal, you must inform us of your decision by an unequivocal statement (for example, a letter sent by post or an email to info@valesugerove.lt). You must dispatch the goods back to our return address without undue delay and in any event no later than 14 days after telling us of your withdrawal.
-
-Return costs: You bear the direct cost of returning the goods (except where the goods are faulty — see Section 5).
-
-Refund: We will reimburse all payments received from you, including the cost of standard delivery, no later than 14 calendar days from the day on which we are informed of your decision to withdraw. We will carry out that reimbursement using the same means of payment as you used for the initial transaction. We may withhold reimbursement until we have received the goods back or you have supplied evidence of having sent back the goods, whichever is the earliest.
-
-Exceptions — the right of withdrawal does not apply to:
-- Sealed goods which are not suitable for return due to health protection or hygiene reasons and which were unsealed after delivery.
-- Goods that deteriorate rapidly or whose expiry date would expire.
-
-Loss in value: You are only liable for any diminished value of the goods resulting from handling which is not necessary to establish the nature, characteristics and functioning of the goods.
-
-## 3. Our Voluntary 30-Day Return Promise
-
-In addition to your statutory rights, we accept returns of unopened products in their original packaging within 30 days of delivery. This is a voluntary commercial commitment; it does not limit, replace or affect your statutory right of withdrawal described in Section 2. Refunds under this promise will be made to the original payment method.
-
-## 4. How to Return
-- Email us at info@valesugerove.lt with your order number and the items you wish to return.
-- We will reply with return instructions.
-- Pack the goods securely and send them to our return address: Žalgirio g. 90, 6th floor, LT-09303 Vilnius, Lithuania.
-- Return shipping costs are borne by you, except for faulty or non-conforming goods (see Section 5).
-
-## 5. Damaged or Defective Goods
-
-If you receive goods that are damaged or do not conform to the contract, please contact us at info@valesugerove.lt with your order number and photographs of the issue as soon as possible.
-
-Your legal guarantee rights under Lithuanian consumer law remain fully intact. Where goods do not conform to the contract, you are entitled to have them repaired or replaced, or — where repair or replacement is not possible — to a proportionate price reduction or termination of the contract. Non-conformity appearing within two years of delivery is covered. We will bear all return costs for goods that are faulty or non-conforming.
-
-## 6. Refund Timing
-
-Refunds are processed as described in Section 2 — within 14 calendar days of us receiving your withdrawal notice (subject to receipt of the goods or proof of dispatch). Please note that your bank or payment provider may require a few additional business days to credit the amount to your account.
-
-## 7. Complaints
+Phone: +37045435643
 
 
-If you have a complaint, please contact us first at info@valesugerove.lt — we aim to resolve all issues promptly.
+Address: Žalgirio g. 90-6th floor, Vilnius
 
-If we are unable to resolve your complaint, consumers may contact the State Consumer Rights Protection Authority (Valstybinė vartotojų teisių apsaugos tarnyba, VVTAT): vvtat.lt.
 
-## 8. See Also
 
-Please also read our Terms and Conditions of Sale for further information about your rights and our obligations.
+
+
 
 Lithuanian botanical heritage, carefully selected supplements and modern technology.
 
@@ -3276,15 +3535,49 @@ Lithuanian botanical heritage, carefully selected supplements and modern technol
 
 © MB Valesų Gerovė
 Privacy Policy   •   Terms & Conditions  |    Return Policy    •   Accessibility   •   Cookie settings  •  Generated by Zappy
+
+
+
+
+
 ## Your Cart
-Cart is empty          Total:    €0     Proceed to Checkout
+
+
+
+
+
+
+Cart is empty
+
+
+
+Subtotal:
+€0
+
+
+Bundle Discount:
+-€0
+
+
+Seasonal Discount:
+-€0
+
+
+Customer Discount:
+-€0
+
+
+Total:
+€0
+
+Proceed to Checkout
 
 ---
 
 ## Product Details
 
 URL: https://valesugerove.lt/product/:slug
-Description: Baltic herbal teas, honey and traditional herbal products from Vilnius, described clearly and honestly.
+Description: Product Details - Valesų gerovė
 
 Product Details - Valesų gerovė
 
@@ -3330,32 +3623,6 @@ Product Details - Valesų gerovė
 
 
 
-We use essential cookies for the site to work. Analytics and marketing cookies are enabled only with your consent. More in the Privacy Policy. Privacy Policy
-
-
-Accept all
-Essential only
-Settings
-
-
-
-
-
-### Cookie settings
-&times;
-
-Choose which optional cookies we may use. You can change this at any time.
-
-Analytics cookies
-Help us understand how visitors use the site.
-Marketing cookies
-Used to deliver relevant ads and measure campaigns.
-Privacy Policy
-Save
-
-
-
-
 
 
 
@@ -3369,12 +3636,30 @@ Save
 
 
 - Products Products
+
+
+
+
 - About
 - Standards
 - Books
 - Contact
 - NaturoSync
-0                            Lietuvių
+0
+
+
+
+
+
+
+
+
+
+Products
+
+
+
+
 
 
 
@@ -3427,6 +3712,22 @@ Cart is empty
 
 
 
+Subtotal:
+€0
+
+
+Bundle Discount:
+-€0
+
+
+Seasonal Discount:
+-€0
+
+
+Customer Discount:
+-€0
+
+
 Total:
 €0
 
@@ -3437,7 +3738,7 @@ Proceed to Checkout
 ## Products
 
 URL: https://valesugerove.lt/category/:slug
-Description: Browse our curated ranges of Baltic herbal products, supplements and wellness technology from MB Valesų Gerovė, Vilnius.
+Description: Products - Valesų gerovė
 
 Products - Valesų gerovė
 
@@ -3483,32 +3784,6 @@ Products - Valesų gerovė
 
 
 
-We use essential cookies for the site to work. Analytics and marketing cookies are enabled only with your consent. More in the Privacy Policy. Privacy Policy
-
-
-Accept all
-Essential only
-Settings
-
-
-
-
-
-### Cookie settings
-&times;
-
-Choose which optional cookies we may use. You can change this at any time.
-
-Analytics cookies
-Help us understand how visitors use the site.
-Marketing cookies
-Used to deliver relevant ads and measure campaigns.
-Privacy Policy
-Save
-
-
-
-
 
 
 
@@ -3522,12 +3797,30 @@ Save
 
 
 - Products Products
+
+
+
+
 - About
 - Standards
 - Books
 - Contact
 - NaturoSync
-0                            Lietuvių
+0
+
+
+
+
+
+
+
+
+
+Products
+
+
+
+
 
 
 
@@ -3602,6 +3895,22 @@ Cart is empty
 
 
 
+Subtotal:
+€0
+
+
+Bundle Discount:
+-€0
+
+
+Seasonal Discount:
+-€0
+
+
+Customer Discount:
+-€0
+
+
 Total:
 €0
 
@@ -3615,6 +3924,7 @@ URL: https://valesugerove.lt/privacy
 Description: Our privacy policy - how we collect, use, and protect your information
 
 Privacy Policy
+
 We use essential cookies for the site to work. Analytics and marketing cookies are enabled only with your consent. More in the Privacy Policy. Privacy Policy
 Accept all   Essential only   Settings
 ### Cookie settings
@@ -3622,13 +3932,35 @@ Accept all   Essential only   Settings
 Choose which optional cookies we may use. You can change this at any time.
 Analytics cookies
 Help us understand how visitors use the site.            Marketing cookies
-Used to deliver relevant ads and measure campaigns.          Privacy Policy    Save                                                         - Products Products
+Used to deliver relevant ads and measure campaigns.          Privacy Policy    Save
+
+- Products Products
+
+
+
+
 - About
 - Standards
 - Books
 - Contact
 - NaturoSync
-0                            Lietuvių
+0
+
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+
 # Privacy Policy
 Last Updated:  10/17/2026
 ## 1. Who We Are
@@ -3765,6 +4097,7 @@ Accessibility Statement
 
 
 
+
 We use essential cookies for the site to work. Analytics and marketing cookies are enabled only with your consent. More in the Privacy Policy. Privacy Policy
 
 
@@ -3804,13 +4137,35 @@ Save
 
 
 
+
+
 - Products Products
+
+
+
+
 - About
 - Standards
 - Books
 - Contact
 - NaturoSync
-0                            Lietuvių
+0
+
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+
 
 
 
@@ -3991,6 +4346,7 @@ Terms & Conditions
 
 
 
+
 We use essential cookies for the site to work. Analytics and marketing cookies are enabled only with your consent. More in the Privacy Policy. Privacy Policy
 
 
@@ -4030,13 +4386,35 @@ Save
 
 
 
+
+
 - Products Products
+
+
+
+
 - About
 - Standards
 - Books
 - Contact
 - NaturoSync
-0                            Lietuvių
+0
+
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+
 
 
 
@@ -4260,6 +4638,7 @@ Thank You | Valesų gerovė
 
 
 
+
 We use essential cookies for the site to work. Analytics and marketing cookies are enabled only with your consent. More in the Privacy Policy. Privacy Policy
 
 
@@ -4299,13 +4678,35 @@ Save
 
 
 
+
+
 - Products Products
+
+
+
+
 - About
 - Standards
 - Books
 - Contact
 - NaturoSync
-0                            Lietuvių
+0
+
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+
 
 
 

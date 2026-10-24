@@ -12,7 +12,7 @@ Curated Baltic botanical products and wellness technology from MB Valesų Gerov�
 
 ### Products
 https://valesugerove.lt/products
-Explore curated Baltic herbal teas, Lithuanian honey and traditional herbal products from MB Valesų Gerovė, Vilnius.
+Our Products - Valesų gerovė
 
 ### About
 https://valesugerove.lt/about
@@ -35,31 +35,31 @@ Contact Valesu Gerove in Vilnius with questions about Lithuanian herbal products
 
 ### Cart
 https://valesugerove.lt/cart
-Review the items in your Valesų Gerovė cart — Baltic herbal teas, honey and traditional products from Vilnius.
+Your Cart
 
 ### Checkout
 https://valesugerove.lt/checkout
-Complete your Valesų Gerovė order — Baltic herbal teas, honey and traditional products, described clearly and honestly.
+Checkout
 
 ### Login
 https://valesugerove.lt/login
-Log in to your Valesų Gerovė account to view orders, favourites and details.
+Customer Login
 
 ### Account
 https://valesugerove.lt/account
-Manage your Valesų Gerovė account — orders, addresses, favourites and personal details.
+My Account
 
 ### Order Success
 https://valesugerove.lt/order-success
-Your Valesų Gerovė order was received. A confirmation has been sent to your email.
+Thank you for your order
 
 ### Product Detail
 https://valesugerove.lt/product/:slug
-Baltic herbal teas, honey and traditional herbal products from Vilnius, described clearly and honestly.
+Product Details - Valesų gerovė
 
 ### Category
 https://valesugerove.lt/category/:slug
-Browse our curated ranges of Baltic herbal products, supplements and wellness technology from MB Valesų Gerovė, Vilnius.
+Products - Valesų gerovė
 
 ### Thank You | Valesų gerovė
 https://valesugerove.lt/thank-you
