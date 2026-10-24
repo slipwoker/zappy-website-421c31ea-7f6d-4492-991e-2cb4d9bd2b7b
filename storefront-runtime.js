@@ -649,6 +649,8 @@ window.onload = function() {
 /* ZAPPY_CUSTOM_JS_END:5d9d602e5216 */
 
 ;
+
+;
 /* ==ZAPPY E-COMMERCE JS START== */
 // E-commerce functionality
 (function() {
