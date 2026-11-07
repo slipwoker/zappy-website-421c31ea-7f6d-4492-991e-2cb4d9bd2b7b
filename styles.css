@@ -17946,6 +17946,70 @@ main,
 .featured-products-section {
   display: none !important;
 }
+
+.home-hero-section {
+  border-bottom: 1px solid #B8860B !important;
+  margin-bottom: 72px !important;
+}
+
+.featured-categories-section .category-blocks,
+.featured-categories-section #zappy-featured-categories {
+  display: flex !important;
+  flex-wrap: wrap !important;
+  gap: 24px !important;
+  align-items: stretch !important;
+}
+
+.featured-categories-section .category-block,
+.featured-categories-section .category-card,
+.featured-categories-section .category-blocks > *,
+.featured-categories-section #zappy-featured-categories > * {
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: stretch !important;
+  flex: 1 1 260px !important;
+  min-height: 0 !important;
+  overflow: hidden !important;
+  border-radius: 8px !important;
+  transition: transform 220ms ease, box-shadow 220ms ease !important;
+}
+
+.featured-categories-section .category-block img,
+.featured-categories-section .category-card img,
+.featured-categories-section .category-image img,
+.featured-categories-section .category-blocks img,
+.featured-categories-section #zappy-featured-categories img {
+  width: 100% !important;
+  height: 240px !important;
+  object-fit: cover !important;
+  object-position: center !important;
+  display: block !important;
+}
+
+.featured-categories-section .category-block:hover,
+.featured-categories-section .category-card:hover,
+.featured-categories-section .category-blocks > *:hover,
+.featured-categories-section #zappy-featured-categories > *:hover {
+  transform: translateY(-4px) !important;
+  box-shadow: 0 10px 24px rgba(0,0,0,0.12) !important;
+}
+
+@media (max-width: 768px) {
+.home-hero-section .home-hero-overlay-card {
+  max-width: 86% !important;
+  width: 86% !important;
+  padding: 20px 18px !important;
+  margin-top: 16px !important;
+  margin-bottom: 16px !important;
+  background: rgba(231,224,214,0.92) !important;
+}
+
+.home-hero-section .home-hero-overlay-card h3 {
+  font-size: 14px !important;
+  line-height: 1.5 !important;
+  margin-bottom: 16px !important;
+}
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
