@@ -83,7 +83,16 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 3**
+**Total active products: 4**
+
+### Vitamin D3 + K2 Drops, 50 ml
+https://valesugerove.lt/product/vitamin-d3-k2-drops-50-ml-dkuoae
+- Price: 19.90 EUR
+- Availability: Out of stock
+- Category: Supplements
+- SKU: VG-D3K2-50
+- Description: Food supplement drops with vitamin D3 (25 µg / 1,000 IU) and vitamin K2 as MK-7 (20 µg) per daily drop. 50 ml bottle, about 1,000 drops, in coconut-derived MCT oil.
+- Image: https://valesugerove.lt/assets/product-1794727673221-xbmtv.webp
 
 ### SAMPLE - Traditional Herbal Bottle (placeholder)
 https://valesugerove.lt/product/sample-traditional-herbal-bottle-placeholder-yw8y02

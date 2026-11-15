@@ -1,10 +1,40 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-11-14T16:26:21.380Z",
+  "generated_at": "2026-11-15T07:29:46.010Z",
   "base_url": "https://valesugerove.lt",
   "currency": "EUR",
-  "count": 3,
+  "count": 4,
   "products": [
+    {
+      "id": "5ea7c33d-32b7-4438-8de5-afd2b4717742",
+      "slug": "vitamin-d3-k2-drops-50-ml-dkuoae",
+      "name": "Vitamin D3 + K2 Drops, 50 ml",
+      "name_translations": {
+        "en": "Vitamin D3 + K2 Drops, 50 ml",
+        "lt": "Vitamino D3 + K2 lašai, 50 ml"
+      },
+      "description": "<p>Vitamin D3 + K2 food supplement drops, 50 ml (about 1,000 drops).</p><p>Per daily dose (1 drop): vitamin D3 25 µg (1,000 IU, 500% NRV); vitamin K2 (menaquinone-7, all-trans) 20 µg (27% NRV).</p><p>Ingredients: medium-chain triglycerides from coconut oil (96.5%), cholecalciferol (2.5%), menaquinone-7 (1%).</p><p>Suggested use: take 1 drop daily. Do not exceed the recommended daily dose.</p><p>Food supplements are not a substitute for a varied and balanced diet and a healthy lifestyle. Keep out of the reach of children. Store closed, dry, cool and protected from light.</p><p>Lithuanian label and company details are on the pack. Batch number and best-before date: see bottom of the bottle.</p>",
+      "short_description": "Food supplement drops with vitamin D3 (25 µg / 1,000 IU) and vitamin K2 as MK-7 (20 µg) per daily drop. 50 ml bottle, about 1,000 drops, in coconut-derived MCT oil.",
+      "sku": "VG-D3K2-50",
+      "brand": null,
+      "price": 19.9,
+      "base_price": 19.9,
+      "sale_price": null,
+      "currency": "EUR",
+      "images": [
+        "https://valesugerove.lt/assets/product-1794727673221-xbmtv.webp",
+        "https://valesugerove.lt/assets/product-1794727663503-yoafo2.webp",
+        "https://valesugerove.lt/assets/product-1794727680489-9t0goq.webp",
+        "https://valesugerove.lt/assets/product-1794727688713-7lr3c.webp"
+      ],
+      "in_stock": false,
+      "stock_status": "out_of_stock",
+      "url": "https://valesugerove.lt/product/vitamin-d3-k2-drops-50-ml-dkuoae",
+      "categories": [
+        "Supplements"
+      ],
+      "updated_at": "2026-11-15T07:29:12.457Z"
+    },
     {
       "id": "dea671a8-bfeb-4ddb-a42b-b4699ffa1557",
       "slug": "sample-traditional-herbal-bottle-placeholder-yw8y02",
