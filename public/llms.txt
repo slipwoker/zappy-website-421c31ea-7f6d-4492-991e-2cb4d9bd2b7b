@@ -83,7 +83,52 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 4**
+**Total active products: 9**
+
+### Organic Dandelion Leaf Powder, 1 kg
+https://valesugerove.lt/product/organic-dandelion-leaf-powder-1-kg-i1cq24
+- Price: 39.60 EUR
+- Availability: In stock
+- Category: Traditional Herbal Products
+- Brand: Urbanfood
+- Description: Single-ingredient organic dandelion leaf (Taraxacum officinale) powder from Urbanfood (UAB Kvalitetas), Lithuania. Dried, milled, vegan. Draft entry - not for sale.
+- Image: https://valesugerove.lt/assets/product-1795086458133-ezlq6.webp
+
+### Organic Nettle Powder, 1 kg
+https://valesugerove.lt/product/organic-nettle-powder-1-kg-0duagj
+- Price: 39.60 EUR
+- Availability: In stock
+- Category: Traditional Herbal Products
+- Brand: Urbanfood
+- Description: Single-ingredient organic nettle (Urtica dioica) powder from Urbanfood (UAB Kvalitetas), Lithuania. Dried, milled, vegan. Draft entry - not for sale.
+- Image: https://valesugerove.lt/assets/product-1795086517620-ahbvw.webp
+
+### Organic Sea Buckthorn Fibre, 1 kg
+https://valesugerove.lt/product/organic-sea-buckthorn-fibre-1-kg-hftzpo
+- Price: 54.00 EUR
+- Availability: Out of stock
+- Category: Traditional Herbal Products
+- Brand: Urbanfood
+- Description: Single-ingredient organic sea buckthorn fibre (dried, ground sea buckthorn berries, Hippophae rhamnoides) from Urbanfood (UAB Kvalitetas), Lithuania. Vegan. Draft entry - not for sale.
+- Image: https://valesugerove.lt/assets/product-1795086549274-0v31q.webp
+
+### Organic Blackcurrant Powder, 1 kg
+https://valesugerove.lt/product/organic-blackcurrant-powder-1-kg-r50mo9
+- Price: 101.25 EUR
+- Availability: Out of stock
+- Category: Traditional Herbal Products
+- Brand: Urbanfood
+- Description: Single-ingredient organic blackcurrant (Ribes nigrum) powder from Urbanfood (UAB Kvalitetas), Lithuania. Dried, milled, vegan. Draft entry - not for sale.
+- Image: https://valesugerove.lt/assets/product-1795086596667-cqzncn.webp
+
+### Organic Aronia (Chokeberry) Powder, 1 kg
+https://valesugerove.lt/product/organic-aronia-chokeberry-powder-1-kg-5iolm8
+- Price: 54.00 EUR
+- Availability: Out of stock
+- Category: Traditional Herbal Products
+- Brand: Urbanfood
+- Description: Single-ingredient organic aronia (chokeberry) powder from Urbanfood (UAB Kvalitetas), Lithuania. Dried, milled, vegan. Draft entry - not for sale.
+- Image: https://valesugerove.lt/assets/product-1795086646936-53paoe.webp
 
 ### Vitamin D3 + K2 Drops, 50 ml
 https://valesugerove.lt/product/vitamin-d3-k2-drops-50-ml-dkuoae

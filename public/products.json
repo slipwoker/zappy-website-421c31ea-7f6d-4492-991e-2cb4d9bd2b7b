@@ -1,10 +1,145 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-11-19T11:11:40.772Z",
+  "generated_at": "2026-11-19T11:34:46.284Z",
   "base_url": "https://valesugerove.lt",
   "currency": "EUR",
-  "count": 4,
+  "count": 9,
   "products": [
+    {
+      "id": "864dc070-c068-4b2f-b417-1d5a78f9b042",
+      "slug": "organic-dandelion-leaf-powder-1-kg-i1cq24",
+      "name": "Organic Dandelion Leaf Powder, 1 kg",
+      "name_translations": {
+        "en": "Organic Dandelion Leaf Powder, 1 kg",
+        "lt": "Ekologiškų kiaulpienių lapų milteliai, 1 kg"
+      },
+      "description": "<p>Dried organic dandelion leaf powder, 100%. No preservatives, no other additives. GMO-free (Reg. (EU) 1829/2003). Origin: EU agriculture. Organic production under Regulation (EU) 2018/848. Colour: uniform dark green; flavour: naturally bitter. Suitable for vegans and vegetarians. Shelf life: 24 months after production. Store in a cool, dark, dry place. Nutritional values per 100 g (supplier specification): energy 1195 kJ / 285 kcal; fat 6 g; carbohydrate 52 g, of which sugars 1 g; fibre 30 g; protein 20 g; salt 0.2 g. Supplied by Urbanfood (UAB Kvalitetas), Lithuania.</p>",
+      "short_description": "Single-ingredient organic dandelion leaf (Taraxacum officinale) powder from Urbanfood (UAB Kvalitetas), Lithuania. Dried, milled, vegan. Draft entry - not for sale.",
+      "sku": null,
+      "brand": "Urbanfood",
+      "price": 39.6,
+      "base_price": 39.6,
+      "sale_price": null,
+      "currency": "EUR",
+      "images": [
+        "https://valesugerove.lt/assets/product-1795086458133-ezlq6.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://valesugerove.lt/product/organic-dandelion-leaf-powder-1-kg-i1cq24",
+      "categories": [
+        "Traditional Herbal Products"
+      ],
+      "updated_at": "2026-11-19T11:34:33.766Z"
+    },
+    {
+      "id": "dd0db160-0585-4a51-af78-49de3563b386",
+      "slug": "organic-nettle-powder-1-kg-0duagj",
+      "name": "Organic Nettle Powder, 1 kg",
+      "name_translations": {
+        "en": "Organic Nettle Powder, 1 kg",
+        "lt": "Ekologiški dilgėlių milteliai, 1 kg"
+      },
+      "description": "<p>Dried organic nettle powder, 100%. No preservatives, no other additives. GMO-free (Reg. (EU) 1829/2003). Origin: EU agriculture. Organic production under Regulation (EU) 2018/848. Colour: uniform dark green; flavour: fresh, slightly sweet. Suitable for vegans and vegetarians. Shelf life: 24 months after production. Store in a cool, dark, dry place. Nutritional values per 100 g (supplier specification): energy 1285 kJ / 307 kcal; fat 3.55 g; carbohydrate 37.39 g, of which sugars 2.9 g; fibre 23 g; protein 19.9 g; salt 0 g. Supplied by Urbanfood (UAB Kvalitetas), Lithuania.</p>",
+      "short_description": "Single-ingredient organic nettle (Urtica dioica) powder from Urbanfood (UAB Kvalitetas), Lithuania. Dried, milled, vegan. Draft entry - not for sale.",
+      "sku": null,
+      "brand": "Urbanfood",
+      "price": 39.6,
+      "base_price": 39.6,
+      "sale_price": null,
+      "currency": "EUR",
+      "images": [
+        "https://valesugerove.lt/assets/product-1795086517620-ahbvw.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://valesugerove.lt/product/organic-nettle-powder-1-kg-0duagj",
+      "categories": [
+        "Traditional Herbal Products"
+      ],
+      "updated_at": "2026-11-19T11:34:31.878Z"
+    },
+    {
+      "id": "6f15788f-7df6-4396-a715-9f34820129c1",
+      "slug": "organic-sea-buckthorn-fibre-1-kg-hftzpo",
+      "name": "Organic Sea Buckthorn Fibre, 1 kg",
+      "name_translations": {
+        "en": "Organic Sea Buckthorn Fibre, 1 kg",
+        "lt": "Ekologiški šaltalankių pluoštai, 1 kg"
+      },
+      "description": "<p>Dried, ground organic sea buckthorn berries (fibre), 100%. No preservatives, no other additives. GMO-free (Reg. (EU) 1829/2003). Origin: EU agriculture. Organic production under Regulation (EU) 2018/848. Colour: yellow to orange, turning brown; flavour: slightly sour. Suitable for vegans and vegetarians. Shelf life: 24 months after production. Store in a cool, dark, dry place. Nutritional values per 100 g (supplier specification): energy 1736 kJ / 416 kcal; fat 16.7 g, of which saturates 3.2 g; carbohydrate 36.9 g, of which sugars 3.4 g; fibre 18.1 g; protein 20.5 g; salt &lt; 0.1 g. Supplied by Urbanfood (UAB Kvalitetas), Lithuania.</p>",
+      "short_description": "Single-ingredient organic sea buckthorn fibre (dried, ground sea buckthorn berries, Hippophae rhamnoides) from Urbanfood (UAB Kvalitetas), Lithuania. Vegan. Draft entry - not for sale.",
+      "sku": null,
+      "brand": "Urbanfood",
+      "price": 54,
+      "base_price": 54,
+      "sale_price": null,
+      "currency": "EUR",
+      "images": [
+        "https://valesugerove.lt/assets/product-1795086549274-0v31q.webp"
+      ],
+      "in_stock": false,
+      "stock_status": "out_of_stock",
+      "url": "https://valesugerove.lt/product/organic-sea-buckthorn-fibre-1-kg-hftzpo",
+      "categories": [
+        "Traditional Herbal Products"
+      ],
+      "updated_at": "2026-11-19T11:33:38.889Z"
+    },
+    {
+      "id": "372a17f0-39c9-4bbb-9852-b153e9d6c23b",
+      "slug": "organic-blackcurrant-powder-1-kg-r50mo9",
+      "name": "Organic Blackcurrant Powder, 1 kg",
+      "name_translations": {
+        "en": "Organic Blackcurrant Powder, 1 kg",
+        "lt": "Ekologiškų juodųjų serbentų milteliai, 1 kg"
+      },
+      "description": "<p>Dried organic blackcurrant powder, 100%. No preservatives, no other additives. GMO-free (Reg. (EU) 1829/2003). Origin: EU agriculture. Organic production under Regulation (EU) 2018/848. Colour: uniform dark purple; flavour: slightly sour. Suitable for vegans and vegetarians. Shelf life: 24 months after production. Store in a cool, dark, dry place. Nutritional values per 100 g (supplier specification): energy 1375 kJ / 327 kcal; fat &lt; 0.1 g; carbohydrate 75 g, of which sugars 34 g; fibre 7 g; protein 7 g; salt &lt; 0.01 g. Supplied by Urbanfood (UAB Kvalitetas), Lithuania.</p>",
+      "short_description": "Single-ingredient organic blackcurrant (Ribes nigrum) powder from Urbanfood (UAB Kvalitetas), Lithuania. Dried, milled, vegan. Draft entry - not for sale.",
+      "sku": null,
+      "brand": "Urbanfood",
+      "price": 101.25,
+      "base_price": 101.25,
+      "sale_price": null,
+      "currency": "EUR",
+      "images": [
+        "https://valesugerove.lt/assets/product-1795086596667-cqzncn.webp"
+      ],
+      "in_stock": false,
+      "stock_status": "out_of_stock",
+      "url": "https://valesugerove.lt/product/organic-blackcurrant-powder-1-kg-r50mo9",
+      "categories": [
+        "Traditional Herbal Products"
+      ],
+      "updated_at": "2026-11-19T11:34:12.056Z"
+    },
+    {
+      "id": "34bbcdc8-22fd-4689-b227-00788eefbcfb",
+      "slug": "organic-aronia-chokeberry-powder-1-kg-5iolm8",
+      "name": "Organic Aronia (Chokeberry) Powder, 1 kg",
+      "name_translations": {
+        "en": "Organic Aronia (Chokeberry) Powder, 1 kg",
+        "lt": "Ekologiški aronijų (serbentų) milteliai, 1 kg"
+      },
+      "description": "<p>Organic aronia (chokeberry) powder - single ingredient, vegan. Supplied by Urbanfood (UAB Kvalitetas), Lithuania. Organic production under Regulation (EU) 2018/848.</p>",
+      "short_description": "Single-ingredient organic aronia (chokeberry) powder from Urbanfood (UAB Kvalitetas), Lithuania. Dried, milled, vegan. Draft entry - not for sale.",
+      "sku": null,
+      "brand": "Urbanfood",
+      "price": 54,
+      "base_price": 54,
+      "sale_price": null,
+      "currency": "EUR",
+      "images": [
+        "https://valesugerove.lt/assets/product-1795086646936-53paoe.webp"
+      ],
+      "in_stock": false,
+      "stock_status": "out_of_stock",
+      "url": "https://valesugerove.lt/product/organic-aronia-chokeberry-powder-1-kg-5iolm8",
+      "categories": [
+        "Traditional Herbal Products"
+      ],
+      "updated_at": "2026-11-19T11:33:19.874Z"
+    },
     {
       "id": "5ea7c33d-32b7-4438-8de5-afd2b4717742",
       "slug": "vitamin-d3-k2-drops-50-ml-dkuoae",
