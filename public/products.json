@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-11-19T11:36:06.105Z",
+  "generated_at": "2026-11-19T11:37:31.101Z",
   "base_url": "https://valesugerove.lt",
   "currency": "EUR",
   "count": 9,
   "products": [
     {
       "id": "864dc070-c068-4b2f-b417-1d5a78f9b042",
-      "slug": "organic-dandelion-leaf-powder-1-kg-i1cq24",
+      "slug": "organic-dandelion-leaf-powder-1-kg-oqoxln",
       "name": "Organic Dandelion Leaf Powder, 1 kg",
       "name_translations": {
         "en": "Organic Dandelion Leaf Powder, 1 kg",
@@ -26,15 +26,15 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://valesugerove.lt/product/organic-dandelion-leaf-powder-1-kg-i1cq24",
+      "url": "https://valesugerove.lt/product/organic-dandelion-leaf-powder-1-kg-oqoxln",
       "categories": [
         "Traditional Herbal Products"
       ],
-      "updated_at": "2026-11-19T11:34:33.766Z"
+      "updated_at": "2026-11-19T11:36:27.754Z"
     },
     {
       "id": "dd0db160-0585-4a51-af78-49de3563b386",
-      "slug": "organic-nettle-powder-1-kg-0duagj",
+      "slug": "organic-nettle-powder-1-kg-kmgjn2",
       "name": "Organic Nettle Powder, 1 kg",
       "name_translations": {
         "en": "Organic Nettle Powder, 1 kg",
@@ -53,19 +53,19 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://valesugerove.lt/product/organic-nettle-powder-1-kg-0duagj",
+      "url": "https://valesugerove.lt/product/organic-nettle-powder-1-kg-kmgjn2",
       "categories": [
         "Traditional Herbal Products"
       ],
-      "updated_at": "2026-11-19T11:34:46.339Z"
+      "updated_at": "2026-11-19T11:36:37.329Z"
     },
     {
       "id": "6f15788f-7df6-4396-a715-9f34820129c1",
-      "slug": "organic-sea-buckthorn-fibre-1-kg-jvggm3",
+      "slug": "organic-sea-buckthorn-fibre-1-kg-ir09zy",
       "name": "Organic Sea Buckthorn Fibre, 1 kg",
       "name_translations": {
         "en": "Organic Sea Buckthorn Fibre, 1 kg",
-        "lt": "Ekologiški šaltalankių skaidulos, 1 kg"
+        "lt": "Ekologiški šaltalankių pluoštai, 1 kg"
       },
       "description": "<p>Dried, ground organic sea buckthorn berries (fibre), 100%. No preservatives, no other additives. GMO-free (Reg. (EU) 1829/2003). Origin: EU agriculture. Organic production under Regulation (EU) 2018/848. Colour: yellow to orange, turning brown; flavour: slightly sour. Suitable for vegans and vegetarians. Shelf life: 24 months after production. Store in a cool, dark, dry place. Nutritional values per 100 g (supplier specification): energy 1736 kJ / 416 kcal; fat 16.7 g, of which saturates 3.2 g; carbohydrate 36.9 g, of which sugars 3.4 g; fibre 18.1 g; protein 20.5 g; salt &lt; 0.1 g. Supplied by Urbanfood (UAB Kvalitetas), Lithuania.</p>",
       "short_description": "Single-ingredient organic sea buckthorn fibre (dried, ground sea buckthorn berries, Hippophae rhamnoides) from Urbanfood (UAB Kvalitetas), Lithuania. Vegan. Draft entry - not for sale.",
@@ -80,19 +80,19 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://valesugerove.lt/product/organic-sea-buckthorn-fibre-1-kg-jvggm3",
+      "url": "https://valesugerove.lt/product/organic-sea-buckthorn-fibre-1-kg-ir09zy",
       "categories": [
         "Traditional Herbal Products"
       ],
-      "updated_at": "2026-11-19T11:35:06.773Z"
+      "updated_at": "2026-11-19T11:36:54.277Z"
     },
     {
       "id": "372a17f0-39c9-4bbb-9852-b153e9d6c23b",
-      "slug": "organic-blackcurrant-powder-1-kg-kulgnw",
+      "slug": "organic-blackcurrant-powder-1-kg-r7o9tu",
       "name": "Organic Blackcurrant Powder, 1 kg",
       "name_translations": {
         "en": "Organic Blackcurrant Powder, 1 kg",
-        "lt": "Ekologiškų juodųjų serbentų milteliai, 1 kg"
+        "lt": "Ekologiški juodųjų serbentų milteliai, 1 kg"
       },
       "description": "<p>Dried organic blackcurrant powder, 100%. No preservatives, no other additives. GMO-free (Reg. (EU) 1829/2003). Origin: EU agriculture. Organic production under Regulation (EU) 2018/848. Colour: uniform dark purple; flavour: slightly sour. Suitable for vegans and vegetarians. Shelf life: 24 months after production. Store in a cool, dark, dry place. Nutritional values per 100 g (supplier specification): energy 1375 kJ / 327 kcal; fat &lt; 0.1 g; carbohydrate 75 g, of which sugars 34 g; fibre 7 g; protein 7 g; salt &lt; 0.01 g. Supplied by Urbanfood (UAB Kvalitetas), Lithuania.</p>",
       "short_description": "Single-ingredient organic blackcurrant (Ribes nigrum) powder from Urbanfood (UAB Kvalitetas), Lithuania. Dried, milled, vegan. Draft entry - not for sale.",
@@ -107,15 +107,15 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://valesugerove.lt/product/organic-blackcurrant-powder-1-kg-kulgnw",
+      "url": "https://valesugerove.lt/product/organic-blackcurrant-powder-1-kg-r7o9tu",
       "categories": [
         "Traditional Herbal Products"
       ],
-      "updated_at": "2026-11-19T11:35:24.106Z"
+      "updated_at": "2026-11-19T11:37:06.107Z"
     },
     {
       "id": "34bbcdc8-22fd-4689-b227-00788eefbcfb",
-      "slug": "organic-aronia-chokeberry-powder-1-kg-2gqh07",
+      "slug": "organic-aronia-chokeberry-powder-1-kg-bweda8",
       "name": "Organic Aronia (Chokeberry) Powder, 1 kg",
       "name_translations": {
         "en": "Organic Aronia (Chokeberry) Powder, 1 kg",
@@ -134,11 +134,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://valesugerove.lt/product/organic-aronia-chokeberry-powder-1-kg-2gqh07",
+      "url": "https://valesugerove.lt/product/organic-aronia-chokeberry-powder-1-kg-bweda8",
       "categories": [
         "Traditional Herbal Products"
       ],
-      "updated_at": "2026-11-19T11:35:33.684Z"
+      "updated_at": "2026-11-19T11:37:19.319Z"
     },
     {
       "id": "5ea7c33d-32b7-4438-8de5-afd2b4717742",
