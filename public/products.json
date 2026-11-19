@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-11-19T11:34:46.284Z",
+  "generated_at": "2026-11-19T11:35:40.864Z",
   "base_url": "https://valesugerove.lt",
   "currency": "EUR",
   "count": 9,
@@ -57,15 +57,15 @@
       "categories": [
         "Traditional Herbal Products"
       ],
-      "updated_at": "2026-11-19T11:34:31.878Z"
+      "updated_at": "2026-11-19T11:34:46.339Z"
     },
     {
       "id": "6f15788f-7df6-4396-a715-9f34820129c1",
-      "slug": "organic-sea-buckthorn-fibre-1-kg-hftzpo",
+      "slug": "organic-sea-buckthorn-fibre-1-kg-jvggm3",
       "name": "Organic Sea Buckthorn Fibre, 1 kg",
       "name_translations": {
         "en": "Organic Sea Buckthorn Fibre, 1 kg",
-        "lt": "Ekologiški šaltalankių pluoštai, 1 kg"
+        "lt": "Ekologiški šaltalankių skaidulos, 1 kg"
       },
       "description": "<p>Dried, ground organic sea buckthorn berries (fibre), 100%. No preservatives, no other additives. GMO-free (Reg. (EU) 1829/2003). Origin: EU agriculture. Organic production under Regulation (EU) 2018/848. Colour: yellow to orange, turning brown; flavour: slightly sour. Suitable for vegans and vegetarians. Shelf life: 24 months after production. Store in a cool, dark, dry place. Nutritional values per 100 g (supplier specification): energy 1736 kJ / 416 kcal; fat 16.7 g, of which saturates 3.2 g; carbohydrate 36.9 g, of which sugars 3.4 g; fibre 18.1 g; protein 20.5 g; salt &lt; 0.1 g. Supplied by Urbanfood (UAB Kvalitetas), Lithuania.</p>",
       "short_description": "Single-ingredient organic sea buckthorn fibre (dried, ground sea buckthorn berries, Hippophae rhamnoides) from Urbanfood (UAB Kvalitetas), Lithuania. Vegan. Draft entry - not for sale.",
@@ -78,17 +78,17 @@
       "images": [
         "https://valesugerove.lt/assets/product-1795086549274-0v31q.webp"
       ],
-      "in_stock": false,
-      "stock_status": "out_of_stock",
-      "url": "https://valesugerove.lt/product/organic-sea-buckthorn-fibre-1-kg-hftzpo",
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://valesugerove.lt/product/organic-sea-buckthorn-fibre-1-kg-jvggm3",
       "categories": [
         "Traditional Herbal Products"
       ],
-      "updated_at": "2026-11-19T11:33:38.889Z"
+      "updated_at": "2026-11-19T11:35:06.773Z"
     },
     {
       "id": "372a17f0-39c9-4bbb-9852-b153e9d6c23b",
-      "slug": "organic-blackcurrant-powder-1-kg-r50mo9",
+      "slug": "organic-blackcurrant-powder-1-kg-kulgnw",
       "name": "Organic Blackcurrant Powder, 1 kg",
       "name_translations": {
         "en": "Organic Blackcurrant Powder, 1 kg",
@@ -105,17 +105,17 @@
       "images": [
         "https://valesugerove.lt/assets/product-1795086596667-cqzncn.webp"
       ],
-      "in_stock": false,
-      "stock_status": "out_of_stock",
-      "url": "https://valesugerove.lt/product/organic-blackcurrant-powder-1-kg-r50mo9",
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://valesugerove.lt/product/organic-blackcurrant-powder-1-kg-kulgnw",
       "categories": [
         "Traditional Herbal Products"
       ],
-      "updated_at": "2026-11-19T11:34:12.056Z"
+      "updated_at": "2026-11-19T11:35:24.106Z"
     },
     {
       "id": "34bbcdc8-22fd-4689-b227-00788eefbcfb",
-      "slug": "organic-aronia-chokeberry-powder-1-kg-5iolm8",
+      "slug": "organic-aronia-chokeberry-powder-1-kg-2gqh07",
       "name": "Organic Aronia (Chokeberry) Powder, 1 kg",
       "name_translations": {
         "en": "Organic Aronia (Chokeberry) Powder, 1 kg",
@@ -132,13 +132,13 @@
       "images": [
         "https://valesugerove.lt/assets/product-1795086646936-53paoe.webp"
       ],
-      "in_stock": false,
-      "stock_status": "out_of_stock",
-      "url": "https://valesugerove.lt/product/organic-aronia-chokeberry-powder-1-kg-5iolm8",
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://valesugerove.lt/product/organic-aronia-chokeberry-powder-1-kg-2gqh07",
       "categories": [
         "Traditional Herbal Products"
       ],
-      "updated_at": "2026-11-19T11:33:19.874Z"
+      "updated_at": "2026-11-19T11:35:33.684Z"
     },
     {
       "id": "5ea7c33d-32b7-4438-8de5-afd2b4717742",
